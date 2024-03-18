@@ -21,7 +21,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("logs/avenidas_novas_regions_log.log"),  # Log to this file
+                        logging.FileHandler("logs/misericordia_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -146,7 +146,7 @@ def scrape_all_urls(driver, url, existing_data):
                                 logging.info(f"Price updated for {entry['link']} from {entry['original price']} to {new_listing['price']} on {entry['date of price update']}")
 
                             # Update other details as needed, excluding specific fields to avoid overwriting important info
-                            entry.update({k: new_listing[k] for k in new_listing if k not in ['região', 'added_on', 'price', 'original price']})
+                            entry.update({k: new_listing[k] for k in new_listing if k not in ['added_on', 'price', 'original price']})
                             break
                     
             else:
@@ -236,15 +236,16 @@ def main_scraping_process(driver, base_urls, file_path):
 
         
 if __name__ == "__main__":
-    base_url = ["https://www.idealista.pt/arrendar-casas/avenidas-novas/bairro-azul-parque-eduardo-vii/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/campo-pequeno/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/entrecampos/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/gulbenkian-praca-espanha/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/sao-sebastiao-da-pedreira/?ordem=atualizado-desc"
+    base_url = ["https://www.idealista.pt/arrendar-casas/misericordia/bairro-alto/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/misericordia/bica/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/misericordia/cais-do-sodre-santos/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/misericordia/chiado-pc-de-camoes/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/misericordia/principe-real-sao-bento/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/misericordia/santa-catarina/?ordem=atualizado-desc"
                 ]
                 
 
-    file_path = "data/json/avenidas_novas_regions.json"
+    file_path = "data/json/misericordia_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time

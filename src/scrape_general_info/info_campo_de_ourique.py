@@ -21,7 +21,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("campo_de_ourique_log.log"),  # Log to this file
+                        logging.FileHandler("logs/campo_de_ourique_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -56,9 +56,9 @@ def save_data_to_file(data, file_path):
         
         logging.info(f"Data successfully saved to {file_path}.")
         
-    df = pd.DataFrame(data)
-    excel_file_path = file_path.replace('.json', '.xlsx')
-    df.to_excel(excel_file_path, index=False)
+    #df = pd.DataFrame(data)
+    #excel_file_path = file_path.replace('.json', '.xlsx')
+    #df.to_excel(excel_file_path, index=False)
 
     
 def extract_listings(html_content, tag):
@@ -146,7 +146,7 @@ def scrape_all_urls(driver, url, existing_data):
                                 logging.info(f"Price updated for {entry['link']} from {entry['original price']} to {new_listing['price']} on {entry['date of price update']}")
 
                             # Update other details as needed, excluding specific fields to avoid overwriting important info
-                            entry.update({k: new_listing[k] for k in new_listing if k not in ['região', 'added_on', 'price', 'original price']})
+                            entry.update({k: new_listing[k] for k in new_listing if k not in ['added_on', 'price', 'original price']})
                             break
                     
             else:
@@ -214,19 +214,20 @@ def update_listings_to_rented(existing_data, file_path):
             save_data_to_file(existing_data, file_path)  # Save the updated data once after all updates
     
 
-def main_scraping_process(driver, base_url, file_path):
+def main_scraping_process(driver, base_urls, file_path):
     global all_scraped_urls
     all_scraped_urls = set()  # Initialize as a set
 
     existing_data = load_existing_data(file_path)  # Load data once at the start
 
-    url = base_url
-    while url:
-        scrape_all_urls(driver, url, existing_data)  # Pass existing_data directly
-        url = go_next_page(driver)
+    for base_url in base_urls:
+        url = base_url
+        while url:
+            scrape_all_urls(driver, url, existing_data)  # Pass existing_data directly
+            url = go_next_page(driver)
 
-    # Pass both existing_data and file_path to update_listings_to_rented
-    update_listings_to_rented(existing_data, file_path)  # Corrected argument list
+        # Pass both existing_data and file_path to update_listings_to_rented
+        update_listings_to_rented(existing_data, file_path)  # Corrected argument list
 
     save_data_to_file(existing_data, file_path)  # Save the updated data once after all updates
 
@@ -235,8 +236,15 @@ def main_scraping_process(driver, base_url, file_path):
 
         
 if __name__ == "__main__":
-    base_url = "https://www.idealista.pt/arrendar-casas/lisboa/campo-de-ourique/?ordem=atualizado-desc"
-    file_path = "campo_de_ourique.json"
+    base_url = ["https://www.idealista.pt/arrendar-casas/campo-de-ourique/amoreiras/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campo-de-ourique/centro/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campo-de-ourique/largo-do-rato-estrela/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campo-de-ourique/prazeres-maria-pia/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campo-de-ourique/santa-isabel/?ordem=atualizado-desc"
+                ]
+                
+
+    file_path = "data/json/campo_de_ourique_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time

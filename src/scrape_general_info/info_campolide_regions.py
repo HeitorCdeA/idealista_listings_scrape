@@ -21,7 +21,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("1_general_info_campolide_regions_log.log"),  # Log to this file
+                        logging.FileHandler("logs/info_campolide_regions_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -56,9 +56,9 @@ def save_data_to_file(data, file_path):
         
         logging.info(f"Data successfully saved to {file_path}.")
         
-    df = pd.DataFrame(data)
-    excel_file_path = file_path.replace('.json', '.xlsx')
-    df.to_excel(excel_file_path, index=False)
+    #df = pd.DataFrame(data)
+    #excel_file_path = file_path.replace('.json', '.xlsx')
+    #df.to_excel(excel_file_path, index=False)
 
     
 def extract_listings(html_content, tag):
@@ -146,7 +146,7 @@ def scrape_all_urls(driver, url, existing_data):
                                 logging.info(f"Price updated for {entry['link']} from {entry['original price']} to {new_listing['price']} on {entry['date of price update']}")
 
                             # Update other details as needed, excluding specific fields to avoid overwriting important info
-                            entry.update({k: new_listing[k] for k in new_listing if k not in ['região', 'added_on', 'price', 'original price']})
+                            entry.update({k: new_listing[k] for k in new_listing if k not in ['added_on', 'price', 'original price']})
                             break
                     
             else:
@@ -244,7 +244,7 @@ if __name__ == "__main__":
                 ]
                 
 
-    file_path = "campolide_regions.json"
+    file_path = "data/json/campolide_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time
