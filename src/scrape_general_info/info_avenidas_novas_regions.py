@@ -21,7 +21,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("avenidas_novas_campo_pequeno_log.log"),  # Log to this file
+                        logging.FileHandler("logs/avenidas_novas_regions_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -244,7 +244,7 @@ if __name__ == "__main__":
                 ]
                 
 
-    file_path = "avenidas_novas_regions.json"
+    file_path = "data/json/avenidas_novas_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time
