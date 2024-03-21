@@ -10,6 +10,7 @@ from datetime import datetime
 import requests
 import os
 from selenium.webdriver.chrome.service import Service
+from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -21,7 +22,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("alvalade_regions_log.log"),  # Log to this file
+                        logging.FileHandler("logs/alvalade_regions_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -56,9 +57,9 @@ def save_data_to_file(data, file_path):
         
         logging.info(f"Data successfully saved to {file_path}.")
         
-    df = pd.DataFrame(data)
-    excel_file_path = file_path.replace('.json', '.xlsx')
-    df.to_excel(excel_file_path, index=False)
+    #df = pd.DataFrame(data)
+    #excel_file_path = file_path.replace('.json', '.xlsx')
+    #df.to_excel(excel_file_path, index=False)
 
     
 def extract_listings(html_content, tag):
@@ -242,7 +243,7 @@ if __name__ == "__main__":
                 ]
                 
 
-    file_path = "alvalade_regions.json"
+    file_path = "data/json/alvalade_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time

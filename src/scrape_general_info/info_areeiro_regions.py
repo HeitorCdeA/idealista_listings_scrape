@@ -21,7 +21,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("logs/1_general_info_estrela_regions_log.log"),  # Log to this file
+                        logging.FileHandler("logs/areeiro_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -146,7 +146,7 @@ def scrape_all_urls(driver, url, existing_data):
                                 logging.info(f"Price updated for {entry['link']} from {entry['original price']} to {new_listing['price']} on {entry['date of price update']}")
 
                             # Update other details as needed, excluding specific fields to avoid overwriting important info
-                            entry.update({k: new_listing[k] for k in new_listing if k not in ['região', 'added_on', 'price', 'original price']})
+                            entry.update({k: new_listing[k] for k in new_listing if k not in ['added_on', 'price', 'original price']})
                             break
                     
             else:
@@ -236,14 +236,16 @@ def main_scraping_process(driver, base_urls, file_path):
 
         
 if __name__ == "__main__":
-    base_url = ["https://www.idealista.pt/arrendar-casas/estrela/alcantara/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/estrela/lapa/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/estrela/prazeres/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/estrela/santos-o-velho-madragoa/?ordem=atualizado-desc"
+    base_url = ["https://www.idealista.pt/arrendar-casas/areeiro/arco-do-cego/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/areeiro/av-de-roma-campo-pequeno/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/areeiro/bairro-dos-actores/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/areeiro/casal-vistoso/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/areeiro/centro/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/areeiro/olaias/?ordem=atualizado-desc",
                 ]
                 
 
-    file_path = "data/json/estrela_regions.json"
+    file_path = "data/json/areeiro_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time
