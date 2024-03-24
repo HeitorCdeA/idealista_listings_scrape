@@ -4,9 +4,9 @@
         "title": "Apartamento T0 em Bairro Alto, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33267962/",
         "price": "750€/mês",
-        "details": "T0 | 25 m² área bruta | sem elevador | 14 mar",
+        "details": "T0 | 25 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 11/07/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 1\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -14,10 +14,10 @@
         "title": "Apartamento T1 na travessa da Queimada, Bairro Alto, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33260307/",
         "price": "1.000€/mês",
-        "details": "T1 | 40 m² área bruta | 3º andar sem elevador | 11 mar",
+        "details": "T1 | 40 m² área bruta | 3º andar sem elevador",
         "description": "Bairro Alto, apartamento T1 remodelado, mobilado e equipado.\nComposto por 1 sala, 1 quarto, 1 cozinha equipada e 1 casa de banho.\n3º Andar inserido em prédio de traça antiga em bom estado de conservação.\nA localização é excelente, situado no Bairro Alto a 5 minutos a pé do Chiado.\nJunto a todo o tipo de comércio e",
         "advertiser": "Vilaça Monte Imobiliária",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -27,7 +27,7 @@
         "price": "2.500€/mês",
         "details": "T2 | 120 m² área bruta | 2º andar sem elevador",
         "description": "Apartamento T2+1 situado no coração de Lisboa. Pronto para entrar e aproveitar as comodidades de uma sala ampla com uma vista encantadora para as ruas do Bairro Alto, uma suíte magnífica com armários embutidos e um segundo quarto ideal para amigos ou para o resto da família. Pode também contar com uma cozinha totalment",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -37,8 +37,9 @@
         "price": "1.350€/mês",
         "details": "T1 | 50 m² área bruta | 2º andar sem elevador",
         "description": "- Disponível a partir de 18 de Março\n- Contrato mínimo de 6 meses.\nT1 integralmente remodelado e mobilado no centro histórico de Lisboa.\nApartamento localizado a 5 mins a pé do Chiado, 8 min do Rossio, bem servido de transportes incluindo metro, autocarro, e comboio.\nLocalizado no segundo andar com duas varandas com",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "rented",
+        "added_on": "2024-03-18 01:12",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
@@ -47,8 +48,9 @@
         "price": "1.150€/mês",
         "details": "T0 | 45 m² área bruta | Rés do chão sem elevador",
         "description": "Estúdio disponível no coração da cidade\nTotalmente mobiliado. Todas as despesas estão incluídas no aluguel (água + internet + eletricidade).",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "rented",
+        "added_on": "2024-03-18 01:12",
+        "rented on": "2024-03-18 23:40"
     },
     {
         "região": "bairro alto",
@@ -57,19 +59,21 @@
         "price": "2.800€/mês",
         "details": "T2 | 61 m² área bruta | 3º andar sem elevador",
         "description": "Encantador Apartamento de 2 Quartos em Barrio Alto - Seu Oásis Urbano!\nBem-vindo ao Seu Refúgio Aconchegante no Coração de Barrio Alto!\nDescubra a essência do charme e conforto neste lindamente mobiliado apartamento de 2 quartos, situado no vibrante bairro de Barrio Alto, em Lisboa. Entre em um mundo onde a vida moder",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
         "região": "bairro alto",
-        "title": "Apartamento T1 na travessa Inglesinhos, Bairro Alto, Misericórdia",
+        "title": "Apartamento T1 na travessa Inglesinhos, 25, Bairro Alto, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33252538/",
-        "price": "1.300€/mês",
+        "price": "1.200€/mês",
         "details": "T1 | 55 m² área bruta | 3º andar sem elevador",
         "description": "Bairro Alto / Principe Real (junto ao Hospital St. Louis).\nApartamento T1 totalmente mobilado e equipado.\nInserido em Edifício de Traça antiga reabilitado.\nCozinha equipada com placa de vitrocerâmica, microondas, frigorifico, máquina de lavar roupa e termoacumulador.\nEquipada com todos os utensílios de cozinha e roupas",
         "advertiser": "Escadinhas da Cidade",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "available",
+        "added_on": "2024-03-18 01:12",
+        "original price": "1.300€/mês",
+        "date of price update": "2024-03-20 19:16"
     },
     {
         "região": "bairro alto",
@@ -78,7 +82,7 @@
         "price": "3.600€/mês",
         "details": "T3 | 85 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/07/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -88,7 +92,7 @@
         "price": "1.800€/mês",
         "details": "T1 | 40 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 27/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -99,7 +103,7 @@
         "details": "T1 | 80 m² área bruta | 2º andar com elevador",
         "description": "Venha conhecer este apartamento amplo e luminoso, localizado na Praça Camões.\nO imóvel é composto por sala de 31m2 com lareira e varandim com vista para a Praça Camões, com exposição solar este e sul, cozinha equipada, um quarto de 16m2 com roupeiro embutido e uma casa de banho completa.\nFaz também parte da fração um",
         "advertiser": "CENTURY 21 Rodolfo Natário",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -110,7 +114,7 @@
         "details": "T1 | 45 m² área bruta | Rés do chão sem elevador",
         "description": "Disponível em Abril 2024\nApartamento T1 +1 recentemente renovado, inserido na zona do Príncipe Real.\nEste imóvel está localizado numa zona Prime, rua muito sossegada, e o prédio é bastante familiar.\nO apartamento é composto por um quarto, sala de estar, uma casa-de-banho, cozinha equipada (frigorifico, máquina lavar",
         "advertiser": "Worldland Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -120,8 +124,9 @@
         "price": "1.100€/mês",
         "details": "T1 | 45 m² área bruta | 2º andar sem elevador",
         "description": "TERMOS E CONDIÇÕES DE ALOJAMENTO\nData de disponibilidade: imediata\nDuração mínima do aluguer: 6meses\nNúmero máximo de hospedes: 1\nDespesas: custo adicional de 200€ (água, gás, luz, televisão e Wi-Fi)\nAnimais de estimação não permitidos.\nDETALHES DO APARTAMENTO\nApartamento no Bairro Alto, perto do Praça Luís de Camões",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "rented",
+        "added_on": "2024-03-18 01:12",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
@@ -130,7 +135,7 @@
         "price": "1.800€/mês",
         "details": "T1 | 40 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 14/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -139,8 +144,8 @@
         "link": "https://www.idealista.pt/imovel/33191621/",
         "price": "2.000€/mês",
         "details": "T1 | 35 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 10/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 14/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -150,7 +155,7 @@
         "price": "2.000€/mês",
         "details": "T1 | 40 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 06/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -160,18 +165,21 @@
         "price": "2.500€/mês",
         "details": "T2 | 100 m² área bruta | 2º andar com elevador",
         "description": "Apartamento totalmente mobilado (2 quartos + sala + 1wc completo + 1 wc serviço + cozinha equipada) em prédio de charme totalmente renovado.\nLocalização muito central entre o Príncipe Real e o Chiado (2 min da estação Baixa Chiado do Metro) para quem viver no centro da cidade com todas as comodidades.\nÉ arrendado mob",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "rented",
+        "added_on": "2024-03-18 01:12",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
         "title": "Apartamento T1 em Bairro Alto, Misericórdia",
         "link": "https://www.idealista.pt/imovel/32293758/",
-        "price": "750€/mês",
+        "price": "915€/mês",
         "details": "T1 | 35 m² área bruta | 2º andar",
         "description": "[PT] Disponível em: 01/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "available",
+        "added_on": "2024-03-18 01:12",
+        "original price": "750€/mês",
+        "date of price update": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
@@ -180,8 +188,9 @@
         "price": "1.350€/mês",
         "details": "T1 | 50 m² área bruta | 1º andar sem elevador",
         "description": "T1 BAIRRO ALTO (a 3 minutos a pé do Largo Camões)! - Disponível a partir de 15 de Março 2024.\nLocalizado no coração de Lisboa, numa das melhores zonas em pleno Bairro Alto, este encantador apartamento completamente remodelado, disponibiliza acomodação para 2 pessoas.\nA Rua da Trombeta por ter trânsito condicionado a",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "rented",
+        "added_on": "2024-03-18 01:12",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
@@ -190,7 +199,7 @@
         "price": "1.100€/mês",
         "details": "T1 | 50 m² área bruta | 1º andar sem elevador",
         "description": "A 100 metros do Largo do Camões. Edifício Pombalino no Centro histórico da freguesia Misericórdia.\nZona residencial com cafés, restaurantes, bares e todo o tipo de comércio local.\nMetropolitano da Baixa- Chiado a 200 metros.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -200,29 +209,33 @@
         "price": "1.900€/mês",
         "details": "T2 | 50 m² área bruta | 2º andar sem elevador",
         "description": "No coração do Chiado, aqui poderá vivenciar todos os aspectos culturais e históricos da cidade, e também sentir o que há de mais moderno em Lisboa c.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
         "região": "bairro alto",
         "title": "Apartamento T2 em Bairro Alto, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33169941/",
-        "price": "1.480€/mês",
+        "price": "1.380€/mês",
         "details": "T2 | 30 m² área bruta",
         "description": "Imóvel com 2 quartos (3 camas), ambos com janela. Sala com varanda, mesa e quatro cadeiras, sofá e dois roupeiros. Cozinha e wc. Cozinha equipada com forno, placa, exaustor, termo acumulador, frigorífico, microondas, torradeira, chaleira, ventoinha e loiça. Aspirador. Arrendamento para curta ou média duração.\nSituado n",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "available",
+        "added_on": "2024-03-18 01:12",
+        "original price": "1.480€/mês",
+        "date of price update": "2024-03-18 12:51"
     },
     {
         "região": "bairro alto",
         "title": "Apartamento T2 em Bairro Alto, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33161483/",
-        "price": "1.700€/mês",
+        "price": "1.600€/mês",
         "details": "T2 | 85 m² área bruta | 3º andar sem elevador",
         "description": "Apartamento equipado e mobilado, com varandins, na MisericórdiaApartamento T2 mobilado para arrendamento com varandins, duas frentes, situado na Rua da Rosa, com acesso facilitado ao Jardim do Príncipe Real, perto da Calçada do Combro e do Largo do Camões, numa zona com muito comércio tradicional e uma vasta oferta de estabelecimentos de diversão noturna e restauração, muito bem s",
         "advertiser": "Quintela + Penalva | Knight Frank",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "available",
+        "added_on": "2024-03-18 01:12",
+        "original price": "1.700€/mês",
+        "date of price update": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
@@ -231,7 +244,7 @@
         "price": "1.400€/mês",
         "details": "T0 | 41 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 90 dias\n- Número Máximo de Hóspedes: 1\n- Todas as Despesas Incluídas: Sim, para mai",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -241,8 +254,9 @@
         "price": "1.750€/mês",
         "details": "T1 | 71 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mai",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "status": "rented",
+        "added_on": "2024-03-18 01:12",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
@@ -251,7 +265,7 @@
         "price": "1.890€/mês",
         "details": "T3 | 50 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 09/07/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -261,7 +275,7 @@
         "price": "1.890€/mês",
         "details": "T3 | 80 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/06/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 5\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -271,7 +285,7 @@
         "price": "3.314€/mês",
         "details": "T1 | 45 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 03/04/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -281,7 +295,7 @@
         "price": "3.314€/mês",
         "details": "T1 | 50 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 27/05/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -291,7 +305,7 @@
         "price": "1.665€/mês",
         "details": "T1 | 40 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 12/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -300,8 +314,8 @@
         "link": "https://www.idealista.pt/imovel/33146659/",
         "price": "2.590€/mês",
         "details": "T2 | 55 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 23/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 5\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 28/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 5\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -311,7 +325,7 @@
         "price": "2.000€/mês",
         "details": "T3 | 80 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 120 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Não, para ma",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -322,7 +336,7 @@
         "details": "T1 | 40 m² área bruta | 5º andar com elevador",
         "description": "Apartamento para arrendar no Bairro Alto, um dos mais bonitos bairros de Lisboa numa excelente localização a 100m da Calçada do Combro e a 450m da estação de metro da Baixa/Chiado, na proximidade de vários serviços, comércio, escolas e transportes públicos.\nO apartamento esta localizado num 5º andar sem elevador (últim",
         "advertiser": "CENTURY 21 Real",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -333,7 +347,7 @@
         "details": "T3 | 97 m² área bruta",
         "description": "Apartamento mobilado T3 com  um quarto interior.\nAs condições de arrendamento: Contrato de arrendamento de 3 anos.\n2 meses de renda2 mês de cauçãoDocumentos a comprovar os rendimentosFiador a comprovar os rendimentos.\nProprietario não aceita ALOJAMENTO LOCAL e subarrendamento do contrato. Sala com ar condicionado e com",
         "advertiser": "Remax Team Forever",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -343,7 +357,7 @@
         "price": "1.750€/mês",
         "details": "T1 | 72 m² área bruta | 4º andar com elevador",
         "description": "Apartamento arejado e luminoso em 4°andar de prédio renovado com elevador junto à Praça Luís de Camões no Chiado.\nTotalmente equipado com:\nMáquina de loiça\nMáquina de lavar e secar roupa\nFogão e forno eléctricos\nExaustor\nTermoacumulador\nFrigorífico combinado com congelador\nMicroondas, chaleira, máquina de café e torr",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -353,7 +367,7 @@
         "price": "1.200€/mês",
         "details": "T2 | 50 m² área bruta | 3º andar sem elevador",
         "description": "",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -363,7 +377,7 @@
         "price": "3.000€/mês",
         "details": "T1 | 102 m² área bruta | 4º andar sem elevador",
         "description": "Apartamento T1 na Praça Luís de Camões, no Chiado, com varanda e muito espaçoso, próximo da estação de autocarro e do metro do Chiado. Confortável, decorado, pronto a habitar, com cozinha completa, ar condicionado e máquinas de lavar roupa e loiça.\nDespesas de água, electricidade e internet estão incluídas na renda me",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -373,7 +387,7 @@
         "price": "2.750€/mês",
         "details": "T3 | 135 m² área bruta | 2º andar sem elevador",
         "description": "Maravilhoso e luminoso apartamento T3 no coração do Principe Real!\nApenas a 1 minuto de distância do miradouro de São Pedro de Alcântara.\nEste apartamento recentemente reabilitado tem 3 quartos, um dos quais suite com closet. Outro quarto grande com roupeiro e ainda um 3º quarto que pode ser também usado como escritóri",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -382,8 +396,8 @@
         "link": "https://www.idealista.pt/imovel/33086158/",
         "price": "6.500€/mês",
         "details": "T2 | 50 m² área bruta | 3º andar",
-        "description": "[PT] Disponível em: 29/06/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 29/06/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 05/08/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 05/08/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -393,7 +407,7 @@
         "price": "4.000€/mês",
         "details": "T2 | 50 m² área bruta | 2º andar",
         "description": "[PT] Disponível em: 27/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 27/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -402,8 +416,8 @@
         "link": "https://www.idealista.pt/imovel/33086063/",
         "price": "3.200€/mês",
         "details": "T2 | 50 m² área bruta | 3º andar",
-        "description": "[PT] Disponível em: 10/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 10/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 17/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 17/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -413,7 +427,7 @@
         "price": "1.100€/mês",
         "details": "T0 | 32 m² área bruta | Rés do chão com elevador",
         "description": "Bairro Alto / Principe Real (junto ao Hospital St. Louis).\nEstúdio totalmente mobilado e equipado.\nCozinha equipada com placa de vitrocerâmica, forno e, frigorifico.\nEsquentador para banhos mais longos e quentinhos!\nEquipada com todos os utensílios de cozinha e roupas de cama.\nConsumos de electricidade, água e i",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -424,7 +438,7 @@
         "details": "T1 | 57 m² área bruta",
         "description": "Apartamento T1+1 para arrendamento\nApartamento situado no Bairro Alto, Rua Diario de noticias, composto por Sala de estar, sala de jantar, 1 Casa de Banho e Cozinha equipadaRenovado\nMobilado3º andar em prédio sem elevadorSituado numa das zonas mais emblemáticas da cidade de Lisboa, proximo de todo o tipo de transportes",
         "advertiser": "RE/MAX Collection Siimgroup",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -434,7 +448,7 @@
         "price": "2.300€/mês",
         "details": "T3 | 60 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 60 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mai",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -444,7 +458,7 @@
         "price": "1.650€/mês",
         "details": "T3 | 100 m² área bruta",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 05/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -455,7 +469,7 @@
         "details": "T0 | 64 m² área bruta",
         "description": "Apartamento T0 com 64m2 (com logradouro), no Bairro Alto/Chiado (arrendamento).\nEste apartamento T0 está localizado na R. da Atalaia, no coração do histórico Bairro Alto, e tem uma área total de 76 m2 (incluindo o logradouro).\nEste imóvel foi cuidadosamente remodelado e decorado, oferecendo um espaço acolhedor e prátic",
         "advertiser": "RE/MAX Expo",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -465,7 +479,7 @@
         "price": "2.500€/mês",
         "details": "T1 | 40 m² área bruta | 1º andar sem elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*ALUGUER MENSAL DE 1 A 11 MESES*\nTravessa Fieis de Deus - Apartamento para arrendar\nDISPONÍVEL A PARTIR DE 23 DE FEVEREIRO\nEste encantador apartamento de um quarto está localizado no coração e centro do Bairro Alto, na Travessa dos Fiéis de Deus, um dos bairros mais antigos, centrais e diver",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -475,7 +489,7 @@
         "price": "2.400€/mês",
         "details": "T3 | 95 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 25/06/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -485,7 +499,7 @@
         "price": "1.500€/mês",
         "details": "T1 | 55 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/06/2024\n- Duração Mínima de Aluguer: 90 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -495,7 +509,7 @@
         "price": "3.400€/mês",
         "details": "T4 | 90 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 23/06/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 8\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -505,7 +519,7 @@
         "price": "1.750€/mês",
         "details": "T2 | 50 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento T2, no Chiado / Bairro Alto para Arrendar, Deslumbrante vista e muito sol.\nApartamento totalmente equipado e mobilado.\nIncluí acesso Wi-Fi, água, luz.\nExcelente localização.\nO apartamento fica junto ao Largo de Camões e Largo do Chiado com uma vista magnifica, muito proximo da estação de metro Baixa-Chi",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -515,7 +529,7 @@
         "price": "1.250€/mês",
         "details": "T1 | 50 m² área bruta | 2º andar sem elevador",
         "description": "Very small T1/studio with furnitures for 12 months contract\ndouble glazed high quality window door in both sides. Both toilet and kitchen have windows. In pedestrian street no car. pictures illustrative\n600 meters to train/ metro restaurandores or Av. liberdade. 900m to river side /train( to direction of nova univer",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -525,17 +539,17 @@
         "price": "2.160€/mês",
         "details": "T1 | 60 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 29/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
         "região": "bairro alto",
-        "title": "Apartamento T4 na rua da Rosa, 188, Bairro Alto, Misericórdia",
+        "title": "Apartamento T3 na rua da Rosa, 188, Bairro Alto, Misericórdia",
         "link": "https://www.idealista.pt/imovel/32631323/",
         "price": "2.450€/mês",
-        "details": "T4 | 95 m² área bruta | 2º andar sem elevador",
+        "details": "T3 | 95 m² área bruta | 2º andar sem elevador",
         "description": "Olá, estou alugando meu apartamento no Bairro Alto a partir de 1º de junho: apartamento charmoso com 4 quartos. Totalmente restaurado para sua beleza histórica original e completamente renovado e modernizado. Uma joia rara, localizada em uma das ruas mais emblemáticas do Bairro Alto. Totalmente mobiliado e equipado e e",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -546,7 +560,7 @@
         "details": "T2 | 105 m² área bruta | 1º andar com elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 13-05-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,880* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -556,7 +570,7 @@
         "price": "1.550€/mês",
         "details": "T1 | 60 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento T1+1, no Chiado / Bairro Alto para Arrendar.\nApartamento totalmente equipado e mobilado com ar condicionado.\nIncluí acesso Wi-Fi, água, luz.\nExcelente localização.\nO apartamento fica junto ao Largo de Camões e Largo do Chiado com uma vista magnifica, muito proximo da estação de metro Baixa-Chiado, a 5 m",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -565,9 +579,10 @@
         "link": "https://www.idealista.pt/imovel/32293759/",
         "price": "749€/mês",
         "details": "T1 | 30 m² área bruta | 3º andar",
-        "description": "[PT] Disponível em: 23/02/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 23/02/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
-        "status": "new",
-        "added_on": "2024-03-18 01:12"
+        "description": "[PT] Disponível em: 20/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 20/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
+        "status": "rented",
+        "added_on": "2024-03-18 01:12",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "bairro alto",
@@ -577,7 +592,7 @@
         "details": "T3 | 196 m² área bruta",
         "description": "O Convento dos Inglesinhos, monumento histórico do século XVII situado em plena malha urbana do Bairro Alto, um dos bairros mais antigos e tradicionais de Lisboa, destaca-se pela localização, a arquitectura religiosa, a beleza dos painéis de azulejos, as escadarias, os jardins exteriores e a Igreja. Fruto de uma interv",
         "advertiser": "RE/MAX G4 Cais",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -588,7 +603,7 @@
         "details": "T3 | 196 m² área bruta | Rés do chão com elevador",
         "description": "O Convento dos Inglesinhos, monumento histórico do século XVII situado em plena malha urbana do Bairro Alto, um dos bairros mais antigos e tradicionais de Lisboa, destaca-se pela localização, a arquitectura religiosa, a beleza dos painéis de azulejos, as escadarias, os jardins exteriores e a Igreja. Fruto de uma interv",
         "advertiser": "Fátima Aly - RE/MAX",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -598,7 +613,7 @@
         "price": "1.200€/mês",
         "details": "T1 | 65 m² área bruta | 3º andar sem elevador",
         "description": "T1 + 1 no Bairro Alto.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:12"
     },
     {
@@ -606,10 +621,10 @@
         "title": "Apartamento T1 na rua do Almada, Bica, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33265396/",
         "price": "950€/mês",
-        "details": "T1 | 35 m² área bruta | Rés do chão sem elevador | 13 mar",
+        "details": "T1 | 35 m² área bruta | Rés do chão sem elevador",
         "description": "T1 | Remodelado | Bica | Centro de Lisboa\nApartamento T1 situado no bairro da bica, junto do miradouro do Adamastor, remodelado, com cozinha semi-equipada e pronto a habitar.\nLocalizado no centro de Lisboa, na zona histórica da cidade, rodeado de todo o tipo de serviços, comércio e transportes a poucos minutos de dis",
         "advertiser": "Team Paulo Costa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -617,20 +632,21 @@
         "title": "Apartamento T1 na rua da Bica de Duarte Belo, 2 numero, Bica, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33260988/",
         "price": "1.250€/mês",
-        "details": "T1 | 40 m² área bruta | 3º andar sem elevador | 11 mar",
+        "details": "T1 | 40 m² área bruta | 3º andar sem elevador",
         "description": "Andar situado na Bica com muita lux, tem duas varandas, onde estão uma mesa e duas cadeiras.\nEstá totalmete equipado.\nTem apenas um quarto e duas salas.",
-        "status": "new",
-        "added_on": "2024-03-18 01:13"
+        "status": "rented",
+        "added_on": "2024-03-18 01:13",
+        "rented on": "2024-03-24 16:13"
     },
     {
         "região": "bica",
         "title": "Apartamento T2 em Bica, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33256788/",
         "price": "2.500€/mês",
-        "details": "T2 | 65 m² área bruta | 4º andar sem elevador | 11 mar",
+        "details": "T2 | 65 m² área bruta | 4º andar sem elevador",
         "description": "turnkey Studio + Loft, with Tagus River view: a brand new two bedroom Duplex Apartment, for rent.\nLocated in Bica neighbourhood | Misericórdia, one of the most central areas of Lisbon.\nWalking distance from Chiado, Bairro Alto, Cais do Sodré and Adamastor, near the Pharmacy Museum and Santa Catarina viewpoint.\nAp",
         "advertiser": "KW Select",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -641,7 +657,7 @@
         "details": "T3 | 97 m² área bruta | Rés do chão sem elevador",
         "description": "Apartamento de dois quartos disponível para arrendamento, sem mobília, localizado numa das freguesias mais emblemáticas de Lisboa, a freguesia da Misericórdia.\nEste encantador imóvel é composto por uma sala de estar e sala de jantar inundadas pelo sol, dois quartos acolhedores, uma cozinha semi-equipada e uma casa de",
         "advertiser": "Century 21 - CasaBela",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -652,7 +668,7 @@
         "details": "T1 | 50 m² área bruta | 4º andar sem elevador",
         "description": "Experience the epitome of modern living in the vibrant Bica neighbourhood of Lisbon with this stunning, brand new renovated apartment! Boasting contemporary design and meticulous attention to detail, this 1-bedroom gem offers the perfect blend of style, comfort, and convenience.\nStep inside and be greeted by a beautif",
         "advertiser": "HomeRun",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -663,7 +679,7 @@
         "details": "T2 | 65 m² área bruta",
         "description": "T2 totalmente remodelado a estrear, com duas casas de banho. Área social em open-space no piso inferior, e dois quartos no piso superior.\nAmbos os pisos beneficiam de vista para o Rio Tejo. Este imóvel está inserido num quarto andar sem elevador, em prédio em placa totalmente remodelado. Favorecido pela luminosidade d",
         "advertiser": "Engel & Völkers Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -673,8 +689,9 @@
         "price": "1.000€/mês",
         "details": "T1 | 30 m² área bruta | 1º andar sem elevador",
         "description": "Este charmoso apartamento de tipologia T0, totalmente reabilitado e renovado é uma oportunidade a não perder!\nApartamento T0 com 30 m2, remodelado, localizado no Bairro Alto, perto da Praça Luís de Camões.\nCharmoso apartamento T0, sala e quarto, cozinha equipada (placa, mini forno, micro-ondas, exaustor, frigorifico,",
-        "status": "new",
-        "added_on": "2024-03-18 01:13"
+        "status": "rented",
+        "added_on": "2024-03-18 01:13",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "bica",
@@ -683,7 +700,7 @@
         "price": "1.400€/mês",
         "details": "T1 | 45 m² área bruta | 1º andar sem elevador",
         "description": "APARTAMENTO T1 - Disponível a partir de Março\nTotalmente remodelado, equipado e mobilado, situado em zona histórica e movimentada.\nSituado perto do famoso Elevador da Bica, com excelente acessibilidade de transportes, restaurantes e lojas de conveniência e diversos serviços de comercio local.\nDISPÕE DE 1 WC / 1 QUAR",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -693,7 +710,7 @@
         "price": "3.500€/mês",
         "details": "T3 | 220 m² área bruta | 2º andar com elevador",
         "description": "Duplex T3 no coração do Chiado com vistas para o Rio Tejo e junto ao famoso Miradouro do AdamastorMaravilhoso Duplex no coração do Chiado com vistas para o Rio Tejo e junto ao famoso miradouro do adamastor.\nSobre esta magnífica propriedade\nEste espetacular Duplex ocupa o segundo andar de um edifício histórico reabilitado, imergindo no cenário encantador do centro histórico de Lisboa. Com uma área generosa de 220m",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -703,7 +720,7 @@
         "price": "900€/mês",
         "details": "T1 | 45 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/07/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -712,8 +729,8 @@
         "link": "https://www.idealista.pt/imovel/33091340/",
         "price": "2.270€/mês",
         "details": "T2 | 80 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 20/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 28/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -723,7 +740,7 @@
         "price": "920€/mês",
         "details": "T1 | 55 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 115 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para ma",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -733,7 +750,7 @@
         "price": "2.300€/mês",
         "details": "T1 | 50 m² área bruta | Rés do chão",
         "description": "[PT] Disponível em: 24/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 24/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -743,7 +760,7 @@
         "price": "1.850€/mês",
         "details": "T2 | 55 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 115 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para ma",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -753,7 +770,7 @@
         "price": "3.250€/mês",
         "details": "T3 | 135 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 5\n- Todas as Despesas Incluídas: Não, para mai",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -762,8 +779,8 @@
         "link": "https://www.idealista.pt/imovel/32694865/",
         "price": "1.510€/mês",
         "details": "T1 | 50 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 22/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 07/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -772,8 +789,8 @@
         "link": "https://www.idealista.pt/imovel/32694860/",
         "price": "1.940€/mês",
         "details": "T1 | 45 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 24/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 17/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -783,7 +800,7 @@
         "price": "1.093€/mês",
         "details": "T1 | 65 m² área bruta | 2º andar com elevador",
         "description": "[PT] Disponível em: 01/07/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/07/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -791,10 +808,10 @@
         "title": "Apartamento T2 em Cais do Sodré - Santos, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33262152/",
         "price": "1.300€/mês",
-        "details": "T2 | 40 m² área bruta | 12 mar",
+        "details": "T2 | 40 m² área bruta",
         "description": "Apartamento localizado na Rua das Gaivotas, na Misericórdia, num prédio integralmente remodelado.\nApartamento a estrear, bastante acolhedor, completamente equipado e mobilado.\nZona bem servida de comercio e serviços, com bastante oferta de transportes e segura.\nPerto do Largo Conde Barão, Jardim de D. Luís e Mirad",
         "advertiser": "Konsultti",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -802,10 +819,10 @@
         "title": "Apartamento T1 na rua Gaivotas, Cais do Sodré - Santos, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33261492/",
         "price": "1.300€/mês",
-        "details": "T1 | 50 m² área bruta | 3º andar sem elevador | 11 mar",
+        "details": "T1 | 50 m² área bruta | 3º andar sem elevador",
         "description": "Apartamento T1 para arrendar, totalmente mobilado e equipado.\nLocalizado na zona \"cool\" de Lisboa, entre Santos e o Chiado, na Rua das Gaivotas, 9, situado no 3º andar, sem elevador.\nPrédio igualmente renovado, apartamento com detalhes selecionados para conforto e conveniência.\nA sala comum possui diversos ambiente",
         "advertiser": "Luke",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -813,9 +830,9 @@
         "title": "Apartamento T1 na rua Ferragial, 1, Cais do Sodré - Santos, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33261350/",
         "price": "2.000€/mês",
-        "details": "T1 | 65 m² área bruta | 2º andar com elevador | 11 mar",
+        "details": "T1 | 65 m² área bruta | 2º andar com elevador",
         "description": "Não tenho interesse em receber contatos de agencias imobiliárias ou de gestão imobiliária\nApartamento novo nunca habitado, pronto a ser utilizado, cozinha totalmente equipada, apartamento com boas áreas e uma excelente varanda, com bons acabamentos tetos altos\nImovel localizado a poucos minutos a pé do centro do Ch",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -824,8 +841,8 @@
         "link": "https://www.idealista.pt/imovel/33255577/",
         "price": "2.800€/mês",
         "details": "T1 | 56 m² área bruta | 1º andar com elevador",
-        "description": "[PT] Disponível em: 23/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 23/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 03/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 03/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -834,8 +851,8 @@
         "link": "https://www.idealista.pt/imovel/33255576/",
         "price": "2.800€/mês",
         "details": "T1 | 43 m² área bruta | 1º andar com elevador",
-        "description": "[PT] Disponível em: 23/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 23/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 30/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 30/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -845,7 +862,7 @@
         "price": "2.800€/mês",
         "details": "T1 | 43 m² área bruta | 2º andar com elevador",
         "description": "[PT] Disponível em: 14/07/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 14/07/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -855,7 +872,7 @@
         "price": "3.000€/mês",
         "details": "T1 | 53 m² área bruta | 3º andar com elevador",
         "description": "[PT] Disponível em: 02/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -865,7 +882,7 @@
         "price": "2.800€/mês",
         "details": "T1 | 56 m² área bruta | 2º andar com elevador",
         "description": "[PT] Disponível em: 30/06/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 30/06/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -876,7 +893,7 @@
         "details": "T2 | 87 m² área bruta | 2º andar com elevador",
         "description": "Apartamento de luxo disponível para arrendamento no coração de Lisboa. Este espaçoso apartamento de dois quartos foi inspirado nos melhores hotéis e oferece um design moderno e elegante. Com uma área de 87m², o apartamento está totalmente mobiliado e conta com guarda-roupas embutidos nos quartos. O banheiro possui acab",
         "advertiser": "Apex Home",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -885,8 +902,8 @@
         "link": "https://www.idealista.pt/imovel/33251082/",
         "price": "2.600€/mês",
         "details": "T0 | 65 m² área bruta | com elevador",
-        "description": "[PT] Disponível em: 23/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 23/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 25/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 25/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -896,7 +913,7 @@
         "price": "1.350€/mês",
         "details": "T1 | 60 m² área bruta | 3º andar sem elevador",
         "description": "T1+1 na rua verde para entrada em Junho\n- Inclui todos os eletrodomésticos (máquina de lavar roupa e louca, microondas, chaleira, tv)\n- mobílias novas, lençóis de cama, almofadas, colchão etc\nApartamento T1+1, localizado na pitoresca Rua Verde em Santos, a 7 minutos a pé da estação de comboios de Santos e a 10 minuto",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -907,7 +924,7 @@
         "details": "T2 | 192 m² área bruta",
         "description": "Apartamento T2 -Totalmente Remodelado, situado no Chiado, mantendo o requinte e o charme do passado com a sofisticação e conforto da contemporaneidade.\nO Imóvel apresenta boas áreas e excelentes acabamentos, com destaque para a cozinha equipada com electrodomésticos AEG e bancada em silestone, suite e quarto com roupe",
         "advertiser": "CLICKSALE - MEDIAÇÃO IMOBILIÁRIA, LDA",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -918,7 +935,7 @@
         "details": "T1 | 60 m² área bruta | 2º andar sem elevador",
         "description": "Este incrível apartamento de 1 quarto, recentemente remodelado, está situado mesmo ao lado do vibrante Time Out Market, no coração de Cais do Sodré, Lisboa. Ao entrar neste apartamento, será recebido por uma atmosfera acolhedora e contemporânea. A sala de estar oferece o cenário perfeito para relaxar após um longo dia",
         "advertiser": "KW LEAD",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -929,7 +946,7 @@
         "details": "T1 | 46 m² área bruta",
         "description": "T1 mobilado na Rua do Alecrim\nExcelente Apartamento T1 mobilado para arrendamento longa duração, situado no Cais do Sodré.\nCom uma excelente localização, este apartamento está numa das ruas mais emblemáticas, que liga o Cais do Sodré ao Chiado.\nTem sala com kitchenette, 1 quarto e casa de banho com poliban, 3 varandas,",
         "advertiser": "RE/MAX G4 Ocidental",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -940,8 +957,9 @@
         "details": "T1 | 65 m² área bruta | 4º andar com elevador",
         "description": "DISPONÍVEL DIA 1 DE MAIO\nApartamento T1 com 63m2 mobilado e equipado.\nSala com 28m2\nCozinha totalmente equipada com 9m2\nQuarto com 11m2.\nWC completo com banheira com 3,5m2\nVista frontal de Rio e de jardim\nLocalizado ao lado do mercado da Ribeira\nPossibilidade de limpeza e incluir os consumos de água e electricidade.\nCo",
         "advertiser": "At Home in Lisbon",
-        "status": "new",
-        "added_on": "2024-03-18 01:13"
+        "status": "rented",
+        "added_on": "2024-03-18 01:13",
+        "rented on": "2024-03-18 23:40"
     },
     {
         "região": "cais do sodre santos",
@@ -951,7 +969,7 @@
         "details": "T3 | 200 m² área bruta",
         "description": "Deslumbrante T3 mobilado, com jardim privativo, varanda e vista frontal de rio!\nOportunidade única de viver numa localização privilegiada em Lisboa, a poucos metros da \"British School of Lisbon\", a dois passos do Time Out Market e do rio e a apenas 5 minutos a pé da estação do Cais do Sodré, com ligações de metro, comb",
         "advertiser": "RE/MAX LATINA II",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -960,8 +978,8 @@
         "link": "https://www.idealista.pt/imovel/33191606/",
         "price": "2.000€/mês",
         "details": "T2 | 44 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 26/04/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 08/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -972,7 +990,7 @@
         "details": "T2 | 52 m² área bruta",
         "description": "Descubra o seu refúgio no coração de Lisboa! Este encantador apartamento T1 + 1 oferece a oportunidade única de viver em uma das áreas mais vibrantes e desejadas da cidade.\nDestaques do Imóvel:\n- Espaçoso apartamento de um quarto com uma área extra, perfeito para um escritório em casa ou quarto de hóspedes.\n- Possui",
         "advertiser": "Engel & Völkers Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -983,7 +1001,7 @@
         "details": "T2 | 115 m² área bruta",
         "description": "APARTAMENTO T2 COM ESTACIONAMENTO\nZONA PRIME | MOBILADO\nA Localização é privilegiada, no Chiado, Bairro Emblemático da cidade de Lisboa, numa zona com oferta de transportes Públicos, Comércio, Serviços, como Bancos, Escolas, Farmácia, Hospital, Lojas, Restaurantes e espaços verdes, próximo da Escola de Belas Artes, do",
         "advertiser": "Remax Team Forever",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -993,7 +1011,7 @@
         "price": "1.500€/mês",
         "details": "T2 | 75 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/06/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1003,7 +1021,7 @@
         "price": "990€/mês",
         "details": "T2 | 50 m² área bruta | 4º andar sem elevador",
         "description": "pequeno apartamento em zona muito central em Lisboa, na zona de Santos-o-velho. Quarto andar sem elevador, é um t1+1, ideal para 1 quarto e escritório ou 1 quarto com cama de casal e 1 com cama de solteiro. pequena sala. Disponível a partir de 15 de fevereiro.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1013,7 +1031,7 @@
         "price": "3.250€/mês",
         "details": "T3 | 170 m² área bruta | 3º andar com elevador",
         "description": "Disponível: 1 de Abril de 2024, visitas só em Março.\nEsta é uma propriedade de qualidade no 3º andar dum prédio histórico e renovado no Chiado. Tem ar condicionado, garagem privada, 3 quartos, 3 casas de banho e uma varanda onde se pode sentar no exterior e desfrutar das vistas para o rio Tejo. O apartamento está situ",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1023,7 +1041,7 @@
         "price": "1.450€/mês",
         "details": "T1 | 59 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/06/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1033,7 +1051,7 @@
         "price": "2.000€/mês",
         "details": "T1 | 60 m² área bruta | 2º andar com elevador",
         "description": "Apartamento totalmente mobilado e recentemente remodelado num edifício icónico junto ao Time Out Market. Disponível imediatamente até 31 de maio de 2024.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1044,7 +1062,7 @@
         "details": "T2 | 74 m² área bruta",
         "description": "Luxuoso apartamento T2 mobilado na Praça Dom Luis I\n \nApresentamos-lhe este fantástico apartamento T2 em plena Praça Dom Luis I, com uma vista absolutamente incrível sobre o rio tejo.\nEste edifício emblemático construído em 1942, foi o antigo palácio das comunicações dos CTT, projeto do arquiteto Adelino Nunes.\nO edifí",
         "advertiser": "RE/MAX Collection Vantagem Villa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1054,7 +1072,7 @@
         "price": "4.200€/mês",
         "details": "T3 | 110 m² área bruta | 4º andar",
         "description": "[PT] Disponível em: 01/08/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/08/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1063,8 +1081,8 @@
         "link": "https://www.idealista.pt/imovel/33086092/",
         "price": "3.000€/mês",
         "details": "T1 | 50 m² área bruta | 1º andar",
-        "description": "[PT] Disponível em: 26/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 26/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 02/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1073,8 +1091,8 @@
         "link": "https://www.idealista.pt/imovel/33086066/",
         "price": "4.000€/mês",
         "details": "T2 | 50 m² área bruta | 1º andar",
-        "description": "[PT] Disponível em: 09/06/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 09/06/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 07/07/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 07/07/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
@@ -1084,19 +1102,21 @@
         "price": "3.900€/mês",
         "details": "T2 | 145 m² área bruta | 1º andar com elevador",
         "description": "Apartamento disponível a partir de março.\nLuxuoso apartamento T2 no segundo piso, completamente remodelado, inserido num prédio de traça antiga na Baixa Lisboense.\nO apartamento é equipado com ar condicionado, totalmente mobiliado com gosto e requinte, bem como com todos os utensílios domésticos, incluindo roupa de c",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:13"
     },
     {
         "região": "cais do sodre santos",
         "title": "Apartamento T1 na avenida 24 de Julho, Cais do Sodré - Santos, Misericórdia",
         "link": "https://www.idealista.pt/imovel/32380399/",
-        "price": "1.750€/mês",
+        "price": "1.800€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
         "description": "Apartamento T1 com 60m2 na Avenida 24 de Julho totalmente mobilado e equipado com vista maravilhosa do rio Tejo.\nEste apartamento tem vista frontal de rio, que pode ser desfrutada de todas as divisões da casa.\nCom uma localização privilegiada na cidade de Lisboa, o apartamento está inserido num magnifico prédio pombal",
         "advertiser": "MaisConsultores #Capital",
-        "status": "new",
-        "added_on": "2024-03-18 01:13"
+        "status": "available",
+        "added_on": "2024-03-18 01:13",
+        "original price": "1.750€/mês",
+        "date of price update": "2024-03-23 13:25"
     },
     {
         "região": "cais do sodre santos",
@@ -1106,7 +1126,7 @@
         "details": "T1 | 56 m² área bruta | 2º andar sem elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 27-04-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €1,970* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1116,17 +1136,17 @@
         "price": "1.500€/mês",
         "details": "T1 | 73 m² área bruta | 3º andar com elevador",
         "description": "Mínimo 1 ano de contrato\n2 rendas + 1 caução\nApartamento T1 totalmente mobilado no Cais do Sodré.\nEste apartamento está localizado numa zona bastante central, mesmo junto ao metro do Casi do sodré, na Praça Don Luis I, junto ao famoso Time out Market com uma oferta de produtos frescos cultivados localmente, além de u",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
         "região": "cais do sodre santos",
-        "title": "Apartamento T2 em Cais do Sodré - Santos, Misericórdia",
+        "title": "Apartamento T2 na rua Moeda, Cais do Sodré - Santos, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33005207/",
         "price": "2.000€/mês",
         "details": "T2 | 87 m² área bruta | 3º andar com elevador",
-        "description": "Experience luxury living at its finest with this exquisite 2-bedroom apartment, spanning a generous 87 m² and fully furnished to meet your every need. Nestled next to the iconic Mercado da Ribeira, this centrally located residence combines the comforts of home with the ambiance of a five-star hotel.\nKey Features:\nHo",
-        "status": "new",
+        "description": "Experiencie o melhor da vida com este luxuoso e requintado apartamento de tipologia T2. Este apartamento tem 87 m² de area util. Está totalmente mobiliado para atender a todas as suas necessidades. Situado junto ao icónico Mercado da Ribeira, esta residência com localização central combina o conforto de casa com o ambi",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1136,7 +1156,7 @@
         "price": "2.100€/mês",
         "details": "T1 | 65 m² área bruta | com elevador",
         "description": "Apartamento T1 Moderno no Coração de Cais do Sodré\nBem-vindo ao seu próximo lar no vibrante bairro de Cais do Sodré! Este apartamento T1, com uma área generosa de 65 metros quadrados, promete ser o refúgio perfeito no meio da cidade.\nAssim que entrar, sentirá a frescura de um espaço novo e impecavelmente projetado, pro",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1146,7 +1166,7 @@
         "price": "1.800€/mês",
         "details": "T1 | 65 m² área bruta | com elevador",
         "description": "Bem-vindo ao seu próximo lar no vibrante bairro de Cais do Sodré! Este apartamento T1, com uma área generosa de 65 metros quadrados, promete ser o refúgio perfeito no meio da cidade.\nAssim que entrar, sentirá a frescura de um espaço novo e impecavelmente projetado, proporcionando tudo o que é essencial para uma vida co",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1157,7 +1177,7 @@
         "details": "T1 | 96 m² área bruta",
         "description": "Apartamento de 96 m2, com linhas modernas, central, com\naquecimento e varanda num prédio com elevador.\nO Imóvel apresenta um estilo tradicional, com toques da cultura portuguesa por todo o lado.\nEsta propriedade apresenta um design contemporâneo com ótima distribuição de luz durante o dia, enquanto o mobiliário mod",
         "advertiser": "Engel & Völkers Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1168,7 +1188,7 @@
         "details": "T3 | 222 m² área bruta",
         "description": "Apartamento de 210m2, com linhas modernas, central, com\naquecimento e varanda num prédio com elevador.\nO Imóvel apresenta um estilo tradicional, com toques da cultura portuguesa por todo o lado.\nEsta propriedade apresenta um design contemporâneo com ótima distribuição de luz durante o dia, enquanto o mobiliário mode",
         "advertiser": "Engel & Völkers Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1179,7 +1199,7 @@
         "details": "T2 | 132 m² área bruta",
         "description": "Apartamento de 132 m2, com linhas modernas, central, com aquecimento, num prédio com elevador.\nO Imóvel apresenta um estilo tradicional, com toques da cultura portuguesa por todo o lado.\nEsta propriedade apresenta um design contemporâneo com ótima distribuição de luz durante o dia, enquanto o mobiliário moderno compl",
         "advertiser": "Engel & Völkers Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1190,7 +1210,7 @@
         "details": "T4 | 219 m² área bruta | 4º andar com elevador",
         "description": "GLAMOROSO Apartamento T4 – RIBEIRA GARDEN\nCom vista frontal de Rio, no coração de Lisboa, na cosmopolita Praça Dom Luis I, ao lado do Mercado da Ribeira, surge o luxuoso empreendimento Ribeira Garden. Com luxuosos acabamentos este empreendimento é único na Capital. Tem 219m2, encontra-se no quarto andar do Ribeira Ga",
         "advertiser": "RE/MAX Collection Vantagem Villa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1201,7 +1221,7 @@
         "details": "T1 | 75 m² área bruta | com elevador",
         "description": "Apartamento T1 na Avenida 24 de Julho.\nEste apartamento tem uma área de 70 m2 e vista de rio e jardim.\nCom uma localização privilegiada na cidade de Lisboa, ao lado do Time Out Market, o apartamento está inserido num magnifico prédio pombalino, com elevador e em excelente estado de conservação.\nSituado no 4º piso co",
         "advertiser": "MaisConsultores #Capital",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1212,7 +1232,7 @@
         "details": "T5 | 395 m² área bruta | 1º andar com elevador",
         "description": "A Feraboli Real Estate apresenta este espaçoso apartamento familiar ao lado do Time Out Market.\nPode ser alugado com ou sem mobília.\nPreço COM mobília: 12.000€ por mês.\nPreço SEM mobília: 10.000€ por mês\n5 quartos, 4 banheiros e um terraço.\nO estacionamento pode ser alugado a uma curta distância.\nSem telefonemas -",
         "advertiser": "Feraboli Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1222,28 +1242,30 @@
         "price": "2.800€/mês",
         "details": "T3 | 85 m² área bruta | 5º andar sem elevador",
         "description": "Apartamento renovado no Cais do Sodré. Poderá ser mobilado previamente. Três quartos, um com casa de banho.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
         "região": "cais do sodre santos",
         "title": "Apartamento T2 na rua da Boavista, Cais do Sodré - Santos, Misericórdia",
         "link": "https://www.idealista.pt/imovel/32307453/",
-        "price": "2.800€/mês",
+        "price": "2.730€/mês",
         "details": "T2 | 100 m² área bruta | 2º andar com elevador",
-        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 03-04-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,800* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
+        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 03-04-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,730* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "new",
-        "added_on": "2024-03-18 01:14"
+        "status": "available",
+        "added_on": "2024-03-18 01:14",
+        "original price": "2.800€/mês",
+        "date of price update": "2024-03-20 19:19"
     },
     {
         "região": "chiado pc de camoes",
         "title": "Apartamento T2 na rua do Alecrim, 63, Chiado - Pç. de Camões, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33274761/",
         "price": "3.500€/mês",
-        "details": "T2 | 130 m² área bruta | 2º andar com elevador | 4 horas",
+        "details": "T2 | 130 m² área bruta | 2º andar com elevador | 17 mar",
         "description": "Não tenho interesse em receber contatos de agencias imobiliárias ou de empresas de gestão imobiliário\nApartamento totalmente novo nunca usado mas pronto a ser habitado com cozinha totalmente equipada, áreas amplas e desafogadas, 2 quartos em suite e uma casa de banho de serviço com um lugar de garagem mais arrecadaçã",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1253,8 +1275,9 @@
         "price": "3.910€/mês",
         "details": "T2 | 153 m² área bruta | sem elevador | 16 mar",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mai",
-        "status": "new",
-        "added_on": "2024-03-18 01:14"
+        "status": "rented",
+        "added_on": "2024-03-18 01:14",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "chiado pc de camoes",
@@ -1264,8 +1287,9 @@
         "details": "T1 | 105 m² área bruta | 3º andar sem elevador",
         "description": "Apartamento encantador para arrendamento no coração de Chiado, em Lisboa. Este imóvel, localizado no terceiro andar de um prédio charmoso, sem elevador, oferece uma escadaria ampla e uma área total de 100m2.\nRecentemente renovado, o apartamento combina materiais típicos da antiga Lisboa, como azulejos e chão de tábua",
         "advertiser": "WoM. Investments ",
-        "status": "new",
-        "added_on": "2024-03-18 01:14"
+        "status": "rented",
+        "added_on": "2024-03-18 01:14",
+        "rented on": "2024-03-20 19:18"
     },
     {
         "região": "chiado pc de camoes",
@@ -1275,7 +1299,7 @@
         "details": "T2 | 120 m² área bruta | 4º andar com elevador",
         "description": "Apartamento de Charme no coração do Chiado com vista panorâmica em edifício pombalino reabilitado com elevador. Apartamento em ultimo andar com águas furtadas.\nComposto por sala de estar e jantar ampla com cerca de 60 m2 e vista rasgada de cidade de rio, cozinha, casa de banho, dois quartos sendo um deles em suite. Mui",
         "advertiser": "ALMEIDA TELLO Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1285,7 +1309,7 @@
         "price": "2.000€/mês",
         "details": "T2 | 150 m² área bruta | 4º andar com elevador",
         "description": "Apartamento T2 150m2 situado em 4º e último piso com elevador de prédio traça antiga reabilitado muito bem localizado no Chiado.\nSala 50m2, Cozinha equipada 15m2, I. S. , Quarto 18m2, I. S. , Quarto 16m2, Arrumos no esconso 5m2.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1295,8 +1319,9 @@
         "price": "1.900€/mês",
         "details": "T1 | 65 m² área bruta | 1º andar com elevador",
         "description": "Não tenho interesse em receber contatos de agências imobiliárias ou empresas de gestão de imobiliário\nApartamento novo nunca habitado com cozinha totalmente equipada com excelentes acabamentos e uma boa varanda\nApartamento localizado muito perto do centro do Chiado a poucos minutos a pé da saída do metro com à para",
-        "status": "new",
-        "added_on": "2024-03-18 01:14"
+        "status": "rented",
+        "added_on": "2024-03-18 01:14",
+        "rented on": "2024-03-24 04:23"
     },
     {
         "região": "chiado pc de camoes",
@@ -1306,7 +1331,7 @@
         "details": "T2 | 110 m² área bruta | 3º andar com elevador",
         "description": "CHIADO-VITOR CORDONDISPONIVEL PARA VISITAS\nMOBILADO E DECORADO COMO FOTOS.\nNa Rua Vítor Cordon, no famoso Bairro do Chiado,\nEm edifício Pombalino totalmente reabilitado em 2017 com pé-direito alto, divisões amplas, luz natural e elevada qualidade e elegância dos materiais de construção utilizados.\nCom cerca 111 m2 é composto por:\n-",
         "advertiser": "Medilider",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1317,7 +1342,7 @@
         "details": "T2 | 153 m² área bruta | 1º andar sem elevador",
         "description": "Fique no coração de Lisboa e desfrute deste apartamento duplex com vista para o rio. A decoração harmoniosa e luxuosa, e a iluminação elegante, oferecem uma experiência de vida exclusiva.\nCom áreas espaçosas, equipadas com eletrodomésticos modernos e tecnológicos, e fornecendo Wi-Fi gratuito, TV cabo, ar condicionado e",
         "advertiser": "LovelyStay",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1328,7 +1353,7 @@
         "details": "T1 | 67 m² área bruta | Rés do chão sem elevador",
         "description": "67m2 ABP\nNovo e inserido em prédio totalmente reconstruído\nKitchenette 31,25m2 com cozinha totalmente equipada e sala mobilada\nQuarto 11,47m2 com roupeiro\nCasa de banho 3,53m2 com base de duche fechada\nAcabamentos de Elevada Qualidade\nPavimento em tábua corrida,\nLocalização privilegiada junto da Praça Luís de C",
         "advertiser": "ERA Telheiras",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1339,7 +1364,7 @@
         "details": "T4 | 235 m² área bruta | 5º andar com elevador",
         "description": "T4+1 com vista de Rio e estacionamento.\nJá se imaginou a viver num magnífico apartamento com vista para uma das praças mais emblemáticas da Cidade de Lisboa?\nA Praça de S. Paulo localiza-se perto do Rio e é dominada pela presença de Igreja de S. Paulo, monumento que data do ano de 1412.\nEsta praça encontra-se numa áre",
         "advertiser": "Live on Top",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1350,7 +1375,7 @@
         "details": "T2 | 150 m² área bruta | 4º andar com elevador",
         "description": "Vista RioTO RENT * T2 | LISBOA | CHIADO\n+ INFO\n128m2\nApartamento T2\nCasa não mobilada\nCozinha equipada\n1 quarto\n1 suite\n2 wc\nSala de jantar\nRoupeiros embutidos\nVidros duplos\nPrédio com elevador\nVista: Cidade e rio\nOrientação: Norte, Sul, Este e Oeste\nREF: A154204\nHL\nT2 na zona nobre do Chiado. Prédio remodelado em 2006, orig",
         "advertiser": "HomeLovers",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1360,8 +1385,9 @@
         "price": "1.500€/mês",
         "details": "T1 | 45 m² área bruta | 5º andar com elevador",
         "description": "[PT] Disponível em: 01/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
-        "added_on": "2024-03-18 01:14"
+        "status": "rented",
+        "added_on": "2024-03-18 01:14",
+        "rented on": "2024-03-20 19:18"
     },
     {
         "região": "chiado pc de camoes",
@@ -1369,9 +1395,9 @@
         "link": "https://www.idealista.pt/imovel/32694691/",
         "price": "2.050€/mês",
         "details": "T1 | 65 m² área bruta | 1º andar sem elevador",
-        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 02-06-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €1,970* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
+        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 02-06-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,010* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1380,8 +1406,8 @@
         "link": "https://www.idealista.pt/imovel/32694874/",
         "price": "1.940€/mês",
         "details": "T0 | 40 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 19/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 10/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1392,7 +1418,7 @@
         "details": "T2 | 105 m² área bruta | 4º andar com elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 02-04-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €3,050* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:14"
     },
     {
@@ -1402,27 +1428,30 @@
         "price": "1.950€/mês",
         "details": "T2 | 100 m² área bruta | 1º andar com elevador | 15 mar",
         "description": "Apartamento T2 em primeiro andar de prédio com elevador, com localização privilegiada entre São Bento e a fantástica Praça das Flores, a dois passos do Príncipe Real.\nConstituído por cozinha totalmente equipada, sala ampla (30m2) com muita luz (poente) e vários ambientes aberta para uma varanda larga e aberta, dois qu",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "rented",
+        "added_on": "2024-03-18 01:15",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "principe real sao bento",
         "title": "Apartamento T1 na rua Quintinha, 30, Príncipe Real - São Bento, Misericórdia",
         "link": "https://www.idealista.pt/imovel/32573875/",
-        "price": "1.400€/mês",
-        "details": "T1 | 60 m² área bruta | Rés do chão sem elevador | 15 mar",
-        "description": "The apartment is still for rent during some weeks this summer.",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "price": "1.350€/mês",
+        "details": "T1 | 50 m² área bruta | Rés do chão sem elevador",
+        "description": "The apartment is for rent from the 8th of april to the 30 of june.",
+        "status": "available",
+        "added_on": "2024-03-18 01:15",
+        "original price": "1.400€/mês",
+        "date of price update": "2024-03-24 16:15"
     },
     {
         "região": "principe real sao bento",
         "title": "Apartamento T1 em Príncipe Real - São Bento, Misericórdia",
         "link": "https://www.idealista.pt/imovel/27801409/",
         "price": "1.500€/mês",
-        "details": "T1 | 60 m² área bruta | sem elevador | 15 mar",
+        "details": "T1 | 60 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 180 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para ma",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1430,10 +1459,10 @@
         "title": "Apartamento T1 na rua Cecílio de Sousa, Príncipe Real - São Bento, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33269535/",
         "price": "1.500€/mês",
-        "details": "T1 | 75 m² área bruta | 1º andar sem elevador | 14 mar",
+        "details": "T1 | 75 m² área bruta | 1º andar sem elevador",
         "description": "Charmoso apartamento de 1 quarto no coração do prestigiado bairro do Príncipe Real! Com uma área bruta generosa de 75 m², esta propriedade oferece 70 m² de área útil, proporcionando um ambiente acolhedor e funcional.\nO apartamento, localizado no 1º andar, se destaca por sua orientação leste e oeste, permitindo a entra",
         "advertiser": "HOUZIT PORTUGAL",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1441,10 +1470,10 @@
         "title": "Apartamento T2 na rua Vale, Príncipe Real - São Bento, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33265908/",
         "price": "1.950€/mês",
-        "details": "T2 | 50 m² área bruta | 1º andar sem elevador | 13 mar",
+        "details": "T2 | 50 m² área bruta | 1º andar sem elevador",
         "description": "Apresentamos este apartamento requintado, um refúgio de conforto e sofisticação, totalmente mobilado e equipado. Com varanda e jardim privativo.\nSituado no distrito nobre de Lisboa, \"São Bento\", a apenas alguns passos da encantadora \"Praça das Flores\" e do vibrante \"Príncipe Real\".\nLocalizado dentro de um edifício m",
         "advertiser": "HOUZIT PORTUGAL",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1454,8 +1483,9 @@
         "price": "1.000€/mês",
         "details": "T1 | 38 m² área bruta",
         "description": "Apartamento com duas assoalhadas completamente remodelado no coração da Misericordia. O apartamento com cozinha e sala em Open Space.\nPerto de todo o tipo de transportes, comércio e serviços.\nMarque já a sua visita!",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "rented",
+        "added_on": "2024-03-18 01:15",
+        "rented on": "2024-03-20 19:18"
     },
     {
         "região": "principe real sao bento",
@@ -1464,18 +1494,21 @@
         "price": "1.950€/mês",
         "details": "T2 | 100 m² área bruta | 1º andar com elevador",
         "description": "CENTRO LISBOA / PRAÇA DAS FLORES perto SÃO BENTO apart. T2 com aquecimento central e ar condicionado.\nSala 30m2 e 2 quartos (1 suite 15m2) SEM MÓVEIS, com roupeiros e 2wc. Varanda.\nCozinha equipada com placa, forno, frigorífico, caldeira, máquinas de lavar roupa e loiça.\n1º and. com elevador.\nTRATA 91 NOVE DOIS SEI",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "rented",
+        "added_on": "2024-03-18 01:15",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "principe real sao bento",
         "title": "Apartamento T2 em Príncipe Real - São Bento, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33245084/",
-        "price": "1.300€/mês",
+        "price": "1.200€/mês",
         "details": "T2 | 67 m² área bruta",
         "description": "Ótimo apartamento Junto à Praça das Flores e Principe Real.\nSala, 2 quartos, cozinha equipada e casa de banho completa.\nApartamento em ótimo estado, sendo que foi todo renovado. Muita luz natural, ótima localização. fica num 1º andar sem elevador.\nTodo o tipo de comércio e transportes walking distance.",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "available",
+        "added_on": "2024-03-18 01:15",
+        "original price": "1.300€/mês",
+        "date of price update": "2024-03-20 19:20"
     },
     {
         "região": "principe real sao bento",
@@ -1485,7 +1518,7 @@
         "details": "T1 | 69 m² área bruta | 2º andar sem elevador",
         "description": "Este duplex está completamente renovado e totalmente equipado com ar condicionado em todos as divisões. Localizado perto de São Bento, de fácil acesso a comércio e outras utilidades.\nCompletamente mobilado e equipado, com mobiliário moderno e confortável.\nDisponível a partir de 17 de Março.\nThis duplex is completely",
         "advertiser": "Seed Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1495,7 +1528,7 @@
         "price": "1.800€/mês",
         "details": "T1 | 60 m² área bruta | 3º andar com elevador",
         "description": "O apartamento T1 encontra se no coração do principe real numa rua traseira calma e sossegada. O Predio foi construido há 2 anos e tem elevador. O T1 tem muita luz natural e todas as divisões tem um bom tamanho. O apartamento esta completamente mobilada e equipada, pronto para viver. A sala tem televisao, secretaria com",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1505,7 +1538,7 @@
         "price": "1.500€/mês",
         "details": "T2 | 70 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/07/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1515,7 +1548,7 @@
         "price": "1.300€/mês",
         "details": "T2 | 40 m² área bruta | Rés do chão sem elevador",
         "description": "Apartamento remodelado a estrear\n2 quartos\nRoupeiro embutido\nCozinha equipada com placa vitroceramica, forno, exaustor, máquina de lavar roupa\nPerto de varios transportes a 2 minutos de bus e 4 minutos de metro, diverso comércio na zona,\nZona tranquila, perto de jardins e escolas.\nPode ser mobilada de acordo com ambas",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1526,7 +1559,7 @@
         "details": "T2 | 138 m² área bruta | 3º andar sem elevador",
         "description": "Totalmente renovado em 2022.\nO edifício tem apenas três frações, uma por piso. O apartamento fica no 3º andar, último andar, com uma área de 138m2.\nA sala é virada a sul e tem 40 m2.\nUm dos quartos é suite com 23 m2 de área.\nDispõe de outra ampla casa de banho completa, com cabine de duche e janela.\nA cozinha tem 22,",
         "advertiser": "Century21 Lux",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1537,7 +1570,7 @@
         "details": "T2 | 120 m² área bruta",
         "description": "T2 remodelado c/ varanda e elevador - R. da Academia das Ciências - Principe Real\nApartamento de 3 assoalhadas localizado no coração do Príncipe Real, completamente remodelado. Excelente exposição solar, com uma generosa varanda, 2 casas de banho, e uma cozinha totalmente equipada com boa área.\nCondominio 58€/mês, resp",
         "advertiser": "RE/MAX Collection MaxGroup",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1548,8 +1581,9 @@
         "details": "T1 | 61 m² área bruta | sem elevador",
         "description": "Descubra a sua tranquilidade neste Apartamento T1+1 num dos corações principais na histórica freguesia da Misericórdia!\nLocalização Privilegiada:\nNum Bairro entre a Assembleia da República e o Príncipe Real:  Desfrute de locais turísticos, restaurantes, espaços culturais, jardins e lojas na zona. No centro da cid",
         "advertiser": "KW Ábaco",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "rented",
+        "added_on": "2024-03-18 01:15",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "principe real sao bento",
@@ -1558,7 +1592,7 @@
         "price": "800€/mês",
         "details": "T0 | 16 m² área bruta | Rés do chão sem elevador",
         "description": "Estúdio em São Bento a estrear! // Brand new studio in São Bento!",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1568,7 +1602,7 @@
         "price": "1.500€/mês",
         "details": "T1 | 75 m² área bruta | 1º andar sem elevador",
         "description": "",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1579,7 +1613,7 @@
         "details": "T2 | 65 m² área bruta",
         "description": "Este encantador T2, localizado no coração do bairro Príncipe Real, na Rua dos Prazeres, oferece uma combinação única de charme e traços históricos.\nRecentemente remodelado, com atenção aos detalhes, este apartamento inserido no segundo andar, proporciona um ambiente acolhedor.\nO destaque desta propriedade é, sem dúvid",
         "advertiser": "RE/MAX Siimgroup Loft",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1588,8 +1622,8 @@
         "link": "https://www.idealista.pt/imovel/33205571/",
         "price": "1.950€/mês",
         "details": "T2 | 50 m² área bruta | 1º andar sem elevador",
-        "description": "Este fantástico Apartamento, totalmente mobilado e equipado, com varanda e jardim, torna-se privilegiado pela sua localização de Excelência em zona Prime de Lisboa “São Bento”, a escassos metros da “Praça das Flores” e do “Príncipe Real”.  Inserido num edifício totalmente reconstruído em 2021.   \nO Apartamento é compo",
-        "status": "new",
+        "description": "Este fantástico Apartamento, totalmente mobilado e equipado, com varanda e jardim privado com 40m2, torna-se privilegiado pela sua localização de Excelência em zona Prime de Lisboa “São Bento”, a escassos metros da “Praça das Flores” e do “Príncipe Real”. Inserido num edifício totalmente reconstruído em 2021.\nO Apart",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1600,7 +1634,7 @@
         "details": "T2 | 82 m² área bruta | 2º andar com elevador",
         "description": "Penthouse T2 duplex com vista para o rio e estacionamento no coração do Príncipe Real, Lisboa.\nO apartamento oferece, no piso de entrada, uma sala de estar e jantar em open space a cozinha que se encontra completamente equipada, e ainda um quarto amplo e uma casa de banho.\nNo piso superior dispõe de uma sala e uma su",
         "advertiser": "Ivens Portugal",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1610,7 +1644,7 @@
         "price": "2.100€/mês",
         "details": "T2 | 100 m² área bruta | 3º andar sem elevador",
         "description": "T2 de 100 m2 tudo equipado com duas frentes e vistas na cidade\nElevada qualidade de construção e conforto, materiais de luxo.\nInterior informal e com design moderno: quarto, casa de banho e cozinha equipada.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1620,7 +1654,7 @@
         "price": "1.850€/mês",
         "details": "T1 | 65 m² área bruta | 1º andar sem elevador",
         "description": "Incrível apartamento no coração do Príncipe Real para sublocação. O destaque são os dois terraços com 120 m² no total para aproveitar ao máximo o clima de Lisboa. A localização central dá acesso direto a restaurantes, lojas e supermercados. A casa está elegantemente mobilada com móveis de alta qualidade e inclui todos",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1630,7 +1664,7 @@
         "price": "1.800€/mês",
         "details": "T2 | 69 m² área bruta | Entreplanta sem elevador",
         "description": "",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1640,7 +1674,7 @@
         "price": "1.700€/mês",
         "details": "T1 | 55 m² área bruta | Rés do chão sem elevador",
         "description": "Apartamento T1 no coração do Príncipe Real numa rua calma. Perto da Praça das Flores. O arrendamento é de 1 mês até 6 meses.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1651,7 +1685,7 @@
         "details": "T1 | 70 m² área bruta | com elevador",
         "description": "Encantador Apartamento Disponível para Arrendamento na Baixa Chiado, Lisboa.\nDescubra o estilo de vida único que este apartamento encantador tem a oferecer. Situado no coração de Baixa Chiado, um dos bairros mais charmosos de Lisboa, este espaço aconchegante é perfeito para quem busca uma experiência de vida extraordi",
         "advertiser": "Engel & Völkers Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1662,7 +1696,7 @@
         "details": "T2 | 88 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento T2 Recentemente Construído em Santa Catarina, Lisboa////////////////// NOVA CONSTRUÇÃO //////////////////\nLocalização privilegiada a poucos passos do Chiado, Príncipe Real, Santos e Rio Tejo\nPrimeiro andar.\nCaracterísticas: - Apartamento de 2 quartos lindamente projetado\n- Cozinha totalmente equipada para uma vida cómoda\n- Blackouts elétricos para privacidade e contr",
         "advertiser": "Sharon Portal - Portugal Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1673,7 +1707,7 @@
         "details": "T0 | 54 m² área bruta",
         "description": "Estúdio para arrendamento na fantástica zona do Príncipe Real.\nEste apartamento encontra-se ao nível de um R/c, num prédio sem elevador, inserido numa zona tranquila, residencial e com pouco trânsito.\nCom uma ótima sala com lareira, quarto com aquecimento, casa de banho completa com base de duche e cozinha parcialme",
         "advertiser": "Nossa Imobiliária",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1683,7 +1717,7 @@
         "price": "2.500€/mês",
         "details": "T4 | 150 m² área bruta | 3º andar sem elevador",
         "description": "Welcome to our specialized apartment rental company! We offer tailored accommodations for long-term stays, ensuring comfort and convenience for our tenants. Every detail is customizable, from beds to sofas, to suit your unique needs. Our goal is to provide an exceptional experience, allowing you to feel right at home d",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1694,7 +1728,7 @@
         "details": "T2 | 98 m² área bruta | 2º andar sem elevador",
         "description": "T2 mobilado e equipado, com 90 m² cheio de luz, composto por 2 quartos dos quais 1 suíte, uma ampla sala, e 1 cozinha totalmente equipada. 2º andar sem elevador. Com áreas generosas, este apartamento oferece lhe todo o conforto e privacidade, num ambiente citadino. Encontra se pronto a habitar. Marque a sua visita.",
         "advertiser": "ORIGINAL TRADING & CONSULTING",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1704,8 +1738,9 @@
         "price": "1.000€/mês",
         "details": "T2 | 45 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/05/2024\n- Duração Mínima de Aluguer: 180 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais inf",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "rented",
+        "added_on": "2024-03-18 01:15",
+        "rented on": "2024-03-20 19:18"
     },
     {
         "região": "principe real sao bento",
@@ -1714,7 +1749,7 @@
         "price": "2.000€/mês",
         "details": "T1 | 70 m² área bruta | Rés do chão com elevador",
         "description": "O edifício localiza-se em Santa Catarina, uma das zonas historicas, desejadas e valiosas para viver em Lisboa, perto do Chiado, Bairro Alto e Cais do Sodré, com boas acessibilidades. Também é possível encontrar nesta zona as melhores vistas rio, restaurantes e um mix de lojas antigas e contemporâneas que criam uma alma",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1724,7 +1759,7 @@
         "price": "3.000€/mês",
         "details": "T2 | 80 m² área bruta | Rés do chão com elevador",
         "description": "DISPONÍVEL DESDE ABRIL/MAIO 2024\nCharmoso apartamento pronto para habitar no coração da cidade. Duplex no res do chão de um Predio totalmente remodelado na Rua São Bento. T2 dois quartos com duas casas de banho e com um grande terraço. O apartamento esta totalmente equipado e mobiliado.\nMid term rental e long term re",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1735,8 +1770,9 @@
         "details": "T1 | 50 m² área bruta | 1º andar com elevador",
         "description": "AS DESPESAS DE ÁGUA, LUZ E INTERNET NÃO ESTÃO INCLUÍDAS NO PREÇO DA RENDA.\nCharmoso e elegante apartamento T1, mobiliado e com cozinha equipada com a varanda na cozinha onde poderá tomar o seu pequeno-almoço.\nEste apartamento fica num 1º andar de um prédio novo e com elevador, um apartamento por piso.\nEste apartamen",
         "advertiser": "LISBONIMMO",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "rented",
+        "added_on": "2024-03-18 01:15",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "principe real sao bento",
@@ -1744,8 +1780,8 @@
         "link": "https://www.idealista.pt/imovel/33086172/",
         "price": "5.000€/mês",
         "details": "T3 | 148 m² área bruta | 3º andar",
-        "description": "[PT] Disponível em: 02/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 14/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 14/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1754,8 +1790,8 @@
         "link": "https://www.idealista.pt/imovel/33091335/",
         "price": "2.380€/mês",
         "details": "T2 | 80 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 22/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 02/06/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1765,7 +1801,7 @@
         "price": "1.800€/mês",
         "details": "T0 | 54 m² área bruta | Rés do chão com elevador",
         "description": "O edifício localiza-se em Santa Catarina, uma das zonas historicas, desejadas e valiosas para viver em Lisboa, perto do Chiado, Bairro Alto e Cais do Sodré, com boas acessibilidades. Também é possível encontrar nesta zona as melhores vistas rio, restaurantes e um mix de lojas antigas e contemporâneas que criam uma alma",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1774,8 +1810,8 @@
         "link": "https://www.idealista.pt/imovel/33086126/",
         "price": "2.500€/mês",
         "details": "T1 | 45 m² área bruta | 1º andar",
-        "description": "[PT] Disponível em: 02/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 21/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 21/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1785,7 +1821,7 @@
         "price": "1.800€/mês",
         "details": "T0 | 50 m² área bruta | Rés do chão",
         "description": "[PT] Disponível em: 30/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 30/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1794,8 +1830,8 @@
         "link": "https://www.idealista.pt/imovel/33086069/",
         "price": "5.000€/mês",
         "details": "T3 | 138 m² área bruta | 3º andar",
-        "description": "[PT] Disponível em: 20/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 20/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 04/06/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 04/06/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1804,8 +1840,8 @@
         "link": "https://www.idealista.pt/imovel/33086047/",
         "price": "5.000€/mês",
         "details": "T3 | 138 m² área bruta | 2º andar",
-        "description": "[PT] Disponível em: 24/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 24/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 14/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 14/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1815,7 +1851,7 @@
         "price": "2.400€/mês",
         "details": "T1 | 90 m² área bruta | 1º andar",
         "description": "[PT] Disponível em: 15/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 15/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1826,7 +1862,7 @@
         "details": "T4 | 211 m² área bruta | Rés do chão sem elevador",
         "description": "Apartamento T4 com jardim a poucos metros do Príncipe Real e Praça das Flores.\nCom 211 m2, o apartamento destaca-se pela excepcional privacidade e sossego.\nConta com uma ampla sala e com dois dos quatro quartos virados para o jardim. A cozinha encontra-se equipada com fogão, frigorífico, microondas, máquina de loiça",
         "advertiser": "Ivens Portugal",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1836,7 +1872,7 @@
         "price": "2.960€/mês",
         "details": "T1 | 91 m² área bruta | 1º andar sem elevador",
         "description": "A “Casa Azul”, um encantador T1, mobilado e equipado, situado no coração do Príncipe Real, junto ao Jardim do Príncipe Real.\nEste luminoso T1 foi completamente renovado com materiais da mais alta qualidade, proporcionando um espaço moderno e confortável, perfeito para quem procura viver com estilo no coração de Lisboa.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1846,7 +1882,7 @@
         "price": "1.500€/mês",
         "details": "T0 | 25 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 02/06/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1856,7 +1892,7 @@
         "price": "2.500€/mês",
         "details": "T2 | 68 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 28/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1867,7 +1903,7 @@
         "details": "T1 | 80 m² área bruta | 1º andar",
         "description": "Singular apartamento de tipologia T1, completamente mobilado e cuidadosamente decorado combinando elementos clássicos e contemporâneos. Móveis de qualidade superior, detalhes arquitetónicos encantadores e cores suaves criam um ambiente acolhedor e elegante.\nApartamento composto por hall de entrada, sala com 3 ambiente",
         "advertiser": "RB Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1878,8 +1914,9 @@
         "details": "T2 | 83 m² área bruta | 1º andar sem elevador",
         "description": "Lindo apartamento T2 prédio e apartamento novo.\nlocalizado no charmoso bairro do Príncipe Real, junto a belíssima Praça das Flores e Assembleia da República.\nApartamento de 83,70 m², renovado com muita qualidade, bem distribuído em: quarto, sala com cozinha em open-space muito luminoso e especialmente para quem gost",
         "advertiser": "CARE Consultants & Advisers In Real Estate",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "rented",
+        "added_on": "2024-03-18 01:15",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "principe real sao bento",
@@ -1889,7 +1926,7 @@
         "details": "T4 | 133 m² área bruta | 1º andar sem elevador",
         "description": "Disponível a partir de Janeiro 2024\nO apartamento está muito bem localizado no centro do bairro do Príncipe Real e é composto por uma sala, com espaço de estar e de jantar abertos para a cozinha, uma segunda sala de estar, uma suite, dois quartos, três casas de banho e um closet.\nAo entrarmos no apartamento temos um",
         "advertiser": "Lane - Exclusive Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1899,7 +1936,7 @@
         "price": "1.375€/mês",
         "details": "T0 | 43 m² área bruta | 2º andar com elevador",
         "description": "No centro de Lisboa um estudio confortavel completamente mobilado.\nApartamento equilibrado com zona de cozinha separada da zona de estar e quarto.\nEm open space todas as areas muito bem definidas graças à decoração funcional.\nSeja para curta duração ou estadias mais longas é o apartamento ideal para quem procura a priv",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1909,7 +1946,7 @@
         "price": "1.850€/mês",
         "details": "T1 | 86 m² área bruta | Rés do chão sem elevador",
         "description": "Pt:\nÁgua, luz, gás, internet e tv e limpezas não incluídos.\nCama de casal e sofá-cama de casal\nENG.\nWater, electricity, gas, internet and tv and cleaning not included.\nDouble bed and double sofa-bed.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1920,7 +1957,7 @@
         "details": "T2 | 103 m² área bruta | 1º andar",
         "description": "Incrível Apartamento T2 situado na Praça das Flores, com um terraço de 6m2.\nApartamento com 103 m2, totalmente renovado e mobilado com pormenores de decoração de vários estilos, nomeadamente moderno e minimalista, trazendo simplicidade e aconchego, destacando a utilização de elementos de mármore na sala de jantar e u",
         "advertiser": "IAD Portugal",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1931,7 +1968,7 @@
         "details": "T1 | 50 m² área bruta | 2º andar",
         "description": "Condição: 2 rendas + 2 cauções; contrato de pelo menos 1 ano. Não são permitidos animais.\nApartamento T1 novo localizado no centro de Lisboa, num prédio entre o Chiado e São Bento.\nA 500 metros existem 2 supermercados/ Minipreço, cafés, restaurantes, incluindo o Sétimo Brunch Chiado e bares rooftop.\nA estação de Met",
         "advertiser": "Hooli Home Portugal (AMI: 11248)",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1941,7 +1978,7 @@
         "price": "1.950€/mês",
         "details": "T0 | 101 m² área bruta | 2º andar com elevador",
         "description": "Incrível T1 Duplex com Terraço de 30m2 com relva natural no piso 0 e varanda no piso 1, video-porteiro e porteiro físico na entrada do prédio, mobilado e equipado com frigorifico, maquina de lavar roupa, placa, microondas, termo-acumulador, ar condicionado em ambos os pisos, parqueamento.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1950,8 +1987,8 @@
         "link": "https://www.idealista.pt/imovel/32737831/",
         "price": "2.160€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 19/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 24/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1961,7 +1998,7 @@
         "price": "6.000€/mês",
         "details": "T3 | 200 m² área bruta | Rés do chão sem elevador",
         "description": "Apartamento mobilado e totalmente remodelado, para uso imediato chave na mão, localizado numa das zonas mais faladas de Lisboa, o Principe Real.\nCom restaurantes e bares trendy, bem como arquitectura mourisca e muitos dos visitantes mais modernos de Lisboa, o Príncipe Real é o código postal obrigatório da cidade.\nAs",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -1971,18 +2008,20 @@
         "price": "1.840€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 11/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
         "região": "principe real sao bento",
         "title": "Apartamento T2 em Príncipe Real - São Bento, Misericórdia",
         "link": "https://www.idealista.pt/imovel/32635203/",
-        "price": "2.000€/mês",
+        "price": "1.400€/mês",
         "details": "T2 | 65 m² área bruta | 2º andar",
         "description": "[PT] Disponível em: 01/07/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/07/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
-        "status": "new",
-        "added_on": "2024-03-18 01:15"
+        "status": "available",
+        "added_on": "2024-03-18 01:15",
+        "original price": "2.000€/mês",
+        "date of price update": "2024-03-20 19:20"
     },
     {
         "região": "principe real sao bento",
@@ -1992,7 +2031,7 @@
         "details": "T4 | 220 m² área bruta | 2º andar com elevador",
         "description": "Localizado dentro do Palácio Mesquitela, este apartamento duplex de 200 m2 é um espaço de habitação excepcional. O nível inferior compreende um hall de entrada, uma cozinha totalmente equipada, e uma espaçosa suite. O nível superior dispõe de uma grande sala de estar e jantar em plano aberto, juntamente com três suites",
         "advertiser": "PORTUGAL SOLUTIONS",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -2003,7 +2042,7 @@
         "details": "T2 | 70 m² área bruta | 2º andar sem elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*.\nO Luala mistura o encanto de Lisboa com o desenho da selva neste paraíso de 70 metros quadrados. Descansando no coração do Principe Real, o Luala beneficia de ruas históricas e de uma cozinha de luxo mesmo à sua porta. Este dois quartos e dois balneários é im",
         "advertiser": "Ukio Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -2014,7 +2053,7 @@
         "details": "T1 | 138 m² área bruta | 4º andar com elevador",
         "description": "*APARTAMENTO COM TERRAÇO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*.\nMolako é um apartamento de 140 metros quadrados, composto de 1 quarto, 1 cama na sala de estar e um banheiro no Príncipe Real de Lisboa. O terraço tem uma vista rara e de tirar o fôlego para Lisboa e para o mar. Uma das característic",
         "advertiser": "Ukio Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:15"
     },
     {
@@ -2025,7 +2064,7 @@
         "details": "T1 | 45 m² área bruta | sem elevador",
         "description": "Open Space com muito Charme no Principe Real a poucos minutos dos espaços mais trendy da cidade e do Chiado,  Este espaço pode ser usado para galeria, casa de chá, salão de massagens, totalmente equipado e mobilado. Disponivel para arrendamento minimo de um ano.\nPossui 45 m2 de área total, várias divisórias de correr",
         "advertiser": "Hakken Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2036,7 +2075,7 @@
         "details": "T3 | 120 m² área bruta | 1º andar com elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 02-05-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,350* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2044,9 +2083,9 @@
         "title": "Apartamento T1 na rua João Brás, Santa Catarina, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33274385/",
         "price": "1.300€/mês",
-        "details": "T1 | 60 m² área bruta | 2º andar sem elevador | 15 horas",
+        "details": "T1 | 60 m² área bruta | 2º andar sem elevador | 17 mar",
         "description": "T1 junto ao adamastor, 2 andar\njanelas novas\nlocalização de excelência\ntotalmente mobilado e equipado\nchão soalho flutuante\ndespesas à parte\nwc com poliban\nmuita luz natural\nprédio sossegado\ncomércio transportes serviços\nsegundo andar sem elevador\ndisponível de imediato\njunto ao miradouro do adamastor:\nO Miradouro do",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2057,17 +2096,18 @@
         "details": "T1 | 50 m² área bruta | 3º andar sem elevador | 14 mar",
         "description": "Viva a experiência da vida urbana no nosso renovado apartamento em São Bento, estratégicamente localizado no vibrante centro de Lisboa.\nEsta residência de 45 m2, situada no 3º andar de um edifício típico dos anos 1950, oferece características incomparáveis:\nRenovação e Redecoração: Renovado em 2017, o apartamento est",
         "advertiser": "HOUZIT PORTUGAL",
-        "status": "new",
-        "added_on": "2024-03-18 01:16"
+        "status": "rented",
+        "added_on": "2024-03-18 01:16",
+        "rented on": "2024-03-20 19:18"
     },
     {
         "região": "santa catarina",
         "title": "Apartamento T1 na rua do Poço dos Negros, Santa Catarina, Misericórdia",
         "link": "https://www.idealista.pt/imovel/30725564/",
         "price": "1.200€/mês",
-        "details": "T1 | 65 m² área bruta | 1º andar com elevador | 14 mar",
+        "details": "T1 | 65 m² área bruta | 1º andar com elevador",
         "description": "predio é na Rua do poço do Negro número 71, 73,75 e 77 e beco do carrasco número 8,10, 12 e 14, o prédio é remodelação total, tem elevador.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2075,10 +2115,10 @@
         "title": "Apartamento T1 na rua da Boavista, Santa Catarina, Misericórdia",
         "link": "https://www.idealista.pt/imovel/30835194/",
         "price": "1.950€/mês",
-        "details": "T1 | 50 m² área bruta | 2º andar com elevador | 12 mar",
+        "details": "T1 | 50 m² área bruta | 2º andar com elevador",
         "description": "EXPERIENCE ROMANTIC LISBON AT BLUE BICA I APARTMENT\nAvailable from 1 February 2024\nDiscover the allure of Lisbon at Blue Bica I Apartment, a contemporary one-bedroom apartment ready for rent on 1 February 2024. Nestled within a private condominium in the heart of the city, this apartment offers an idyllic setting for",
         "advertiser": "NOOK - PROPERTIES",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2086,9 +2126,9 @@
         "title": "Apartamento T1, Pátio Galega, 16, Santa Catarina, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33258990/",
         "price": "1.000€/mês",
-        "details": "T1 | 40 m² área bruta | Rés do chão sem elevador | 11 mar",
+        "details": "T1 | 40 m² área bruta | Rés do chão sem elevador",
         "description": "No coracao de Lisboa onde tudo acontece. Time Out, metro Cais do Sodre, Bairro alto a porta, electrico para o castelo. Diversas Univerisades na zona.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2099,7 +2139,7 @@
         "details": "T2 | 110 m² área bruta | 3º andar sem elevador",
         "description": "Disponível a 15 de Maio de 2024\nNo Coração de Santa Catarina,\nNuma artéria que faz a ligação entre a Rua do Poço dos Negros e a Travessa do Terreiro a Santa Catarina, a poucos minutos do Mirador e da Assembleia da Republica\nPenthouse T3 Duplex 2wc Varanda e uma Vista Maravilhosa\nBem Remodelado!\nComposto Por\n1",
         "advertiser": "Dom senhorio Lda",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2110,7 +2150,7 @@
         "details": "T2 | 130 m² área bruta | Rés do chão sem elevador",
         "description": "PT\nBem-vindo à sua futura casa no vibrante coração de Lisboa! Este incrível apartamento T2 duplex é mais do que uma simples casa, é a manifestação de conforto e elegância no centro histórico da cidade.\nAo entrar neste apartamento espaçoso e cuidadosamente desenhado, será envolvido pela atmosfera acolhedora que o defin",
         "advertiser": "HOUZIT PORTUGAL",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2121,7 +2161,7 @@
         "details": "T2 | 96 m² área bruta | Rés do chão sem elevador",
         "description": "Um excelente apartamento de dois quartos no centro de Lisboa, sem mobília, com um atraente pátio interior privado.\nOs espaços luminosos apresentam pisos de madeira e paredes brancas, proporcionando uma base versátil para uma decoração personalizada. A cozinha moderna oferece funcionalidade, enquanto o pátio interior p",
         "advertiser": "The Real Estate Shop",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2131,7 +2171,7 @@
         "price": "1.850€/mês",
         "details": "T1 | 35 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/07/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2141,7 +2181,7 @@
         "price": "5.750€/mês",
         "details": "T4 | 235 m² área bruta",
         "description": "Excelente moradia duplex com garagem e terraço para arrendar em Santa Catarina/Chiado. Ao lado da igreja de Santa Catarina.\nNo primeiro piso encontra hall de entrada com 10m2 uma sala com 40m2, casa de jantar com 16m2, e zona da cozinha e lavandaria com 20m2 com acesso direto ao Terraço que tem cerca de 30m2 e o mesm",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2151,7 +2191,7 @@
         "price": "1.780€/mês",
         "details": "T2 | 133 m² área bruta | 1º andar com elevador",
         "description": "Fantástico apartamento T2 duplex no centro histórico de Lisboa. Um bairro conveniente com uma variedade de restaurantes e bares modernos e tradicionais nas proximidades. Perto da zona comercial do Chiado. Convenientemente localizado, fica a 10 minutos a pé da Estação de Metro Baixo-Chiado e a 12 minutos a pé da Estação",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2161,7 +2201,7 @@
         "price": "2.450€/mês",
         "details": "T2 | 130 m² área bruta | 1º andar com elevador",
         "description": "Já se imaginou a viver num apartamento de luxo com um enorme pátio privado numa localização privilegiada em Lisboa (para não falar da garagem e do elevador.. . )? Pode ter acabado de ENCONTRAR A SUA NOVA CASA!\nDê uma espreitadela neste maravilhosamente renovado apartamento T2 localizado na Travessa do Alcaide (Santa C",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2172,7 +2212,7 @@
         "details": "T2 | 130 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento 3 assoalhadas duplex no fantástico centro histórico de Lisboa\nUma zona repleta de restaurantes e bares modernos assim como tradicionais nas proximidades.\nPerto da zona comercial do Chiado é localizado a apenas 10minutos da estação de Metro Baixa Chiado e 12 da Estação do Cais do Sodré\nO apartamento in",
         "advertiser": "Arcada Arroios",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2183,7 +2223,7 @@
         "details": "T0 | 42 m² área bruta | Rés do chão sem elevador",
         "description": "Charmoso Apartamento T0 RC com Terraço na R. Poiais de São Bento, Lisboa\nBem-vindo ao seu retiro acolhedor no coração de Lisboa! Este encantador apartamento T0, situado num encantador edifício recém-construído na Rua Poiais de São Bento, oferece a combinação perfeita entre conforto moderno e charme clássico.\n• Tamanho",
         "advertiser": "Sharon Portal - Portugal Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2194,7 +2234,7 @@
         "details": "T0 | 47 m² área bruta | com elevador",
         "description": "Apartamento T0 para arrendamento sem móveis, localizado numa das freguesias mais emblemáticas.Apartamento T0 para arrendamento sem móveis, localizado numa das freguesias mais emblemáticas de Lisboa, a Misericórdia. Imóvel composto por: Sala com muita luminosidade, com saída para terraço, kitchenette equipada com placa de indução, forno, combinado, máquina de lavar e secar roupa, exaustor e termoacumulador, casa",
         "advertiser": "INS Portugal",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2204,7 +2244,7 @@
         "price": "1.399€/mês",
         "details": "T2 | 42 m² área bruta | Rés do chão sem elevador",
         "description": "SÓ PARTICULAR AGÊNCIAS NÃO CONTATAR\nApartamento bem localizado com 3 camas no mesmo quarto, uma cozinha um wc é uma sala.\nNa rua de Marcos Marreiros n 27, Lisboa\nA 300 metros do Miradouro de Santa Catarina, Fitness Hut Santos, 400 metros da Assembleia da Republica, jardim de são bentos, metros da Praça Luis Camões,",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2214,7 +2254,7 @@
         "price": "1.950€/mês",
         "details": "T1 | 50 m² área bruta | 3º andar sem elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 01-06-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nArrendamento de 1 a 11 meses. Longa duraçao pode ser considerada.\nApartamento especial para pessoas especiais!\nTorne Lisboa sua)\nEste é um apartamento recentemente adq",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2225,7 +2265,7 @@
         "details": "T2 | 71 m² área bruta",
         "description": "T2 | Remodelado | Zona Turística e Histórica | Lisboa\nApartamento T2 para arrendamento, situado na Misericórdia, no centro da cidade de Lisboa.\nInserido num 3º andar (águas furtadas) de um prédio constituído por r/c, 1º, 2º, 3º andar e ainda 2 lojas.\nRemodelado, constituído por:\nSala\nCozinha\n2 Quartos\nCasa de banho\nL",
         "advertiser": "RE/MAX Siimgroup Loft",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2235,7 +2275,7 @@
         "price": "1.400€/mês",
         "details": "T1 | 50 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/06/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2246,7 +2286,7 @@
         "details": "T1 | 57 m² área bruta | com elevador",
         "description": "Apartamento disponível para arrendamento na Baixa Chiado, Lisboa.\nDescubra o estilo de vida único que este encantador apartamento tem a oferecer. Situado no coração de Baixa Chiado, um dos bairros mais charmosos de Lisboa, este espaço acolhedor é perfeito para aqueles que buscam uma experiência de vida extraordinária.",
         "advertiser": "Engel & Völkers Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2256,8 +2296,9 @@
         "price": "8.000€/mês",
         "details": "T5 | 300 m² área bruta | 2º andar sem elevador",
         "description": "Oportunidade imperdível de arrendamento! Este magnífico apartamento T5 na Rua de Santa Catarina, Lisboa, é ideal para famílias em busca de um lar na zona histórica premium da cidade. Situado em bairros tranquilos e centrais, o imóvel oferece uma fusão perfeita entre o charme do antigo e o conforto contemporâneo.\nCom u",
-        "status": "new",
-        "added_on": "2024-03-18 01:16"
+        "status": "rented",
+        "added_on": "2024-03-18 01:16",
+        "rented on": "2024-03-24 16:13"
     },
     {
         "região": "santa catarina",
@@ -2266,8 +2307,9 @@
         "price": "1.200€/mês",
         "details": "T2 | 60 m² área bruta | 2º andar sem elevador",
         "description": "Excelente localização entre o Chiado e o Bairro de Santos, numa das zonas mais trendy de Lisboa.\nO apartamento fica localizado numa rua calma, sem carros, perpendicular à Rua Poço dos Negros.\nFica num segundo andar sem elevador, tem uma sala com duas janelas grandes com pequenas varandas, dois quartos (um pequeno que",
-        "status": "new",
-        "added_on": "2024-03-18 01:16"
+        "status": "rented",
+        "added_on": "2024-03-18 01:16",
+        "rented on": "2024-03-18 12:52"
     },
     {
         "região": "santa catarina",
@@ -2276,7 +2318,7 @@
         "price": "1.900€/mês",
         "details": "T2 | 85 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mai",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2286,7 +2328,7 @@
         "price": "1.155€/mês",
         "details": "T1 | 50 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 22/05/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 1\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2296,7 +2338,7 @@
         "price": "1.190€/mês",
         "details": "T0 | 27 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/06/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2305,8 +2347,8 @@
         "link": "https://www.idealista.pt/imovel/32989410/",
         "price": "2.590€/mês",
         "details": "T0 | 35 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 20/04/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 15/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2316,7 +2358,7 @@
         "price": "2.590€/mês",
         "details": "T0 | 35 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 05/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2326,8 +2368,9 @@
         "price": "1.975€/mês",
         "details": "T2 | 68 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/04/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
-        "added_on": "2024-03-18 01:16"
+        "status": "rented",
+        "added_on": "2024-03-18 01:16",
+        "rented on": "2024-03-18 12:52"
     },
     {
         "região": "santa catarina",
@@ -2336,7 +2379,7 @@
         "price": "1.975€/mês",
         "details": "T2 | 68 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 26/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2346,7 +2389,7 @@
         "price": "2.800€/mês",
         "details": "T3 | 123 m² área bruta | 1º andar sem elevador",
         "description": "Fantástico T3 com 3 banheiros e cozinha em open space, com áreas generosas e decoração de excelente gosto. O apartamento será arrendado com todo o mobiliário apresentado nas fotos e com a cozinha totalmente equipada. Ar-condicionado em todos os ambientes e vidros-duplos, para isolamento térmico e acústico, em todos os",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:16"
     },
     {
@@ -2356,7 +2399,7 @@
         "price": "2.000€/mês",
         "details": "T2 | 70 m² área bruta | 4º andar sem elevador",
         "description": "Apartamento de qualidade na zona requisitada de São Bento localizado no 4º andar sem elevador. A cozinha está equipada com electrodomésticos modernos e de qualidade, incluindo placa forno, microondas, máquina lavar roupa, máquina lavar louça e cilindro. Os quartos estão equipados com cama de casal, cadeira de apoio e r",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2366,7 +2409,7 @@
         "price": "3.000€/mês",
         "details": "T3 | 110 m² área bruta | 2º andar sem elevador",
         "description": "Excelente oportunidade de viver um apartamento T3 com 100m2 em uma das melhores localizações de Lisboa, na zona de São Bento. Este imóvel está em ótimo estado de conservação e possui uma varanda para desfrutar de momentos relaxantes. Além disso, está próximo a clínicas, farmácia, escolas, comércio diverso e transportes",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2376,7 +2419,7 @@
         "price": "1.780€/mês",
         "details": "T2 | 133 m² área bruta | Rés do chão com elevador",
         "description": "Fantástico apartamento T2 duplex no centro histórico de Lisboa. Um bairro conveniente com uma variedade de restaurantes e bares modernos e tradicionais nas proximidades. Perto da zona comercial do Chiado. Convenientemente localizado, fica a 10 minutos a pé da Estação de Metro Baixo-Chiado e a 12 minutos a pé da Estação",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2386,7 +2429,7 @@
         "price": "1.300€/mês",
         "details": "T2 | 55 m² área bruta | Rés do chão sem elevador",
         "description": "contrato de 3 anos mínimo.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2395,8 +2438,8 @@
         "link": "https://www.idealista.pt/imovel/33086194/",
         "price": "14.000€/mês",
         "details": "T6 | 50 m² área bruta",
-        "description": "[PT] Disponível em: 02/07/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/07/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 29/07/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 29/07/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2405,8 +2448,8 @@
         "link": "https://www.idealista.pt/imovel/33086189/",
         "price": "3.800€/mês",
         "details": "T1 | 122 m² área bruta | 4º andar",
-        "description": "[PT] Disponível em: 11/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 11/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "description": "[PT] Disponível em: 06/06/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 06/06/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2416,7 +2459,7 @@
         "price": "3.000€/mês",
         "details": "T1 | 50 m² área bruta | Rés do chão",
         "description": "[PT] Disponível em: 22/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 22/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2426,18 +2469,20 @@
         "price": "4.500€/mês",
         "details": "T2 | 50 m² área bruta | 3º andar",
         "description": "[PT] Disponível em: 02/06/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/06/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
         "região": "santa catarina",
         "title": "Apartamento T0 em Santa Catarina, Misericórdia",
         "link": "https://www.idealista.pt/imovel/33086154/",
-        "price": "1.600€/mês",
+        "price": "2.000€/mês",
         "details": "T0 | 50 m² área bruta | 3º andar",
-        "description": "[PT] Disponível em: 18/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 18/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
-        "added_on": "2024-03-18 01:17"
+        "description": "[PT] Disponível em: 28/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 28/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "status": "available",
+        "added_on": "2024-03-18 01:17",
+        "original price": "1.600€/mês",
+        "date of price update": "2024-03-18 23:45"
     },
     {
         "região": "santa catarina",
@@ -2446,7 +2491,7 @@
         "price": "4.000€/mês",
         "details": "T2 | 75 m² área bruta | 1º andar",
         "description": "[PT] Disponível em: 29/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 29/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2456,7 +2501,7 @@
         "price": "2.500€/mês",
         "details": "T0 | 50 m² área bruta | Rés do chão",
         "description": "[PT] Disponível em: 02/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2467,7 +2512,7 @@
         "details": "T1 | 52 m² área bruta",
         "description": "Magnífico T1 remodelado, equipado e mobilado, inserido em edifício de traça antiga, com uma área total de 52m2. Imóvel situado no 1º andar destacando a qualidade nos acabamentos interiores e a sua localização privilegiada no centro histórico de Lisboa, na freguesia da Misericórdia junto ao comércio local e todo o tipo",
         "advertiser": "RE/MAX Golden Line II",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2476,9 +2521,9 @@
         "link": "https://www.idealista.pt/imovel/33059877/",
         "price": "1.190€/mês",
         "details": "T1 | 28 m² área bruta",
-        "description": "The Homing Group is delighted to introduce a charming and cozy one-bedroom apartment, available for medium/long term lease, starting from 25th February 2024 till 31st March 2024 and/or from 1st of June 2024.\nThis fully furnished apartment boasts furniture and a well-equipped kitchen. Nestled on the ground floor, has 2",
+        "description": "The Homing Group is delighted to introduce a charming and cozy one-bedroom apartment, available for medium/long term lease, starting from 1st of April 2024.\nThis fully furnished apartment boasts furniture and a well-equipped kitchen. Nestled on the ground floor, has 28 sqm PGA, and it has been meticulously renovated.",
         "advertiser": "Homing Real Estate",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2489,7 +2534,7 @@
         "details": "T0 | 43 m² área bruta | 3º andar sem elevador",
         "description": "Encantador Estúdio Próximo do Cais do Sodré e Bica.\nAcolhedor estúdio situado no 3º andar de um prédio sem elevador em rua tranquila, a poucos passos do Cais do Sodré e da Bica. Apesar de localizado numa área sossegada, oferece fácil acesso a vários cafés e restaurantes, estando também a uma curta distância a pé do cen",
         "advertiser": "PROPR",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2500,7 +2545,7 @@
         "details": "T0 | 45 m² área bruta | Rés do chão sem elevador",
         "description": "Apartamento completamente remodelado na Rua do Poços dos Negros. Este imóvel está localizado no rés do chão e equipado com ar condicionado, ideal para os dias mais quentes. A cozinha está equipada com placa, exaustor, termoacumulador, combinado e máquina de lavar loiça, e máquina de lavar roupa, trazendo praticidade pa",
         "advertiser": "Alternativa Prime - Mediação Imobiliária, Unipessoal Lda.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2511,7 +2556,7 @@
         "details": "T3 | 180 m² área bruta",
         "description": "Viver num Palácio no coração de Lisboa\n \nEste magnifico T3, inserido num condomínio fechado, no edifício “Palácio Mesquitela” – Chiado, é a combinação perfeita para viver dentro da cidade e em simultâneo, encontrar a sua tranquilidade.\n \nTrata-se de um apartamento por piso, este fica no 3º e último andar, com 162m2 de",
         "advertiser": "RE/MAX Collection Siimgroup",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2521,7 +2566,7 @@
         "price": "2.500€/mês",
         "details": "T2 | 140 m² área bruta | 2º andar sem elevador",
         "description": "Apartamento moderno com traços rústicos, em prédio histórico na zona de Santa Catarina/Bica.\nA cozinha está totalmente equipada com Smeg, e os acabamentos da casa são de luxo.\nRua muito calma, a dois passos do miradouro do Adamastor e a 7 minutos a pé do Chiado.\nDisponibilidade imediata.",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2531,7 +2576,7 @@
         "price": "2.000€/mês",
         "details": "T2 | 84 m² área bruta | 6º andar com elevador",
         "description": "Bem-vindo à sua casa elegante e confortável no centro da cidade de Lisboa, a poucos passos da Bica. Este apartamento totalmente mobiliado oferece dois quartos espaçosos e duas casas de banho, garantindo o conforto e a privacidade de todos. A cozinha moderna está totalmente equipada para preparação de refeições delicios",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2540,8 +2585,8 @@
         "link": "https://www.idealista.pt/imovel/32698724/",
         "price": "1.150€/mês",
         "details": "T0 | 40 m² área bruta",
-        "description": "[PT] Disponível em: 01/06/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/06/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
-        "status": "new",
+        "description": "[PT] Disponível em: 01/09/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/09/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2550,8 +2595,8 @@
         "link": "https://www.idealista.pt/imovel/32694877/",
         "price": "2.500€/mês",
         "details": "T2 | 120 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 16/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 30/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2561,7 +2606,7 @@
         "price": "2.380€/mês",
         "details": "T2 | 50 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 24/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2571,7 +2616,7 @@
         "price": "1.730€/mês",
         "details": "T1 | 40 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 03/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2582,7 +2627,7 @@
         "details": "T2 | 100 m² área bruta | 1º andar com elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nCom design elegante, Koya é um apartamento de 100 metros quadrados com 2 quartos e 1,5 banhos. Os pequenos detalhes, desde o ventilador na entrada até à pequena árvore de bonsái por cima da televisão, distinguem esta decoração. Ao entrar no espaço, a entrada l",
         "advertiser": "Ukio Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2593,7 +2638,7 @@
         "details": "T2 | 90 m² área bruta | 3º andar sem elevador",
         "description": "*APARTAMENTO COM TERRAÇO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*.\nEsta penthouse é uma obra-prima, completa com vista para o oceano e desenho artístico ao longo de todos os 80 metros quadrados. Localizada no distrito de Bica, os hóspedes podem esperar encontrar cozinha lisboeta de alta qualidade, b",
         "advertiser": "Ukio Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2604,7 +2649,7 @@
         "details": "T2 | 90 m² área bruta | 2º andar com elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*.\nAo atingir um equilíbrio entre a magia marroquina e o luxo lisboano, esta casa de 90 metros quadrados exala luminosidade e esplendor em todos os seus interiores. No exterior, os hóspedes encontrarão uma mistura perfeita entre encanto e diversão no bairro da B",
         "advertiser": "Ukio Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2615,7 +2660,7 @@
         "details": "T2 | 86 m² área bruta | 3º andar com elevador",
         "description": "Charmoso apartamento T2, com excelente localização, totalmente remodelado, (inclusive hidráulica e elétrica) decorado e mobiliado com muito bom gosto.\nLocalizado ao lado do ascensor histórico da Bica, a 5 minutos a pé do Chiado e a 10 minutos da estação do Cais de Sodré, em uma localização privilegiada com vários resta",
         "advertiser": "Ana Pereira Prizzo",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2625,8 +2670,9 @@
         "price": "4.250€/mês",
         "details": "T2 | 90 m² área bruta | 2º andar sem elevador",
         "description": "**Available! **\n** Furnished apartment. Flexible lease options - one month or more. **\nWe are pleased to present this wonderfully charming T2 duplex apartment, located in the historic heart of Lisbon. Santa Catarina is nestled between Bica, Principe Real and Santos, areas which are home to an array of modern and trad",
-        "status": "new",
-        "added_on": "2024-03-18 01:17"
+        "status": "rented",
+        "added_on": "2024-03-18 01:17",
+        "rented on": "2024-03-23 13:23"
     },
     {
         "região": "santa catarina",
@@ -2636,7 +2682,7 @@
         "details": "T2 | 91 m² área bruta | 3º andar com elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*.\nAmba exala sentimentos de êxtase e ambiente de selva. Ao longo dos 91 metros quadrados e nos arredores da Bica tudo parece soberbamente requintado. O bairro de Bica oferece um retiro residencial mesmo ao lado do centro. De volta ao interior desta casa de dois",
         "advertiser": "Ukio Lisboa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2647,7 +2693,7 @@
         "details": "T2 | 69 m² área bruta | 3º andar com elevador",
         "description": "Agradecemos que para marcações de visitas seja enviada mensagem.\nApartamento Livon Green, Baixa, Lisboa\nEste apartamento remodelado dispõe de dois quartos e uma casa de banho.\n- Totalmente Equipado e Mobilado\n- Wifi / TV Cabo\n- Cozinha Equipada\n- Roupeiros nos quartos\n- Autocarro e metro a minutos de distancia\n- Alu",
         "advertiser": "Agente Imobiliario",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2657,7 +2703,7 @@
         "price": "1.999€/mês",
         "details": "T0 | 42 m² área bruta | 1º andar com elevador",
         "description": "Apartamento de luxo (3J) para aluguel de longa duração no centro de Lisboa (R. Poço dos Negros). Diretamente na linha de bonde 28 E / Elevador / Ar condicionado / Internet rápida / TV 120 canais / Cozinha totalmente equipada (forno de microondas, fogão / lava louça, máquina de lavar roupa) / O prédio é seguro e monitor",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2667,7 +2713,7 @@
         "price": "1.800€/mês",
         "details": "T1 | 75 m² área bruta | 1º andar sem elevador",
         "description": "Short term rental\nFull of charm, and with lot s of light, it s just the perfect location. The Apartment has been fully renovated in 2016 and offers you 1 independent bedroom, a large and stylish living room with a double sofa bed, as well as a complete bathroom and fully eqquiped kitchen.\nIt´s located at rua poiais de",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
     },
     {
@@ -2677,7 +2723,359 @@
         "price": "2.699€/mês",
         "details": "T2 | 160 m² área bruta | 3º andar sem elevador",
         "description": "SÓ PARTICULARES\nEntrada - 1 de Abril de 2024\nNecessidade de validação de rendimentos e entrega de 2 Rendas antecipadas.\n1 caução para os equipamentos da cozinha e 2 cauções para o Edifício.\nApartamento espetacular no centro de Lisboa - 3º Andar sem elevador, as escadas são estreitas e diretas.\nNa Freguesia da mis",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-18 01:17"
+    },
+    {
+        "região": "bairro alto",
+        "title": "Apartamento T1 na travessa dos Fiéis de Deus, 126, Bairro Alto, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33275360/",
+        "price": "1.480€/mês",
+        "details": "T1 | 70 m² área bruta | Rés do chão com elevador | 18 mar",
+        "description": "Apartamento T1, numa das zonas mais emblemáticas de Lisboa, Bairro Alto. Inserido numa área maioritariamente residencial e tranquila e a dois passos de todo o comercio e restauração. A 500metros do Largo Camões e Chiado com transportes necessários para o dia a dia, praticamente à porta.\nApartamento como novo completam",
+        "advertiser": "MYCASAS.PT",
+        "status": "available",
+        "added_on": "2024-03-18 12:51"
+    },
+    {
+        "região": "cais do sodre santos",
+        "title": "Apartamento T0 na rua do Poço dos Negros, Cais do Sodré - Santos, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33275931/",
+        "price": "1.300€/mês",
+        "details": "T0 | 40 m² área bruta | 1º andar sem elevador | 18 mar",
+        "description": "Viva no centro de Lisboa, entre Cais do Sodré e Príncipe Real, no Bairro da Bica, com todo tipo de comodidade próximo ao apartamento. Fácil acesso a transportes públicos.\nEstúdio completamente remodelado, equipado e mobilado.\nCozinha equipada com: Placa, forno, exaustor, máquina de lavar roupa, cafeteira, mini frigo",
+        "advertiser": "MAVEN",
+        "status": "available",
+        "added_on": "2024-03-18 23:41",
+        "original price": "1.450€/mês",
+        "date of price update": "2024-03-23 13:24"
+    },
+    {
+        "região": "chiado pc de camoes",
+        "title": "Moradia em Chiado - Pç. de Camões, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33275836/",
+        "price": "3.400€/mês",
+        "details": "T3 | 118 m² área bruta | 18 mar",
+        "description": "Charmosa Moradia Renovada com Anexo Independente em São João do Estoril\nEsta encantadora moradia totalmente remodelada oferece um anexo independente e amplo espaço exterior, incluindo dois lugares de estacionamento.\nNo rés do chão, desfrute de uma espaçosa sala em open space com acesso direto a uma cozinha totalmente",
+        "advertiser": "MAP -  Martina Lennon Properties, M.I. lda",
+        "status": "available",
+        "added_on": "2024-03-18 23:42"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T4, Ruben A. Leitao, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33201797/",
+        "price": "2.250€/mês",
+        "details": "T4 | 140 m² área bruta | 2º andar com elevador",
+        "description": "Apartamento c/ 5 assoalhadas, totalmente remodelado, cozinha equipada c/ esquentador, placa, forno, frigorifico e máquina de lavar loiça, maquina de lavar e secar roupa, 3 dos quartos c/ roupeiro, varanda, prédio c/ 2 elevadores entre a Praça das Flores e o jardim do Príncipe Real.",
+        "status": "rented",
+        "added_on": "2024-03-18 23:43",
+        "rented on": "2024-03-23 13:23"
+    },
+    {
+        "região": "santa catarina",
+        "title": "Apartamento T1 na rua do Sol a Santa Catarina, 19, Santa Catarina, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/31083532/",
+        "price": "1.300€/mês",
+        "details": "T1 | 40 m² área bruta | 1º andar sem elevador | 18 mar",
+        "description": "Imóvel está disponível apenas a partir de Junho.\nExcelente apartamento de 2 assoalhadas renovado no Bairro Alto/ Santa Catarina, junto ao Miradouro do Adamastor, a 10 minutos a pé do metro da Baixa/Chiado, e com todo o comércio da zona envolvente.",
+        "status": "available",
+        "added_on": "2024-03-18 23:44"
+    },
+    {
+        "região": "santa catarina",
+        "title": "Apartamento T2 na rua Poiais de São Bento, s/n, Santa Catarina, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33211182/",
+        "price": "2.200€/mês",
+        "details": "T2 | 96 m² área bruta | 1º andar sem elevador",
+        "description": "Apartamento espaçoso e sem mobília de dois quartos no centro de Lisboa, oferecendo flexibilidade para personalizar de acordo com as suas preferências.\nGrandes janelas que inundam os quartos com luz natural, pisos de madeira e paredes brancas que criam uma tela em branco. Cozinha equipada e espaço para refeições. Este",
+        "advertiser": "The Real Estate Shop",
+        "status": "available",
+        "added_on": "2024-03-18 23:44"
+    },
+    {
+        "região": "bairro alto",
+        "title": "Apartamento T0 na rua São Boaventura, 101, Bairro Alto, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/32420709/",
+        "price": "1.150€/mês",
+        "details": "T0 | 35 m² área bruta | 2º andar sem elevador | 19 mar",
+        "description": "Charmoso e moderno estúdio localizado no segundo andar de uma rua tranquila entre a vida noturna do “Bairro Alto” e o belo jardim do “Príncipe Real”.\nCOMODIDADES: Painel de aquecimento de parede, Ar condicionado, Máquina de lavar / secar roupa, Wi-Fi, eletrodomésticos SMEG, Fogão e forno, Máquina de café Nespresso, C",
+        "status": "available",
+        "added_on": "2024-03-20 19:16"
+    },
+    {
+        "região": "bairro alto",
+        "title": "Apartamento T2 em Bairro Alto, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33277249/",
+        "price": "2.600€/mês",
+        "details": "T2 | 100 m² área bruta | com elevador | 19 mar",
+        "description": "Se pretende arrendar um apartamento no centro cosmopolita e histórico de Lisboa, este imóvel é para si!\nNo coração do Chiado, este apartamento com 95m2, num prédio de requinte único, datado de 2004, possui uma ampla sala com muita luz, dois quartos com roupeiro, ambos com a característica varanda portuguesa, cozinha eq",
+        "advertiser": "Century 21 Nações",
+        "status": "available",
+        "added_on": "2024-03-20 19:16"
+    },
+    {
+        "região": "bairro alto",
+        "title": "Apartamento T1 na rua São Boaventura, 101, Bairro Alto, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/32420817/",
+        "price": "1.850€/mês",
+        "details": "T1 | 85 m² área bruta | 3º andar sem elevador",
+        "description": "Charmoso e moderno T1+1 apartamento localizado no terceiro andar de uma rua tranquila entre a vida noturna do “Bairro Alto” e o belo jardim do “Príncipe Real”.\nCOMODIDADES: 2 casas do banho, 2 paineis de Aquecimento de parede, 2 unidades de Ar condicionado, Máquina de lavar / secar roupa, Wi-Fi, eletrodomésticos SMEG",
+        "status": "available",
+        "added_on": "2024-03-20 19:17",
+        "original price": "2.150€/mês",
+        "date of price update": "2024-03-23 13:23"
+    },
+    {
+        "região": "bica",
+        "title": "Apartamento T1 na rua do Almada, 12, Bica, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/30383675/",
+        "price": "1.200€/mês",
+        "details": "T1 | 70 m² área bruta | 3º andar sem elevador | 10 horas",
+        "description": "Renovated apartment in a traditional building, located in a small and quiet street, ideal for good rest, but at the same time very close to great restaurants, nightlife and sightseeing locations. The apartment also has a small balcony.",
+        "status": "rented",
+        "added_on": "2024-03-20 19:18",
+        "rented on": "2024-03-23 13:23"
+    },
+    {
+        "região": "bica",
+        "title": "Apartamento T1, Calçada da Bica Grande, 10, Bica, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33281191/",
+        "price": "1.100€/mês",
+        "details": "T1 | 55 m² área bruta | 1º andar sem elevador | 20 mar",
+        "description": "",
+        "status": "available",
+        "added_on": "2024-03-20 19:18"
+    },
+    {
+        "região": "cais do sodre santos",
+        "title": "Apartamento T0 na rua do Poço dos Negros, 150, Cais do Sodré - Santos, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33280575/",
+        "price": "1.550€/mês",
+        "details": "T0 | 60 m² área bruta | 3º andar com elevador | 20 mar",
+        "description": "Apartamento T0 com Mezzanine no centro de Lisboa.\nLugar de garagem e porteiro 24h.",
+        "status": "available",
+        "added_on": "2024-03-20 19:18"
+    },
+    {
+        "região": "chiado pc de camoes",
+        "title": "Apartamento T1 na rua do Loreto, 55, Chiado - Pç. de Camões, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33278657/",
+        "price": "1.950€/mês",
+        "details": "T1 | 105 m² área bruta | 3º andar sem elevador | 19 mar",
+        "description": "Apartamento encantador para arrendamento no coração de Chiado, em Lisboa. Este imóvel, localizado no terceiro andar de um prédio charmoso, sem elevador, oferece uma escadaria ampla e uma área total de 100m2.\nRecentemente renovado, o apartamento combina materiais típicos da antiga Lisboa, como azulejos e chão de tábua",
+        "advertiser": "WoM. Investments ",
+        "status": "available",
+        "added_on": "2024-03-20 19:19"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T1, Calçada do Combro, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33282202/",
+        "price": "1.500€/mês",
+        "details": "T1 | 41 m² área bruta | 3º andar com elevador | 20 mar",
+        "description": "Apartamento T1 sem móveis em prédio totalmente reabilitado na Calçada do Combro, situado bem no coração da cidade de Lisboa.\nAs áreas dividem-se por:\n-Sala de estar com cozinha totalmente equipada,\n- 1 quarto com roupeiro\n- W. c. com base de duche.\nImóvel com bons acabamentos, com muita luz natural, equipado com p",
+        "advertiser": "Porta da Frente Christie’s",
+        "status": "available",
+        "added_on": "2024-03-20 19:20"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T2 na avenida Dom Carlos I, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33281723/",
+        "price": "1.850€/mês",
+        "details": "T2 | 75 m² área bruta | Rés do chão sem elevador | 20 mar",
+        "description": "T1 + 1 mobilado e equipado, com 70 m² cheio de luz, composto por 1 quarto de casal espaçoso, e um quarto mais pequeno, 1 casa de banho e uma ampla sala, e 1 cozinha totalmente equipada. Res do Chao alto. Com áreas generosas, este apartamento oferece lhe todo o conforto e privacidade, num ambiente citadino. Encontra se",
+        "advertiser": "ORIGINAL TRADING & CONSULTING",
+        "status": "available",
+        "added_on": "2024-03-20 19:20"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T1 em Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33282496/",
+        "price": "1.300€/mês",
+        "details": "T1 | 60 m² área bruta | sem elevador | 20 mar",
+        "description": "T1 de de 2 assoalhadas + 1 assoalhada que pode ser escritório ou arrumos/Closet.\nApartamento com boa luminosidade e pequena varanda virada para a Igreja das Mercês, junto ao Liceu Passos Manuel e Academia das Ciências de Lisboa.\nO apartamento está recém remodelado e pintado de fresco, a Cozinha está aberta para a sa",
+        "advertiser": "MaisConsultores #Compasso",
+        "status": "available",
+        "added_on": "2024-03-21 01:01"
+    },
+    {
+        "região": "bairro alto",
+        "title": "Apartamento T1 na rua dos Mouros, 32, Bairro Alto, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33287826/",
+        "price": "1.400€/mês",
+        "details": "T1 | 45 m² área bruta | 3º andar com elevador | Ontem",
+        "description": "Este apartamento é ótimo para duas pessoas. A cozinha está totalmente equipada com placa, frigorífico, micro-ondas, forno, máquina de café e outras utilidades. O quarto possui uma cama confortável com lençóis de hotel, para seu conforto. A casa de banho oferece-lhe todo o necessário para a sua estadia. O WiFi gratuito",
+        "status": "available",
+        "added_on": "2024-03-23 13:23"
+    },
+    {
+        "região": "bairro alto",
+        "title": "Apartamento T3 na rua das Salgadeiras, Bairro Alto, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33287231/",
+        "price": "5.000€/mês",
+        "details": "T3 | 155 m² área bruta | 2º andar com elevador | 22 mar",
+        "description": "Localizado no prestigiado bairro do Chiado em Lisboa, este empreendimento de luxo manteve a sua fachada original do século XIX.\nEste sofisticado apartamento para arrendamento é composto por três quartos, todos em suite, três casas de banho, uma espaçosa sala de estar e uma cozinha totalmente equipada. O edifício tem",
+        "advertiser": "ORIA Real Estate Advisors",
+        "status": "available",
+        "added_on": "2024-03-23 13:23"
+    },
+    {
+        "região": "bairro alto",
+        "title": "Apartamento T1 na rua Luz Soriano, Bairro Alto, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33283349/",
+        "price": "1.050€/mês",
+        "details": "T1 | 40 m² área bruta | 1º andar sem elevador | 21 mar",
+        "description": "Fantastic design 1-bedroom apartment in Bairro Alto: one of the most vibrant areas in Lisbon! The apartment is fully furnished with high quality items and provides air-conditioning throughout the apartment. There is plenty of storage in the apartment.\nBairro Alto is a picturesque quarter dating from the 1500s, that ha",
+        "advertiser": "Lisbon Estates",
+        "status": "available",
+        "added_on": "2024-03-23 13:23"
+    },
+    {
+        "região": "bica",
+        "title": "Apartamento T3 na travessa do Cabral, 11, Bica, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/32254243/",
+        "price": "2.500€/mês",
+        "details": "T3 | 80 m² área bruta | 1º andar sem elevador",
+        "description": "Somente aluguel de verão. Disponível de 1º de junho a 31 de agosto.\nApartamento de três quartos em rua tranquila junto à famosa linha do eléctrico da Rua da Bica.",
+        "status": "available",
+        "added_on": "2024-03-23 13:24"
+    },
+    {
+        "região": "cais do sodre santos",
+        "title": "Apartamento T2 na rua do São Paulo, 55, Cais do Sodré - Santos, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33288261/",
+        "price": "2.900€/mês",
+        "details": "T2 | 130 m² área bruta | 3º andar com elevador | 22 mar",
+        "description": "Se procura viver num apartamento com umalocalização excelente, temos o que procura!\nApartamento T3 muito luminoso e superconfortável, cozinha completamente e quipada, uma maravilhosa casa de banho, ar condicionado, com Tv.\né desfrutar da melhorlocalização de Lisboa e dos encantostradicionais da cidade a 2 passos dedi",
+        "status": "available",
+        "added_on": "2024-03-23 13:24"
+    },
+    {
+        "região": "chiado pc de camoes",
+        "title": "Apartamento T1 na travessa De São José, 18, Chiado - Pç. de Camões, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/29901540/",
+        "price": "1.000€/mês",
+        "details": "T1 | 68 m² área bruta | 3º andar sem elevador | Ontem",
+        "description": "T1+2 à Praça das Flores com orientação Nascente e Poente, em rua calma, entre o Príncipe Real e S. Bento. A 10 minutos das estações de metro Rato e Baixa/Chiado e fácil acesso todos os meios de transporte público. Apartamento em águas furtadas composto por sala de estar, sala de jantar, quarto principal, segundo quarto",
+        "status": "available",
+        "added_on": "2024-03-23 13:25"
+    },
+    {
+        "região": "chiado pc de camoes",
+        "title": "Penthouse na rua da Emenda, Chiado - Pç. de Camões, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33284160/",
+        "price": "2.000€/mês",
+        "details": "T2 | 150 m² área bruta | 4º andar com elevador | 21 mar",
+        "description": "Último piso de um prédio todo recuperado, com elevador, em pleno Chiado, na rua da Emenda.\nVistas desafogadas de todas as janelas, dos telhados lisboetas até ao Castelo de São Jorge, vendo-se o rio Tejo da sala, e o Cristo Rei de um dos quartos.\nCasa com arquitetura de traça pombalina mas com pormenores mais contemporâ",
+        "advertiser": "Oceanside",
+        "status": "available",
+        "added_on": "2024-03-23 13:25"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T2 na rua Quintinha, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33287052/",
+        "price": "1.950€/mês",
+        "details": "T2 | 100 m² área bruta | 1º andar com elevador | 22 mar",
+        "description": "CENTRO LISBOA / PRÍNCIPE REAL nas proximidades SÃO BENTO apart. T2 sem móveis com aquecimento central e ar condicionado.\nSala 30m2 e 2 quartos (1 suite 15m2) SEM MÓVEIS, com roupeiros e 2wc. Varanda.\nCozinha equipada com placa, forno, frigorífico, caldeira, máquinas de lavar roupa e loiça.\n1º and. com elevador.\nTRA",
+        "status": "available",
+        "added_on": "2024-03-23 13:26"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T1 na avenida Dom Carlos I, 124, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33286700/",
+        "price": "1.500€/mês",
+        "details": "T1 | 70 m² área bruta | 6º andar com elevador | 22 mar",
+        "description": "Arrenda-se fantástico apartamento T1 com 70 m2, não mobilado, na Avenida D. Carlos I, em Lisboa, em edifício de construção moderna e de alta qualidade, com dois elevadores e porteiro residente.\nApresenta um hall de entrada com bengaleiro, uma ampla sala com incrível vista sobre a cidade, um confortável quarto com roup",
+        "status": "available",
+        "added_on": "2024-03-23 13:26"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T3 na rua Nova da Piedade, 9, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33286227/",
+        "price": "1.800€/mês",
+        "details": "T3 | 80 m² área bruta | 1º andar sem elevador | Ontem",
+        "description": "Apartamento T3 na Praça das Flores.\nApartamento acabado de fazer obras totais.\nCozinha totalmente equipada:\nFrigorífico, placa, forno, exaustor, Termoacumulador, máquina de lavar loiça, máquina de lavar roupa.\nWc\nMarquises.\nJanelas pvc oscilo batentes.\nFechadura de trancas.\nPrédio calmo apenas com 1 morador, senh",
+        "status": "rented",
+        "added_on": "2024-03-23 13:26",
+        "rented on": "2024-03-24 04:23"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T1 em Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33283400/",
+        "price": "1.500€/mês",
+        "details": "T1 | 65 m² área bruta | sem elevador | 21 mar",
+        "description": "Apartamento de Tipologia T1, 2 assoalhadas, sala comum, quarto, cozinha equipada com frigorífico, forno, fogão, máquina de lavar roupa, máquina de lavar louça, casa de banho com base de  duche. Da cozinha tem acesso a um logradouro com 11,2 m2.\nRés-do-chão alto, num prédio sem elevador, inserido numa zona tranquila,",
+        "advertiser": "kw area",
+        "status": "available",
+        "added_on": "2024-03-23 13:26"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T2 na rua da Imprensa Nacional, 24, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33283347/",
+        "price": "2.490€/mês",
+        "details": "T2 | 83 m² área bruta | 1º andar sem elevador | 21 mar",
+        "description": "Lindo apartamento T2 prédio e apartamento novo.\nMobilado e equipado.\nlocalizado no charmoso bairro do Príncipe Real, junto a belíssima Praça das Flores e Assembleia da República.\nApartamento de 83,70 m², renovado com muita qualidade, bem distribuído em: quarto, sala com cozinha em open-space muito luminoso e especi",
+        "advertiser": "CARE Consultants & Advisers In Real Estate",
+        "status": "available",
+        "added_on": "2024-03-23 13:26"
+    },
+    {
+        "região": "santa catarina",
+        "title": "Apartamento T3 na rua do Poço dos Negros, 23, Santa Catarina, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/31461392/",
+        "price": "1.175€/mês",
+        "details": "T3 | 75 m² área bruta | 3º andar sem elevador",
+        "description": "- 3 quartos\n- 1 casa de banho.\n- Cozinha com todas as máquinas e equipamentos necessários, assim como loiça e utensílios.\n- Quartos completamente mobilados e se desejar têm à disposição roupa de cama e toalhas.\n- Muito central, na Rua do Poço dos Negros, a poucos metros do Bairro Alto, Chiado e Baixa.\n- Tem todo o tipo",
+        "status": "rented",
+        "added_on": "2024-03-23 13:27",
+        "rented on": "2024-03-24 18:43"
+    },
+    {
+        "região": "chiado pc de camoes",
+        "title": "Apartamento T4 na rua do Alecrim, 99, Chiado - Pç. de Camões, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33289206/",
+        "price": "3.500€/mês",
+        "details": "T4 | 165 m² área bruta | 4º andar com elevador | Ontem",
+        "description": "Não tenho interesse em receber contatos de agencias imobiliárias nem empresa de gestão imobiliário\nApartamento totalmente mobiliado e equipado, com áreas amplas e vista desafogada para o Rio Tejo, apartamento com áreas amplas e com bastante luz natural,\nImóvel com alguns traços originais mas com o conforto de uma ha",
+        "status": "available",
+        "added_on": "2024-03-24 04:25"
+    },
+    {
+        "região": "chiado pc de camoes",
+        "title": "Apartamento T1 na rua do Alecrim, 99, Chiado - Pç. de Camões, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33289202/",
+        "price": "1.900€/mês",
+        "details": "T1 | 65 m² área bruta | 4º andar com elevador | Ontem",
+        "description": "Não tenho interesse em receber contatos de agencias imobiliárias ou de empresas de gestão imobiliário\nApartamento novo nunca habitado com bastante luz natural, uma excelente varanda, cozinha totalmente equipada\nImóvel localizado a poucos metros do centro do Chiado e a poucos metros da saída do metro e estação do el",
+        "status": "available",
+        "added_on": "2024-03-24 04:25"
+    },
+    {
+        "região": "santa catarina",
+        "title": "Apartamento T1 em Santa Catarina, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/32975178/",
+        "price": "1.600€/mês",
+        "details": "T1 | 25 m² área bruta | sem elevador",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 21/07/2024\n- Duração Mínima de Aluguer: 90 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
+        "status": "available",
+        "added_on": "2024-03-24 16:17"
+    },
+    {
+        "região": "principe real sao bento",
+        "title": "Apartamento T2 na rua Quintinha, Príncipe Real - São Bento, Misericórdia",
+        "link": "https://www.idealista.pt/imovel/33289718/",
+        "price": "1.800€/mês",
+        "details": "T2 | 100 m² área bruta | 1º andar com elevador | 1 hora",
+        "description": "Apartamento T2 em primeiro andar de prédio com elevador, com localização privilegiada entre São Bento e a fantástica Praça das Flores, a dois passos do Príncipe Real.\nConstituído por cozinha totalmente equipada, sala ampla (30m2) com muita luz (poente) e vários ambientes aberta para uma varanda larga e aberta, dois qu",
+        "status": "new",
+        "added_on": "2024-03-24 18:45"
     }
 ]

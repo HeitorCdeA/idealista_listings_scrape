@@ -6,18 +6,21 @@
         "price": "950€/mês",
         "details": "T2 | 45 m² área bruta | Rés do chão sem elevador",
         "description": "Casinha, com entrada totalmente independente, chão em parquet, aquecimento elétrico, possibilidade de estendal móvel, espaço externo generoso, termo acumulador; ideal para estadias até 6 meses, em regime de hospedagem renovável mensalmente mas sempre necessário um mês de fiança e uma renda de caução de danos nos móveis",
-        "status": "available",
-        "added_on": "2024-03-04 23:47"
+        "status": "rented",
+        "added_on": "2024-03-04 23:47",
+        "rented on": "2024-03-20 19:04"
     },
     {
         "região": "centro",
-        "title": "Apartamento T1 na rua 4 de Infantaria, 74, Centro, Campo de Ourique",
+        "title": "Apartamento T0 na rua 4 de Infantaria, 74, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/31779060/",
-        "price": "850€/mês",
-        "details": "T1 | 35 m² área bruta | Rés do chão sem elevador",
+        "price": "799€/mês",
+        "details": "T0 | 35 m² área bruta | Rés do chão sem elevador",
         "description": "",
         "status": "available",
-        "added_on": "2024-03-04 23:47"
+        "added_on": "2024-03-04 23:47",
+        "original price": "850€/mês",
+        "date of price update": "2024-03-20 19:04"
     },
     {
         "região": "centro",
@@ -93,8 +96,9 @@
         "price": "2.800€/mês",
         "details": "T3 | 109 m² área bruta | 4º andar com elevador",
         "description": "Oportunidade Única de Arrendamento na Rua do Sol ao Rato, Lisboa.\nApresentamos este magnífico apartamento T3, em prédio com elevador, terraço e arrecadação.\nCaracterísticas Destacadas:\nApartamento T3 Espaçoso com três quartos bem-distribuídos e áreas generosas, este apartamento é perfeito para quem busca conforto e",
-        "status": "available",
-        "added_on": "2024-03-04 23:47"
+        "status": "rented",
+        "added_on": "2024-03-04 23:47",
+        "rented on": "2024-03-18 12:39"
     },
     {
         "região": "centro",
@@ -133,11 +137,13 @@
         "região": "centro",
         "title": "Apartamento T1 na rua Almeida e Sousa, 40, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33234489/",
-        "price": "1.600€/mês",
+        "price": "1.400€/mês",
         "details": "T1 | 70 m² área bruta | 4º andar com elevador",
         "description": "Excelente T1+1, renovado há 3 anos, localizado a escassos metros do Jardim da Parada e em frente à famosa Pastelaria Aloma. O apartamento está num 4o piso, com elevador e orientado a Sul. Ao nivel do apartamento não existem vizinhos do lado oposto da rua.\nO apartamento tem ainda uma divisão que poderá servir de quart",
         "status": "available",
-        "added_on": "2024-03-04 23:47"
+        "added_on": "2024-03-04 23:47",
+        "original price": "1.500€/mês",
+        "date of price update": "2024-03-24 15:53"
     },
     {
         "região": "campo de ourique",
@@ -242,10 +248,11 @@
         "link": "https://www.idealista.pt/imovel/33224104/",
         "price": "2.900€/mês",
         "details": "T4 | 145 m² área bruta | 3º andar com elevador",
-        "description": "Apartamento T4, bem localizado na zona das Amoreiras, com bastante luz natural, com vistas desafogadas para as copas das árvores.\nCaracterísticas Gerais:\n- Hall de entrada com 6,43m2;\n- Sala de estar com 36,76m2, com varanda e muita luz natural;\n- Corredor com 4,90m2;\n- Quarto 1 com 12,60m2, com roupeiros;\n-",
+        "description": "Bairro das Amoreiras!Apartamento T4, bem localizado na zona das Amoreiras, com bastante luz natural, com vistas desafogadas para as copas das árvores.\nCaracterísticas Gerais:\n- Hall de entrada com 6,43m2;\n- Sala de estar com 36,76m2, com varanda e muita luz natural;\n- Corredor com 4,90m2;\n- Quarto 1 com 12,60m2, com roupeiros;\n-",
         "advertiser": "Lince Real Estate",
-        "status": "available",
-        "added_on": "2024-03-04 23:47"
+        "status": "rented",
+        "added_on": "2024-03-04 23:47",
+        "rented on": "2024-03-21 00:44"
     },
     {
         "região": "campo de ourique",
@@ -296,7 +303,7 @@
         "link": "https://www.idealista.pt/imovel/31665066/",
         "price": "1.650€/mês",
         "details": "T2 | 69 m² área bruta | Rés do chão com elevador",
-        "description": "Apartamento equipado, sem móveis, em Campo OuriqueApartamento T2 totalmente reabilitado, para arrendamento sem móveis, situado em Campo de Ourique um dos bairros mais característicos da cidade de Lisboa, próximo da Estrela, da zona das Amoreiras e do Largo do Rato.\nEste apartamento com 70 m2 de área útil, inserido num rés-do-chão de um prédio com elevador, é compost",
+        "description": "Fantástico apartamento a estrear no centro de Campo de OuriqueApartamento T2 totalmente reabilitado, para arrendamento sem móveis, situado em Campo de Ourique um dos bairros mais característicos da cidade de Lisboa, próximo da Estrela, da zona das Amoreiras e do Largo do Rato.\nEste apartamento com 70 m2 de área útil, inserido num rés-do-chão de um prédio com elevador, é compost",
         "advertiser": "Quintela + Penalva | Knight Frank",
         "status": "available",
         "added_on": "2024-03-04 23:47"
@@ -326,16 +333,15 @@
         "added_on": "2024-03-05 00:50"
     },
     {
-        "região": "campo de ourique",
+        "região": "centro",
         "title": "Apartamento T4 na rua Luís Derouet, 4, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33209715/",
         "price": "3.250€/mês",
         "details": "T4 | 120 m² área bruta | 3º andar com elevador",
         "description": "Excelente apartamento T4 com remodelação total, finalizada em 2024, num 3º andar com elevador numa das melhores zonas de Campo de Ourique.\nContamos com 3 quartos todos com roupeiro, sendo um deles uma suite. Um dos quartos com varanda aberta. Uma sala com imensa luz e temos ainda outra divisão que pode servir de sala",
         "advertiser": "Home Tailors Telheiras",
-        "status": "rented",
-        "added_on": "2024-03-05 00:50",
-        "rented on": "2024-03-16 13:55"
+        "status": "available",
+        "added_on": "2024-03-05 00:50"
     },
     {
         "região": "santa isabel",
@@ -384,11 +390,13 @@
         "região": "centro",
         "title": "Apartamento T2 na rua Tomás da Anunciação, 112, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33210092/",
-        "price": "1.850€/mês",
+        "price": "1.650€/mês",
         "details": "T2 | 88 m² área bruta | 2º andar com elevador",
         "description": "Magnífico apartamento T2, que irá ser completamente mobilado, com uma cozinha totalmente equipada. Inserido num segundo andar num prédio com elevador.\nEste imóvel destaca-se pela imensa luz natural que recebe ao longo do dia, pois apanha as duas frentes do edifício.\nSituado numa zona premium, Campo de Ourique, este",
         "status": "available",
-        "added_on": "2024-03-05 00:50"
+        "added_on": "2024-03-05 00:50",
+        "original price": "1.850€/mês",
+        "date of price update": "2024-03-18 23:28"
     },
     {
         "região": "centro",
@@ -425,16 +433,15 @@
         "rented on": "2024-03-16 13:55"
     },
     {
-        "região": "campo de ourique",
+        "região": "centro",
         "title": "Apartamento T2 em Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/31571575/",
         "price": "1.650€/mês",
         "details": "T2 | 50 m² área bruta | 2º andar sem elevador",
         "description": "Apartamento duplex remodelado, com varanda, próximo das Amoreiras e do Largo do RatoApartamento T2 duplex, remodelado, para arrendamento sem móveis, próximo das Amoreiras, do Largo do Rato e Mercado de Campo de Ourique e com acesso direto à A5. Numa zona bem servida de comércio e escolas de referência como os Salesianos, Liceu Francês e o Externato do Parque. Situado num dos bairros mais característic",
         "advertiser": "Quintela + Penalva | Knight Frank",
-        "status": "rented",
-        "added_on": "2024-03-05 00:50",
-        "rented on": "2024-03-06 20:16:48"
+        "status": "available",
+        "added_on": "2024-03-05 00:50"
     },
     {
         "região": "largo do rato estrela",
@@ -594,8 +601,9 @@
         "price": "1.750€/mês",
         "details": "T2 | 70 m² área bruta | 5º andar com elevador",
         "description": "No bairro de Campo de Ourique um dos mais icónicos da cidade de Lisboa encontra este fantástico T2, com sala e 2 quartos cheios de luz a dar para uma varanda com uma vista fantástica. O prédio está muito bem mantido, cuidado e tem 2 elevadores. O apartamento foi remodelado e está a estrear. Foi mantido o bonito chão de",
-        "status": "available",
-        "added_on": "2024-03-05 00:50"
+        "status": "rented",
+        "added_on": "2024-03-05 00:50",
+        "rented on": "2024-03-23 13:11"
     },
     {
         "região": "santa isabel",
@@ -769,12 +777,14 @@
         "região": "largo do rato estrela",
         "title": "Apartamento T1 em Largo do Rato - Estrela, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33160343/",
-        "price": "1.400€/mês",
+        "price": "1.350€/mês",
         "details": "T1 | 48 m² área bruta | com elevador",
         "description": "Apartamento T1 situado a poucos metros de distância da estação de metropolitano do Rato, mais propriamente na Rua de São Bento. Totalmente remodelado, com cozinha equipada, apresenta um layout moderno dividindo o espaço da sala com a cozinha, permitindo assim um conceito Open Space.\nPrédio em muito bom estado de conser",
         "advertiser": "Century 21 Fitamétrica12",
         "status": "available",
-        "added_on": "2024-03-05 01:32"
+        "added_on": "2024-03-05 01:32",
+        "original price": "1.400€/mês",
+        "date of price update": "2024-03-20 19:05"
     },
     {
         "região": "prazeres maria pia",
@@ -822,11 +832,13 @@
         "região": "largo do rato estrela",
         "title": "Apartamento T0 em Largo do Rato - Estrela, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/32913826/",
-        "price": "1.250€/mês",
+        "price": "1.200€/mês",
         "details": "T0 | 43 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 02/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Não, para mais info",
         "status": "available",
-        "added_on": "2024-03-05 01:32"
+        "added_on": "2024-03-05 01:32",
+        "original price": "1.250€/mês",
+        "date of price update": "2024-03-20 19:05"
     },
     {
         "região": "prazeres maria pia",
@@ -844,7 +856,7 @@
         "link": "https://www.idealista.pt/imovel/32695467/",
         "price": "1.769€/mês",
         "details": "T1 | 60 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 20/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
         "status": "available",
         "added_on": "2024-03-05 01:32"
     },
@@ -874,7 +886,7 @@
         "link": "https://www.idealista.pt/imovel/33146656/",
         "price": "2.079€/mês",
         "details": "T2 | 75 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 23/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 18/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-05 01:32"
     },
@@ -919,8 +931,9 @@
         "price": "1.600€/mês",
         "details": "T1 | 45 m² área bruta | Rés do chão sem elevador",
         "description": "Apartamento T1, na Rua de Campo de Ourique com terraço com 100 m2.",
-        "status": "available",
-        "added_on": "2024-03-05 01:32"
+        "status": "rented",
+        "added_on": "2024-03-05 01:32",
+        "rented on": "2024-03-21 00:44"
     },
     {
         "região": "santa isabel",
@@ -997,7 +1010,7 @@
         "link": "https://www.idealista.pt/imovel/33098048/",
         "price": "7.750€/mês",
         "details": "T3 | 190 m² área bruta | 4º andar com elevador",
-        "description": "Apartamento T3, com vista desafogada, inserido na prestigiada Torre das Amoreiras, com segurança 24/7, em Lisboa.   \nPrincipais Áreas:  \nSala de estar com lareira, ar condicionado e parede envidraçada\nCozinha totalmente equipada, com ilha com fogão incorporado e lava-louças\nMaster suite com walk-in closet e wc com wal",
+        "description": "Apartamento T3, com vista desafogada, inserido na prestigiada Torre das Amoreiras, com segurança 24/7, em Lisboa. \nPrincipais Áreas: \nSala de estar com lareira, ar condicionado e parede envidraçada\nCozinha totalmente equipada, com ilha com fogão incorporado e lava-louças\nMaster suite com walk-in closet e wc com wal",
         "advertiser": "MDimobiliaria",
         "status": "available",
         "added_on": "2024-03-05 02:34"
@@ -1010,8 +1023,9 @@
         "details": "T2 | 125 m² área bruta",
         "description": "EXCELENTE T2+1 - NOVO a “ESTREAR” – 104,70 M2 + Pátio 20 M2 – Rua da Arrábida –Amoreiras - Campo de Ourique!\nA 5 minutos a Pé ou a 500m do Liceu Francês, das Amoreiras e do Metro do Rato!\nConstrução NOVA a “Estrear”, com Muito Charme, Qualidade e Bom Gosto.\nREQUISITOS PEDIDOS para Arrendamento:\n* Com a outorga do Con",
         "advertiser": "RE/MAX ConviCtus",
-        "status": "available",
-        "added_on": "2024-03-05 02:34"
+        "status": "rented",
+        "added_on": "2024-03-05 02:34",
+        "rented on": "2024-03-23 13:11"
     },
     {
         "região": "centro",
@@ -1077,8 +1091,9 @@
         "price": "1.620€/mês",
         "details": "T1 | 50 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 02/05/2024\n- Duração Mínima de Aluguer: 90 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "available",
-        "added_on": "2024-03-05 02:34"
+        "status": "rented",
+        "added_on": "2024-03-05 02:34",
+        "rented on": "2024-03-18 12:39"
     },
     {
         "região": "centro",
@@ -1097,8 +1112,9 @@
         "price": "1.400€/mês",
         "details": "T1 | 70 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
-        "status": "available",
-        "added_on": "2024-03-05 02:34"
+        "status": "rented",
+        "added_on": "2024-03-05 02:34",
+        "rented on": "2024-03-20 19:04"
     },
     {
         "região": "campo de ourique",
@@ -1260,8 +1276,9 @@
         "details": "T3 | 107 m² área bruta | sem elevador",
         "description": "Este imóvel de charme, fica localizado numa das zonas mais cosmopolitas da cidade de Lisboa. Composto por 3 quartos, 1 sala comum mais uma divisão interior, que poderá transformar em escritório ou closet, uma casa de banho e cozinha totalmente equipada. Este apartamento com bastante luminosidade, dispõe de varanda com",
         "advertiser": "Century21 Kapital",
-        "status": "available",
-        "added_on": "2024-03-05 02:34"
+        "status": "rented",
+        "added_on": "2024-03-05 02:34",
+        "rented on": "2024-03-23 13:11"
     },
     {
         "região": "centro",
@@ -1361,25 +1378,27 @@
         "região": "largo do rato estrela",
         "title": "Apartamento T2 na travessa de São Plácido, Largo do Rato - Estrela, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/32299580/",
-        "price": "3.140€/mês",
+        "price": "3.130€/mês",
         "details": "T2 | 111 m² área bruta | Rés do chão com elevador",
         "description": "*APARTAMENTO COM TERRAÇO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nSinta-se transportado para um paraíso de pastagem nesta propriedade única de 2 quartos e 2 casas de banho. Este apartamento de 111 metros quadrados está localizado em Campo de Ourique, em Lisboa. Um bairro famoso pelos seus muitos mus",
         "advertiser": "Ukio Lisboa",
         "status": "available",
-        "added_on": "2024-03-05 03:10"
+        "added_on": "2024-03-05 03:10",
+        "original price": "3.035€/mês",
+        "date of price update": "2024-03-20 19:05"
     },
     {
         "região": "santa isabel",
         "title": "Apartamento T2 na rua São João Nepomuceno, Santa Isabel, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/32082931/",
-        "price": "3.055€/mês",
+        "price": "3.205€/mês",
         "details": "T2 | 86 m² área bruta | 2º andar sem elevador",
         "description": "*APARTAMENTO CON PARKING*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*.\nOnde o design contemporâneo encontra o design da selva, estes 86 metros quadrados são nada menos do que uma jóia de Lisboa. Localizado no coração de Campo de Ourique, os hóspedes são encorajados a fazer uma viagem ao mercado local ou",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-05 03:10",
-        "original price": "2.690€/mês",
-        "date of price update": "2024-03-16 13:31"
+        "original price": "3.055€/mês",
+        "date of price update": "2024-03-20 19:06"
     },
     {
         "região": "amoreiras",
@@ -1398,14 +1417,14 @@
         "região": "centro",
         "title": "Apartamento T2 na rua Almeida e Sousa, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/32433670/",
-        "price": "3.180€/mês",
+        "price": "3.320€/mês",
         "details": "T2 | 78 m² área bruta | 2º andar sem elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nBem-vindo ao Port, um apartamento com um design soberbo que vai deixar você sem fôlego. Localizado no coração de Campo de Ourique, um dos bairros mais vibrantes de Lisboa, este magnífico apartamento de 2 quartos e 2 banheiros tem tudo o que você precisa para u",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-05 03:10",
-        "original price": "2.850€/mês",
-        "date of price update": "2024-03-16 13:31"
+        "original price": "3.180€/mês",
+        "date of price update": "2024-03-20 19:05"
     },
     {
         "região": "amoreiras",
@@ -1424,7 +1443,7 @@
         "link": "https://www.idealista.pt/imovel/32370783/",
         "price": "2.970€/mês",
         "details": "T3 | 126 m² área bruta | 2º andar sem elevador",
-        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 05-05-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,930* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
+        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 05-05-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,910* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
         "status": "available",
         "added_on": "2024-03-05 03:10",
@@ -1439,23 +1458,24 @@
         "details": "T3 | 114 m² área bruta | 3º andar sem elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 01-05-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,570* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "available",
+        "status": "rented",
         "added_on": "2024-03-05 03:10",
         "original price": "2.770€/mês",
-        "date of price update": "2024-03-16 13:31"
+        "date of price update": "2024-03-16 13:31",
+        "rented on": "2024-03-24 15:53"
     },
     {
         "região": "largo do rato estrela",
         "title": "Apartamento T1 na avenida Álvares Cabral, Largo do Rato - Estrela, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/32304657/",
-        "price": "1.570€/mês",
+        "price": "1.840€/mês",
         "details": "T1 | 66 m² área bruta | Rés do chão com elevador",
-        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 15-03-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €1,570* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
+        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 28-05-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €1,800* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
         "status": "available",
         "added_on": "2024-03-05 03:10",
-        "original price": "1.780€/mês",
-        "date of price update": "2024-03-16 13:31"
+        "original price": "1.570€/mês",
+        "date of price update": "2024-03-23 13:13"
     },
     {
         "região": "campo de ourique",
@@ -1490,10 +1510,11 @@
         "details": "T2 | 68 m² área bruta | 3º andar com elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 11-05-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €1,600* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "available",
+        "status": "rented",
         "added_on": "2024-03-05 03:10",
         "original price": "1.860€/mês",
-        "date of price update": "2024-03-16 13:31"
+        "date of price update": "2024-03-16 13:31",
+        "rented on": "2024-03-23 13:11"
     },
     {
         "região": "largo do rato estrela",
@@ -1572,7 +1593,7 @@
         "link": "https://www.idealista.pt/imovel/33249919/",
         "price": "850€/mês",
         "details": "T0 | 20 m² área bruta | Rés do chão sem elevador",
-        "description": "Apartamento para arrendar a 1 ano ( renovável), T0 ( quarto/sala, cozinha e casa de banho) mobilado, elctricidade incluida no valor da renda.",
+        "description": "Apartamento T0 ( quarto/sala, cozinha e casa de banho) mobilado, elctricidade incluída no valor da renda. Contrato de um ano renovável. Primeiro e ultimo mês, mais mês de caução, com a assinatura do contrato.",
         "status": "available",
         "added_on": "2024-03-06 19:19"
     },
@@ -1711,11 +1732,12 @@
         "link": "https://www.idealista.pt/imovel/33255078/",
         "price": "1.600€/mês",
         "details": "T1 | 60 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 17/03/2024\n- Duração Mínima de Aluguer: 90 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "available",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 90 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
+        "status": "rented",
         "added_on": "2024-03-11 02:15",
         "original price": "1.800€/mês",
-        "date of price update": "2024-03-16 13:29"
+        "date of price update": "2024-03-16 13:29",
+        "rented on": "2024-03-23 13:11"
     },
     {
         "região": "campo de ourique",
@@ -1756,7 +1778,7 @@
         "title": "Apartamento T3 em Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33060519/",
         "price": "1.450€/mês",
-        "details": "T3 | 85 m² área bruta | sem elevador | 16 mar",
+        "details": "T3 | 85 m² área bruta | sem elevador",
         "description": "Excelente apartamento T2+1 em Campo de Ourique, com 85m2 de ABP, situado na Rua Infantaria 16.\nEste apartamento foi recentemente remodelado (caixilharia, cozinha, WC, etc). Encontra-se parcialmente mobilado, e situa-se num segundo andar em prédio sem elevador.\nQuartos, Sala e Closet com chão de madeira (tábua corrida),",
         "advertiser": "Century21 Classic",
         "status": "available",
@@ -1769,15 +1791,16 @@
         "price": "1.100€/mês",
         "details": "T1 | 35 m² área bruta | 3º andar com elevador | 15 mar",
         "description": "T1 / Estúdio Mobilado e Equipado\nCampo de Ourique / Junto Jardim da Parada\nQuarto semi aberto para a sala, com janela, roupeiro embutido e porta de acesso à casa de banho com chuveiro.\nSala com janela e Kitchinette.\nTodo mobilado e equipado com grandes e pequenos eletrodomésticos, loiças e material de cozinha.\nSó pa",
-        "status": "available",
-        "added_on": "2024-03-16 13:29"
+        "status": "rented",
+        "added_on": "2024-03-16 13:29",
+        "rented on": "2024-03-18 12:39"
     },
     {
         "região": "centro",
         "title": "Apartamento T2 na rua Gervásio Lobato, 22, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33272129/",
         "price": "900€/mês",
-        "details": "T2 | 65 m² área bruta | 1º andar sem elevador | 15 mar",
+        "details": "T2 | 65 m² área bruta | 1º andar sem elevador",
         "description": "T2+1 em Campo de Ourique, perto Escola Manuel da Maia\nRecuperado e muito luminoso, pronto a ser habitado. Localizado no 1º andar do prédio, sem elevador.\nO apartamento tem uma confortável sala, com outra divisão anexa que pode ser um escritório, ambos com luz natural e dois quartos, um deles interior. A cozinha não est",
         "status": "available",
         "added_on": "2024-03-16 13:29"
@@ -1790,15 +1813,16 @@
         "details": "T2 | 65 m² área bruta | com elevador | 14 mar",
         "description": "Apartamento T2 novo com 65 m2 de área bruta privativa, e varanda de 9 m2, em Campo de Ourique, num prédio clássico da Rua Silva Carvalho que foi alvo de uma grande reabilitação, onde o charme do edifício convive com a modernidade e comodidade dos espaços. O apartamento é composto por sala e kitchenette com acesso a amp",
         "advertiser": "JLL Residential Portugal",
-        "status": "available",
-        "added_on": "2024-03-16 13:29"
+        "status": "rented",
+        "added_on": "2024-03-16 13:29",
+        "rented on": "2024-03-18 23:27"
     },
     {
         "região": "santa isabel",
         "title": "Apartamento T1 na rua da Páscoa, 45, Santa Isabel, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/28473763/",
         "price": "1.700€/mês",
-        "details": "T1 | 115 m² área bruta | Rés do chão com elevador | 14 mar",
+        "details": "T1 | 115 m² área bruta | Rés do chão com elevador",
         "description": "Equipado e mobilado.\nEm prédio moderno, rua sossegada, apartamento em r/ch como novo, funcional e seguro com lugar de estacionamento na cave, grande terraço de uso exclusivo com 63 m2.\nTem mobília de sala, quarto, cozinha e casa de banho, roupeiros na sala e no quarto e o recheio necessário para lá viver (loiça etc).",
         "status": "available",
         "added_on": "2024-03-16 13:29"
@@ -1808,7 +1832,7 @@
         "title": "Apartamento T3 em Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33269533/",
         "price": "1.400€/mês",
-        "details": "T3 | 110 m² área bruta | 4º andar | 14 mar",
+        "details": "T3 | 110 m² área bruta | 4º andar",
         "description": "Apartamento espaçoso e luminoso localizado na Rua Correia Teles. Com uma área bruta de 110 m² e uma área útil de 91 m², este imóvel oferece 3 quartos, e ainda 2 quartos de 7m², um com janela e outro com closet. Além disso, possui uma sala acolhedora, uma casa de banho completa e uma cozinha com marquise. O imóvel també",
         "advertiser": "Casa in",
         "status": "available",
@@ -1819,7 +1843,7 @@
         "title": "Apartamento T1 na rua do Sol ao Rato, Largo do Rato - Estrela, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/32835431/",
         "price": "2.000€/mês",
-        "details": "T1 | 63 m² área bruta | 1º andar sem elevador | 14 mar",
+        "details": "T1 | 63 m² área bruta | 1º andar sem elevador",
         "description": "Exclusivo - Apartamento Pronto para entrar a partir de dia 30 de Setembro - Apartamento T1 com 63 m2 de área bruta privativa, localizado no novo empreendimento Ourique XXI, em Campo de Ourique, Lisboa. Trata-se de um Primeiro andar sem elevador. Layout funcional com quarto em suite, closet, casa e banho social, cozinha",
         "advertiser": "PORTUGAL SOLUTIONS",
         "status": "available",
@@ -1833,15 +1857,16 @@
         "details": "T2 | 70 m² área bruta | com elevador | 14 mar",
         "description": "Campo de Ourique. Jardim Parada. Apartamento T2 totalmente remodelado. Cozinha totalmente equipada com eletrodomésticos novos, despensa. Quarto com roupeiro. Azulejos italianos na cozinha e casa de banho (marca Bisazza). Torneiras Hansgrohe. Vidros duplos, estores elétricos. Prédio de placa com 2 elevadores.\nVista late",
         "advertiser": "Villa Palace- Real Estate",
-        "status": "available",
-        "added_on": "2024-03-16 13:29"
+        "status": "rented",
+        "added_on": "2024-03-16 13:29",
+        "rented on": "2024-03-23 13:11"
     },
     {
         "região": "amoreiras",
         "title": "Apartamento T4 em Amoreiras, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33266497/",
         "price": "2.900€/mês",
-        "details": "T4 | 177 m² área bruta | 3º andar com elevador | 14 mar",
+        "details": "T4 | 177 m² área bruta | 3º andar com elevador",
         "description": "Este apartamento T4 localizado junto às Amoreiras oferece uma excelente combinação de espaço, luz natural e localização conveniente. Totalmente remodelado há apenas 2 anos, este imóvel é uma opção atrativa para quem procura conforto e comodidade.\nCaracterísticas Principais:\nHall de entrada: Um espaço acolhedor que",
         "advertiser": "kw area",
         "status": "available",
@@ -1863,7 +1888,7 @@
         "title": "Apartamento T2 na rua Sampaio Bruno, s/n, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33267823/",
         "price": "1.350€/mês",
-        "details": "T2 | 66 m² área bruta | 14 mar",
+        "details": "T2 | 66 m² área bruta",
         "description": "Apartamento em Campo de Ourique, com uma localização excelente perto de todo o comércio, nomeadamente o mercado, jardins e do famoso Jardim da Parada. Com transportes quase que à porta.\nTrata-se de um T2 inserido em prédio de placa com elevador. Dispoe de sala, 2 quartos (um deles com roupeiro), casa de banho despensa",
         "advertiser": "RE/MAX Alpha",
         "status": "available",
@@ -1874,7 +1899,7 @@
         "title": "Apartamento T4 na rua Gorgel do Amaral, Amoreiras, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33267443/",
         "price": "2.900€/mês",
-        "details": "T4 | 177 m² área bruta | 3º andar com elevador | 13 mar",
+        "details": "T4 | 177 m² área bruta | 3º andar com elevador",
         "description": "Este apartamento T4 localizado junto às Amoreiras oferece uma excelente combinação de espaço, luz natural e localização conveniente. Totalmente remodelado há apenas 2 anos, este imóvel é uma opção atrativa para quem procura conforto e comodidade.\nCaracterísticas Principais:\nHall de entrada: Um espaço acolhedor que dá",
         "status": "available",
         "added_on": "2024-03-16 13:29"
@@ -1884,7 +1909,7 @@
         "title": "Moradia geminada na rua da Páscoa, 54, Santa Isabel, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/31707617/",
         "price": "550€/mês",
-        "details": "T1 | 20 m² área bruta | 13 mar",
+        "details": "T1 | 20 m² área bruta",
         "description": "Moradia T0\n20m2\nVisitas a realizar sábado dia 16 de Março e 23 de Março entre o 13:00 e as 14:00 e. A morada é no nº 60 e não no nº54.\nCozinha equipada C/, Termoacumulador, frigorífico e máquina de lavar roupa.\n2 min a pé metro do Rato\nExcelente localização\nVila típica do séc XVIII\nDespesas não incluidas.\nPrepar",
         "status": "available",
         "added_on": "2024-03-16 13:29"
@@ -1894,7 +1919,7 @@
         "title": "Apartamento T2 na rua Azedo Gneco, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33266106/",
         "price": "1.600€/mês",
-        "details": "T2 | 70 m² área bruta | Rés do chão com elevador | 13 mar",
+        "details": "T2 | 70 m² área bruta | Rés do chão com elevador",
         "description": "Maravilhoso apartamento recentemente reabilitado, localizado em Campo de Ourique, um dos bairros mais encantadores de Lisboa, junto ao mercado e em proximidade com as prestigiadas áreas das Amoreiras, Estrela, Lapa e do Largo do Rato.\nEste acolhedor apartamento de 70m2, situado no rés-do-chão de um edifício com elevad",
         "advertiser": "HOUZIT PORTUGAL",
         "status": "available",
@@ -1908,15 +1933,16 @@
         "details": "T1 | 40 m² área bruta | 2º andar | 12 mar",
         "description": "AS DESPESAS DE ÁGUA, LUZ E INTERNET ESTÃO INCLUÍDAS NO PREÇO DA RENDA.\nEntre o Jardim da Estrela e as Amoreiras encantador apartamento T1 totalmente remodelado equipado e mobilado na tranquila Rua da Pascoa em Campo de Ourique.\n2º andar sem elevador\nExcelente localização, fácil acesso a todo o comercio local de Camp",
         "advertiser": "LISBONIMMO",
-        "status": "available",
-        "added_on": "2024-03-16 13:29"
+        "status": "rented",
+        "added_on": "2024-03-16 13:29",
+        "rented on": "2024-03-20 19:04"
     },
     {
         "região": "amoreiras",
         "title": "Apartamento T2 na rua Custódio Vieira, s/n, Amoreiras, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33261911/",
         "price": "2.600€/mês",
-        "details": "T2 | 140 m² área bruta | 12 mar",
+        "details": "T2 | 140 m² área bruta",
         "description": "Qualidade e Conforto no centro de Lisboa\nApartamento T2, inserido em Edífício de prestígio, na melhor localização de Lisboa, junto às Amoreiras.\n \n140m2, àreas generosas, excelente luminosidade natural (nascente/poente), modernidade dos acabamentos, cozinha americana com equipamento Miele, varandas, 1 parqueamento e 1",
         "advertiser": "RE/MAX Telheiras",
         "status": "available",
@@ -1927,7 +1953,7 @@
         "title": "Apartamento T2 na rua da Arrábida, 54, Santa Isabel, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/33261672/",
         "price": "1.650€/mês",
-        "details": "T2 | 95 m² área bruta | 3º andar sem elevador | 12 mar",
+        "details": "T2 | 95 m² área bruta | 3º andar sem elevador",
         "description": "* DISPONÍVEL NO FINAL DE ABRIL *\nT2+1 com um lugar de estacionamento numa das zonas mais centrais de Lisboa, no Bairro de Campo de Ourique.\nO imóvel fica a 7 minutos a pé do Metro do Rato, a outros 7 minutos do Amoreiras Shopping Center e a 10 minutos a pé do Liceu Frances Charles Lepierre.\nO imóvel foi recentemente",
         "advertiser": "Century 21 Colombo",
         "status": "available",
@@ -1953,8 +1979,9 @@
         "details": "T1 | 57 m² área bruta",
         "description": "Gostaria de viver entre o Jardim da Estrela e as Amoreiras?\nSe você busca viver no coração vibrante de Lisboa, entre o pitoresco Jardim da Estrela e o moderno Amoreiras, temos o prazer de apresentar este acolhedor apartamento T1 Remodelado, Equipado e Mobilado, situado na reservada Rua da Páscoa em Campo de Ourique, L",
         "advertiser": "Relive",
-        "status": "available",
-        "added_on": "2024-03-16 13:29"
+        "status": "rented",
+        "added_on": "2024-03-16 13:29",
+        "rented on": "2024-03-20 19:04"
     },
     {
         "região": "prazeres maria pia",
@@ -1984,8 +2011,9 @@
         "price": "1.000€/mês",
         "details": "T1 | 65 m² área bruta | 3º andar sem elevador",
         "description": "Apartamento T1:\n- mobilado e cozinha com frigorifico, máquina de lavar roupa, fogão e forno\n- 3º andar sem elevador com ar condicionado.\n- 2 rendas de avanço + caução\nAs molduras que aparecem nas fotos, o piano e os livros já não estão no apartamento\nDisponível a partir de 1 Maio\nNão quero ser contactado por",
-        "status": "available",
-        "added_on": "2024-03-16 13:29"
+        "status": "rented",
+        "added_on": "2024-03-16 13:29",
+        "rented on": "2024-03-18 12:39"
     },
     {
         "região": "largo do rato estrela",
@@ -1994,8 +2022,9 @@
         "price": "1.650€/mês",
         "details": "T2 | 100 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento todo remodelado novo desde esgotos, eletricidade aquecimento ar condicionado cozinha totalmente equipada, portas, paredes, janelas, isolamentos, pintura etc.. . completamente novo!\nDois quartos com possibilidade de fazer outro quarto apartamento bem decorado e com áreas bastante generosas!\nDisponível para",
-        "status": "available",
-        "added_on": "2024-03-16 13:30"
+        "status": "rented",
+        "added_on": "2024-03-16 13:30",
+        "rented on": "2024-03-20 19:04"
     },
     {
         "região": "santa isabel",
@@ -2004,17 +2033,176 @@
         "price": "2.200€/mês",
         "details": "T5 | 110 m² área bruta | 2º andar sem elevador",
         "description": "Apartamento de 5 assoalhadas na zona de Campo de Ourique.\nNão tem mobílias e está semi-equipada\nO imóvel está muito próximo ao Centro Comercial das Amoreiras e ao metro do Rato.\nÉ um segundo andar e o prédio não tem elevador.\nEstá composto por: 4 quartos, 2 casas de banhos, sala, cozinha equipada com: placa, forno",
-        "status": "available",
-        "added_on": "2024-03-16 13:30"
+        "status": "rented",
+        "added_on": "2024-03-16 13:30",
+        "rented on": "2024-03-20 19:04"
     },
     {
         "região": "centro",
         "title": "Apartamento T1 na rua Saraiva de Carvalho, 147, Centro, Campo de Ourique",
         "link": "https://www.idealista.pt/imovel/29763747/",
         "price": "1.500€/mês",
-        "details": "T1 | 85 m² área bruta | 2º andar com elevador | 16 mar",
+        "details": "T1 | 85 m² área bruta | 2º andar com elevador",
         "description": "Apartamento T1, como novo, numa óptima localização em Campo de Ourique, a 2 minutos do mercado, com 1 lugar de garagem e uma dispensa.\nApartamento com excelente área.\nO apartamento situa-se num 2º andar, com 2 elevadores; em prédio com 20 anos, em excelente estado de conservação.\nArrendamento sem mobília e com cozinha",
         "status": "available",
         "added_on": "2024-03-18 00:42"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T4 em Centro, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33269498/",
+        "price": "1.250€/mês",
+        "details": "T4 | 120 m² área bruta | 3º andar sem elevador | 18 mar",
+        "description": "Apartamento de 5 assoalhadas no coração de Campo de Ourique, localizado no 3º andar (sem elevador). Com sala espaçosa, quatro quartos, uma cozinha com marquise e despensa, e uma casa-de-banho completa com janela. Situado junto ao mercado de Campo de Ourique, desfrute de fácil acesso a comércio, transportes e serviços,",
+        "status": "rented",
+        "added_on": "2024-03-18 23:27",
+        "rented on": "2024-03-23 13:11"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T2 na rua Freitas Gazul, 2, Centro, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/30450599/",
+        "price": "1.800€/mês",
+        "details": "T2 | 80 m² área bruta | 2º andar sem elevador | 20 mar",
+        "description": "Charmoso apartamento situado em Campo de Ourique, renovado com cozinha equipada, aquecimento central. Tectos altos e bastante luz. O apartamento encontra-se parcialmente mobilado. Se procura viver num dos bairros mais agradáveis de Lisboa, este apartamento é para si. Perto do eléctrico 28 com comércio tradicional, onde",
+        "status": "available",
+        "added_on": "2024-03-20 19:04"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T3 na rua Francisco Metrass, 43, Centro, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33274586/",
+        "price": "2.500€/mês",
+        "details": "T3 | 95 m² área bruta | 2º andar sem elevador | 20 mar",
+        "description": "Apartamento T3+1 renovado e equipado, situado junto do Mercado de Campo de Ourique, a 5 min a pé de paragens de autocarros e 10 min do metro do Rato, 2 min a pé da Redbridge School e a 15min a pé das Amoreiras. Servido de todo o tipo de comércio local, lavandaria, retrosaria, mercado, talhos, frutarias, cafés, restaura",
+        "status": "available",
+        "added_on": "2024-03-20 19:04"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T1 na rua Tomás da Anunciação, s/n, Centro, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33279180/",
+        "price": "950€/mês",
+        "details": "T1 | 35 m² área bruta | 3º andar sem elevador | 19 mar",
+        "description": "Apartamento T1 (2 assoalhadas) sem mobilia situado num 3º Andar em Campo de Ourique, totalmente remodelado, a estrear, e inserido num edifício sem elevador com localização privilegiada, onde encontra todo o tipo de comércio, serviços, transportes e a 1 minuto a pé do Jardim da Parada.\nPrincipais áreas:\n– Sala;\n– Cozi",
+        "advertiser": "TECTUS BLUE",
+        "status": "available",
+        "added_on": "2024-03-20 19:04"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T4 na rua Luís Derouet, 4, Centro, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33278105/",
+        "price": "3.250€/mês",
+        "details": "T4 | 120 m² área bruta | 3º andar com elevador | 19 mar",
+        "description": "Excelente apartamento T4 com remodelação total, finalizada em 2024, num 3º andar com elevador numa das melhores zonas de Campo de Ourique.\nContamos com 3 quartos todos com roupeiro, sendo um deles uma suite. Um dos quartos com varanda aberta. Uma sala com imensa luz e temos ainda outra divisão que pode servir de sala",
+        "advertiser": "Home Tailors Lisboa",
+        "status": "available",
+        "added_on": "2024-03-20 19:04"
+    },
+    {
+        "região": "prazeres maria pia",
+        "title": "Apartamento T1 na rua Maria Pia, Prazeres - Maria Pia, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33279024/",
+        "price": "1.500€/mês",
+        "details": "T1 | 75 m² área bruta | 1º andar com elevador | 19 mar",
+        "description": "Estrela\nEste apartamento remodelado de 75m² possui uma suíte principal com casa de banho completa, uma casa de banho adicional para visitas, uma cozinha compacta totalmente equipada integrada à sala de estar, um terraço, uma vaga de estacionamento e arrecadação.\nLocalizado no centro de Alcântara / Prazeres em Lisboa,",
+        "advertiser": "HOUZIT PORTUGAL",
+        "status": "available",
+        "added_on": "2024-03-20 19:06"
+    },
+    {
+        "região": "prazeres maria pia",
+        "title": "Apartamento T1 na rua Maria Pia, Prazeres - Maria Pia, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33277913/",
+        "price": "850€/mês",
+        "details": "T1 | 28 m² área bruta | Cave sem elevador | 19 mar",
+        "description": "Apartamento T1 modesto, mobilado e equipado, localizado na rua Maria Pia, em Campo de Ourique. Composto por um quarto, uma sala de estar, uma cozinha equipada e um banheiro. Localização conveniente, com fácil acesso a restaurantes, cafés, supermercados e transportes públicos. Ideal para solteiros ou casais à procura de",
+        "status": "available",
+        "added_on": "2024-03-20 19:06"
+    },
+    {
+        "região": "prazeres maria pia",
+        "title": "Apartamento T2 na rua Maria Pia, Prazeres - Maria Pia, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33277877/",
+        "price": "950€/mês",
+        "details": "T2 | 32 m² área bruta | Cave sem elevador | 19 mar",
+        "description": "Apartamento T2 modesto, mobilado e equipado, localizado na Rua Maria Pia, em Campo de Ourique. Composto por dois quartos, uma sala de estar, uma cozinha equipada e uma casa de banho. Localização conveniente, com fácil acesso a restaurantes, cafés, supermercados e transportes públicos. Ideal para indivíduos ou casais qu",
+        "status": "available",
+        "added_on": "2024-03-20 19:06"
+    },
+    {
+        "região": "prazeres maria pia",
+        "title": "Apartamento T1 na rua Maria Pia, Prazeres - Maria Pia, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33277884/",
+        "price": "850€/mês",
+        "details": "T1 | 28 m² área bruta | Rés do chão sem elevador | 19 mar",
+        "description": "Apartamento T1 modesto, mobilado e equipado, localizado na rua Maria Pia, em Campo de Ourique. Composto por um quarto, uma sala de estar, uma cozinha totalmente equipada e uma casa de banho. Localização conveniente, com fácil acesso a restaurantes, cafés, supermercados e transportes públicos. Ideal para solteiros ou ca",
+        "status": "available",
+        "added_on": "2024-03-20 19:06"
+    },
+    {
+        "região": "santa isabel",
+        "title": "Apartamento T4 na rua Silva Carvalho, Santa Isabel, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33278560/",
+        "price": "2.500€/mês",
+        "details": "T4 | 163 m² área bruta | 2º andar sem elevador | 19 mar",
+        "description": "Excelente apartamento T4 em Campo de Ourique, totalmente recuperado com 146 m2 de área.\nComposto por 4 quartos, 2 casas-de-banho completas, cozinha totalmente equipada e um escritório.\nDispõe ainda de uma varanda com vista desafogada para o Parque Natural de Monsanto.\nLocalizado no bairro de Campo de Ourique, um d",
+        "advertiser": "Wallis Real Estate",
+        "status": "available",
+        "added_on": "2024-03-20 19:06"
+    },
+    {
+        "região": "amoreiras",
+        "title": "Apartamento T1, campo de Ourique, 24, Amoreiras, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33282260/",
+        "price": "1.400€/mês",
+        "details": "T1 | 45 m² área bruta | Rés do chão sem elevador | 20 mar",
+        "description": "Apartamento T1, na Rua de Campo de Ourique com terraço com 100 m2.",
+        "status": "available",
+        "added_on": "2024-03-21 00:44"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T2 na rua Coelho da Rocha, 95, Centro, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33288931/",
+        "price": "1.700€/mês",
+        "details": "T2 | 100 m² área bruta | 3º andar sem elevador | Ontem",
+        "description": "Oferece-se para arrendamento um apartamento T2+1 na zona de Campo Ourique, em Lisboa para longa duração.\nLocalizado no terceiro andar sem elevador, com uma área útil de 80 metros quadrados, este apartamento inclui:\n- 2 casas de banho;\n- Roupeiros embutidos;\n- Ar condicionado em todas as divisões;\n- Cozinha totalment",
+        "status": "available",
+        "added_on": "2024-03-23 13:11"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T2 em Centro, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33285161/",
+        "price": "1.990€/mês",
+        "details": "T2 | 70 m² área bruta | com elevador | 21 mar",
+        "description": "Campo de Ourique. Jardim Parada. Apartamento T2 totalmente remodelado. Cozinha totalmente equipada com eletrodomésticos novos, despensa. Quarto com roupeiro. Azulejos italianos na cozinha e casa de banho (marca Bisazza). Torneiras Hansgrohe. Vidros duplos, estores elétricos. Prédio de placa com 2 elevadores.\nVista late",
+        "advertiser": "Villa Palace- Real Estate",
+        "status": "available",
+        "added_on": "2024-03-23 13:11"
+    },
+    {
+        "região": "santa isabel",
+        "title": "Apartamento T2 na rua Silva Carvalho, s/n, Santa Isabel, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33288755/",
+        "price": "1.500€/mês",
+        "details": "T2 | 65 m² área bruta | Ontem",
+        "description": "Excelente apartamento T2 novo a estrear na Rua Silva Carvalho em Campo de Ourique com logradouro com 25 m2 de uso exclusivo da fração e com um lugar de garagem(na mesma rua a 100 metros do apartamento).\nCozinha completamante equipada, com placa, frigorifico, maquina de lavar roupa e loiça, micro-ondas e forno e termoac",
+        "advertiser": "RE/MAX Golden Line II",
+        "status": "available",
+        "added_on": "2024-03-23 13:14"
+    },
+    {
+        "região": "santa isabel",
+        "title": "Apartamento T2 na rua Silva Carvalho, s/n, Santa Isabel, Campo de Ourique",
+        "link": "https://www.idealista.pt/imovel/33288761/",
+        "price": "1.500€/mês",
+        "details": "T2 | 65 m² área bruta | Ontem",
+        "description": "Excelente apartamento T2 novo a estrear na Rua Silva Carvalho em Campo de Ourique com logradouro com 25 m2 de uso exclusivo da fração e com um lugar de garagem(na mesma rua a 100 metros do apartamento).\nCozinha completamante equipada, com placa, frigorifico, maquina de lavar roupa e loiça, micro-ondas e forno e termoac",
+        "advertiser": "RE/MAX Golden Line II",
+        "status": "available",
+        "added_on": "2024-03-23 13:14"
     }
 ]
