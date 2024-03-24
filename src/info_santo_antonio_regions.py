@@ -21,7 +21,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("logs/penha_de_franca_log.log"),  # Log to this file
+                        logging.FileHandler("logs/santo_antonio_regions_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -105,7 +105,7 @@ def scrape_all_urls(driver, url, existing_data):
     new_urls = set()  # New URLs found in the current run
 
     tag = extract_tag_from_url(url)
-    sleep_duration = random.uniform(10, 15)
+    sleep_duration = random.uniform(5, 9)
     logging.info(f"Sleeping 1 for {sleep_duration:.2f} seconds.")
     time.sleep(sleep_duration)
 
@@ -113,7 +113,7 @@ def scrape_all_urls(driver, url, existing_data):
         logging.info(f"Navigating to URL: {url}")
         if driver.current_url != url:
             driver.get(url)
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(4)
 
         html_content = driver.page_source
         new_listings = extract_listings(html_content, tag)
@@ -176,9 +176,10 @@ def scrape_all_urls(driver, url, existing_data):
     logging.info(f"Processed and saved data from page {url}.")
     # After processing one URL, the rest of your code can remain to handle the data as intended
         
-    sleep_duration = random.uniform(7, 13)
+    sleep_duration = random.uniform(5, 9)
     logging.info(f"Sleeping 2 for {sleep_duration:.2f} seconds.")
     time.sleep(sleep_duration)
+
 
 def go_next_page(driver):
     try:
@@ -236,14 +237,15 @@ def main_scraping_process(driver, base_urls, file_path):
 
         
 if __name__ == "__main__":
-    base_url = ["https://www.idealista.pt/arrendar-casas/penha-de-franca/alto-de-sao-joao-alto-do-varejao/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/penha-de-franca/bairro-dos-actores-barao-sabrosa/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/penha-de-franca/centro/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/penha-de-franca/santa-apolonia-cruz-da-pedra/?ordem=atualizado-desc"
+    base_url = ["https://www.idealista.pt/arrendar-casas/santo-antonio/av-da-liberdade-marques-de-pombal/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/santo-antonio/campo-de-santana-santa-marta/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/santo-antonio/praca-da-alegria/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/santo-antonio/principe-real/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/santo-antonio/rato-amoreiras/?ordem=atualizado-desc"
                 ]
                 
 
-    file_path = "data/json/penha_de_franca_regions.json"
+    file_path = "data/json/santo_antonio_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time

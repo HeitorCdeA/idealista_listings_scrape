@@ -4,7 +4,7 @@
         "title": "Apartamento T3 na avenida de Roma, Alvalade, Alvalade",
         "link": "https://www.idealista.pt/imovel/33272044/",
         "price": "2.600€/mês",
-        "details": "T3 | 154 m² área bruta | 6º andar com elevador | 15 mar",
+        "details": "T3 | 154 m² área bruta | 6º andar com elevador",
         "description": "",
         "advertiser": "Seed Real Estate",
         "status": "available",
@@ -15,7 +15,7 @@
         "title": "Apartamento T3 em Alvalade, Alvalade",
         "link": "https://www.idealista.pt/imovel/33264340/",
         "price": "1.850€/mês",
-        "details": "T3 | 115 m² área bruta | 6º andar com elevador | 15 mar",
+        "details": "T3 | 115 m² área bruta | 6º andar com elevador",
         "description": "3 bedroom flat for rent in Alvalade with two lifts\nT3 with 115m2, unfurnished, with two lifts.\nLicence of use n. º 79/1981.\nThis three-bedroom flat is unfurnished and the kitchen is not - equipped, only has the dish washing machine.\nSet in a building with two lifts, the flat is very bright and has been recently ref",
         "advertiser": "Homing Real Estate",
         "status": "available",
@@ -26,7 +26,7 @@
         "title": "Apartamento T4 na avenida dos Estados Unidos da América, Alvalade, Alvalade",
         "link": "https://www.idealista.pt/imovel/33269271/",
         "price": "2.400€/mês",
-        "details": "T4 | 198 m² área bruta | 2º andar com elevador | 14 mar",
+        "details": "T4 | 198 m² área bruta | 2º andar com elevador",
         "description": "Localizado na Avenida Estados Unidos da América, em Alvalade, esta residência possui uma excelente orientação solar com vistas panorâmicas. A propriedade ocupa o segundo andar de um edifício bem construído equipado com dois elevadores. Com uma generosa área bruta de 198 m², possui duas varandas fechadas com um total de",
         "advertiser": "HOUZIT PORTUGAL",
         "status": "available",
@@ -37,7 +37,7 @@
         "title": "Apartamento T2 em Alvalade, Alvalade",
         "link": "https://www.idealista.pt/imovel/28612599/",
         "price": "1.900€/mês",
-        "details": "T2 | 110 m² área bruta | 2º andar sem elevador | 14 mar",
+        "details": "T2 | 110 m² área bruta | 2º andar sem elevador",
         "description": "Inserido no edifício exclusivo de Corporate Housing, o apartamento de linhas simples e modernas é o espaço ideal para profissionais em viagens de negócios.\nEste fantástico apartamento dispõe de 1 quarto, 1 suite, wc, kitchenet e zona de lavandaria. Está\ntotalmente mobilado e equipado, incluindo roupas de cama e atoal",
         "status": "available",
         "added_on": "2024-03-17 03:40"
@@ -81,8 +81,9 @@
         "price": "1.500€/mês",
         "details": "T3 | 100 m² área bruta | 3º andar com elevador",
         "description": "A casa está localizada na Av Frei Miguel Contreira e é um 3° andar com elevador, tem uma casa de banho, 3 quartos mobilados e uma cozinha equipada (exceto forno) com mesa para refeições. Tem uma varanda interior comum aos 3 quartos.\nA casa fica a 5 minutos a pé da estação Roma - Areeiro.\nO valor são 500€ por quarto s",
-        "status": "available",
-        "added_on": "2024-03-17 03:40"
+        "status": "rented",
+        "added_on": "2024-03-17 03:40",
+        "rented on": "2024-03-24 03:37"
     },
     {
         "região": "alvalade",
@@ -347,8 +348,9 @@
         "price": "3.250€/mês",
         "details": "T4 | 216 m² área bruta | 11º andar com elevador",
         "description": "Apartamento na zona Primium em Lisboa, excelentes áreas\nHall, Sala com 50 m2 com varanda, Cozinha com quarto ou escritório, 2 quartos para uma Wc completa e uma suite.\nEntrada principal e de serviço, 2 elevadores e porteiro das 9 as 17h\nUm estacionamento em garagem a 300m.",
-        "status": "available",
-        "added_on": "2024-03-17 03:40"
+        "status": "rented",
+        "added_on": "2024-03-17 03:40",
+        "rented on": "2024-03-24 18:02"
     },
     {
         "região": "alvalade",
@@ -434,14 +436,14 @@
         "região": "alvalade",
         "title": "Apartamento T1 na travessa Henrique Cardoso, Alvalade, Alvalade",
         "link": "https://www.idealista.pt/imovel/32843588/",
-        "price": "2.830€/mês",
+        "price": "2.685€/mês",
         "details": "T1 | 65 m² área bruta | 3º andar com elevador",
         "description": "*APARTAMENTO COM LUGAR DE GARAGEM*\n*COMPLETAMENTE MOBILADO*\n*ARRENDAMENTO MENSAIS DE 1 A 11 MESES*\nBem-vindo a Montalto, um refúgio encantador de 65 metros quadrados localizado no vibrante bairro de Alvalade, em Lisboa. Esse charmoso apartamento oferece uma combinação perfeita de conforto, estilo e acessibilidade, tud",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-17 03:40",
-        "original price": "2.725€/mês",
-        "date of price update": "2024-03-20 18:55"
+        "original price": "2.830€/mês",
+        "date of price update": "2024-03-23 12:52"
     },
     {
         "região": "alvalade",
@@ -582,14 +584,14 @@
         "região": "alvalade",
         "title": "Duplex na avenida dos Estados Unidos da América, Alvalade, Alvalade",
         "link": "https://www.idealista.pt/imovel/32693460/",
-        "price": "3.690€/mês",
+        "price": "3.710€/mês",
         "details": "T4 | 203 m² área bruta | 1º andar com elevador",
         "description": "Novo apartamento luminoso de 4 quartos com terraço e varanda em Alvalade*APARTAMENTO COM TERRAÇO E VERANDA*\n*COMPLETAMENTE MOBILIADO*\nBem-vindo ao Civita, um requintado apartamento com tema de praia situado no charmoso bairro de Alvalade. As grandes avenidas e os espaços verdes desse bairro fazem dele um paraíso residencial. Seja para um passeio no parque ou para fazer compras, volte para",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-17 03:40",
-        "original price": "3.465€/mês",
-        "date of price update": "2024-03-20 18:55"
+        "original price": "3.705€/mês",
+        "date of price update": "2024-03-24 03:36"
     },
     {
         "região": "alvalade",
@@ -639,7 +641,7 @@
         "title": "Apartamento T2 em Campo Grande, Alvalade",
         "link": "https://www.idealista.pt/imovel/33273618/",
         "price": "1.750€/mês",
-        "details": "T2 | 85 m² área bruta | 16 mar",
+        "details": "T2 | 85 m² área bruta",
         "description": "Excelente Apartamento T2 em Alvalade\nLocalização privilegiada, com zonas verdes circundantes; próximo a Universidades, Hospitais, Cidade Universitária, Ginásio, Hipermercados, Serviços, transportes, comércio.\nÓtimos acessos a eixos e autoestradas.\nCozinha equipada com fogão, forno, micro-ondas, máquina de lavar e secar",
         "advertiser": "RE/MAX Costa Do Sol",
         "status": "available",
@@ -650,7 +652,7 @@
         "title": "Apartamento T4 em Campo Grande, Alvalade",
         "link": "https://www.idealista.pt/imovel/33271625/",
         "price": "5.000€/mês",
-        "details": "T4 | 230 m² área bruta | 7º andar com elevador | 15 mar",
+        "details": "T4 | 230 m² área bruta | 7º andar com elevador",
         "description": "Apartamento T4 com garagem, no Campo Gande, LisboaApartamento T4 com 230 m2 de área bruta privativa, dois lugares de estacionamento voltado para o jardim do Campo Grande, em Alvalade, Lisboa. Inserido em prédio com segurança, dois elevadores, piscina interior, sauna e ginásio. O apartamento está em bom estado de conservação e é composto por uma sala de estar com 43 m2",
         "advertiser": "JLL Residential Portugal",
         "status": "available",
@@ -661,7 +663,7 @@
         "title": "Apartamento T3, campo Grande, 200, Campo Grande, Alvalade",
         "link": "https://www.idealista.pt/imovel/33271335/",
         "price": "3.500€/mês",
-        "details": "T3 | 165 m² área bruta | 1º andar com elevador | 15 mar",
+        "details": "T3 | 165 m² área bruta | 1º andar com elevador",
         "description": "Situado numa das melhores localizações do centro de Lisboa junto aos jardins do Campo Grande e da Universidade de Lisboa com a pé a diversos locais de interesse público como bibliotecas, campos desportivos, restauração, hotéis, aeroporto entre outros e acesso aos transportes com ligações diretas a todas as áreas de Lis",
         "advertiser": "KW SOL | Talentos de Andrómeda - Mediação Imobiliária, Lda",
         "status": "available",
@@ -672,7 +674,7 @@
         "title": "Apartamento T2 na avenida do Brasil, Campo Grande, Alvalade",
         "link": "https://www.idealista.pt/imovel/33268841/",
         "price": "1.600€/mês",
-        "details": "T2 | 80 m² área bruta | 5º andar com elevador | 14 mar",
+        "details": "T2 | 80 m² área bruta | 5º andar com elevador",
         "description": "Apartamento com 2 frentes, remodelado, com óptima exposição solar.\nHall de entrada (11m2 - pavimento em chão flutuante) dá acesso a todas as assoalhadas, sendo que os quartos estão virados para a fachada dianteira (Avenida do Brasil) e sala e cozinha estão virados para a fachada traseira.\nQuartos (12m2 e 13m2) com pavi",
         "advertiser": "Imo-Constrivest",
         "status": "available",
@@ -690,11 +692,11 @@
     },
     {
         "região": "campo grande",
-        "title": "Apartamento T4 em Campo Grande, Alvalade",
+        "title": "Apartamento T4 na rua Alberto de Oliveira, Campo Grande, Alvalade",
         "link": "https://www.idealista.pt/imovel/33250243/",
         "price": "3.300€/mês",
         "details": "T4 | 162 m² área bruta | 5º andar com elevador",
-        "description": "TO RENT *T4*VISTA RIO | LISBOA | PARQUE DAS NAÇÕES\n+INFO:\nAREA BRUTA: 162M2\nQUARTO SUITE: 17,65m2\nQUARTO2: 15,30m2\nQUARTO3: 15,80m2\nQUARTO4: 15,80m2\nSALA: 26,54m2\nCozinha: 14,50m2\n2 WC\nGARAGEM: 3 Lugares\nREF: A154216\nHL\nExcelente apartamento T4 localizado na melhor zona da EXPO,\nem Lisboa. 5º andar com 162m2 com",
+        "description": "Excelente apartamento T4 localizado na melhor zona da EXPOTO RENT *T4*VISTA RIO | LISBOA | PARQUE DAS NAÇÕES\n+INFO:\nAREA BRUTA: 162M2\nQUARTO SUITE: 17,65m2\nQUARTO2: 15,30m2\nQUARTO3: 15,80m2\nQUARTO4: 15,80m2\nSALA: 26,54m2\nCozinha: 14,50m2\n2 WC\nGARAGEM: 3 Lugares\nREF: A154216\nHL\nExcelente apartamento T4 localizado na melhor zona da EXPO,\nem Lisboa. 5º andar com 162m2 com",
         "advertiser": "HomeLovers",
         "status": "available",
         "added_on": "2024-03-17 03:41"
@@ -738,9 +740,8 @@
         "price": "2.690€/mês",
         "details": "T3 | 120 m² área bruta | 1º andar com elevador",
         "description": "** NOVIDADE ENTRADA IMEDIATA **\nLuxuoso apartamento T3, totalmente renovado em fevereiro de 2024 com materiais de alta qualidade, em excelente zona de Lisboa na Junta de Freguesia de Alvalade.\nÉ chegar e viver!\n3 Quartos\n- 1 suite com walking shower (com AC), com roupa de cama e toalhas a estrear.\n- 1 transform",
-        "status": "rented",
-        "added_on": "2024-03-17 03:41",
-        "rented on": "2024-03-20 18:55"
+        "status": "available",
+        "added_on": "2024-03-17 03:41"
     },
     {
         "região": "campo grande",
@@ -895,8 +896,9 @@
         "details": "T4 | 230 m² área bruta | com elevador",
         "description": "Apartamento T4 em Condomínio de Luxo totalmente mobilado e equipado, em Alvalade, Campo Grande, com piscina e Segurança 24horas.\nO Apartamento está dividido da seguinte forma:\n- Hall de entrada espaçoso.\n- Ampla sala e sala de jantar com varanda e vista desafogada para a zona verde da cidade universitária de Lisboa.",
         "advertiser": "MAP -  Martina Lennon Properties, M.I. lda",
-        "status": "available",
-        "added_on": "2024-03-17 03:41"
+        "status": "rented",
+        "added_on": "2024-03-17 03:41",
+        "rented on": "2024-03-23 12:52"
     },
     {
         "região": "campo grande",
@@ -958,7 +960,7 @@
         "link": "https://www.idealista.pt/imovel/33179158/",
         "price": "3.500€/mês",
         "details": "T3 | 160 m² área bruta | 8º andar com elevador",
-        "description": "[PT] Disponível em: 20/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 20/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
+        "description": "[PT] Disponível em: 23/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 23/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
         "status": "available",
         "added_on": "2024-03-17 03:41"
     },
@@ -1266,12 +1268,13 @@
         "região": "campo grande",
         "title": "Apartamento T2 na avenida do Brasil, 33 a, Campo Grande, Alvalade",
         "link": "https://www.idealista.pt/imovel/29708110/",
-        "price": "1.550€/mês",
+        "price": "1.650€/mês",
         "details": "T2 | 85 m² área bruta | 4º andar com elevador",
         "description": "TO RENT * T2 – ALVALADE – CAMPO GRANDE -\nApartamento T2 mobilado, equipado e remodelado\nValor para período de arrendamento igual ou superior a 1 ano. Este valor inclui as despesas do condomínio do prédio.\nAlvalade é um dos bairros mais calmos e familiares de Lisboa. Uma zona tranquila, segura e central, com todo o",
-        "status": "rented",
+        "status": "available",
         "added_on": "2024-03-17 03:41",
-        "rented on": "2024-03-21 00:25"
+        "original price": "1.550€/mês",
+        "date of price update": "2024-03-24 15:28"
     },
     {
         "região": "campo grande",
@@ -1344,7 +1347,7 @@
         "title": "Apartamento T1 na avenida dos Estados Unidos da América, 2, São João de Brito, Alvalade",
         "link": "https://www.idealista.pt/imovel/33271668/",
         "price": "1.500€/mês",
-        "details": "T1 | 80 m² área bruta | 6º andar com elevador | 15 mar",
+        "details": "T1 | 80 m² área bruta | 6º andar com elevador",
         "description": "Bem-vindo à sofisticação e conforto neste magnífico apartamento situado em plena Avenida Estados Unidos da América, um dos endereços mais prestigiados de Lisboa. Este imóvel oferece acabamentos de alta qualidade, proporcionando uma atmosfera requintada e acolhedora.\nCaracterísticas Principais:\nLocalização Privilegiad",
         "status": "available",
         "added_on": "2024-03-17 03:43"
@@ -1354,7 +1357,7 @@
         "title": "Apartamento T3 na rua Conde Ficalho, São João de Brito, Alvalade",
         "link": "https://www.idealista.pt/imovel/33268234/",
         "price": "1.800€/mês",
-        "details": "T3 | 138 m² área bruta | Rés do chão sem elevador | 14 mar",
+        "details": "T3 | 138 m² área bruta | Rés do chão sem elevador",
         "description": "R conde ficalho 8 rcdto alto\ns/ 37396\ntlmtiago ribeiro\ntlmfernanda pereira.",
         "advertiser": "Associação Lisbonense De Proprietários",
         "status": "available",
@@ -1390,8 +1393,9 @@
         "details": "T2 | 72 m² área bruta | sem elevador",
         "description": "Imóvel T2 remodelado em Alvalade inserido em prédio em excelente estado de conservação.\nO imóvel é um 3 piso sem elevador inserido em prédio de 4 pisos e fica a 3 minutos do Metro de Alvalade na parte calma da Av. Brasil, entre a Av. Roma e Av. Rio de Janeiro.\nBem servido de todo o estilo de bom comercio e também de",
         "advertiser": "Century21 Central Park",
-        "status": "available",
-        "added_on": "2024-03-17 03:43"
+        "status": "rented",
+        "added_on": "2024-03-17 03:43",
+        "rented on": "2024-03-23 12:52"
     },
     {
         "região": "sao joao de brito",
@@ -1421,7 +1425,7 @@
         "link": "https://www.idealista.pt/imovel/33256745/",
         "price": "7.950€/mês",
         "details": "T4 | 300 m² área bruta",
-        "description": "TO RENT * T4 +1 MORADIA |LISBOA | ALVALADE\n+ INFO -\nPiso 1\n- Master suite com WC e closet\n- 2 quartos com closet e roupeiros\n-1 WC\n-Varanda\n-Acesso ao Sotão/Arrecadação ( Piso 2)\nPiso Zero\n- Entrada da moradia\n- Cozinha equipada\n- Sala\n- Varanda\n-1 WC social\n- 1 escritório\nPiso ( menos 1)\n- 1 quarto com acesso d",
+        "description": "Moradia T4 em AlvaladeTO RENT * T4 +1 MORADIA |LISBOA | ALVALADE\n+ INFO -\nPiso 1\n- Master suite com WC e closet\n- 2 quartos com closet e roupeiros\n-1 WC\n-Varanda\n-Acesso ao Sotão/Arrecadação ( Piso 2)\nPiso Zero\n- Entrada da moradia\n- Cozinha equipada\n- Sala\n- Varanda\n-1 WC social\n- 1 escritório\nPiso ( menos 1)\n- 1 quarto com acesso d",
         "advertiser": "HomeLovers",
         "status": "available",
         "added_on": "2024-03-17 03:43"
@@ -1433,8 +1437,9 @@
         "price": "1.600€/mês",
         "details": "T2 | 76 m² área bruta | 2º andar sem elevador",
         "description": "Excelente Apartamento T2, 2º andar, totalmente renovado, mobilado e equipado, com jardim privativo. Ótima localização com uma vivência de bairro, junto à Av. da Igreja, próximo de escolas, universidade e a 5 Minuto do Metro.\nImóvel em zona tranquila, numa rua sem saída, com 2 Frentes e muita luminosidade. Disponível de",
-        "status": "available",
-        "added_on": "2024-03-17 03:43"
+        "status": "rented",
+        "added_on": "2024-03-17 03:43",
+        "rented on": "2024-03-23 12:52"
     },
     {
         "região": "sao joao de brito",
@@ -1483,11 +1488,13 @@
         "região": "sao joao de brito",
         "title": "Apartamento T3 na avenida Dom Rodrigo da Cunha, 19, São João de Brito, Alvalade",
         "link": "https://www.idealista.pt/imovel/33234711/",
-        "price": "1.850€/mês",
+        "price": "1.700€/mês",
         "details": "T3 | 135 m² área bruta | 3º andar sem elevador",
         "description": "Apartamento T3 com 2 casas de banho e 2 varandas, situado em Alvalade, umas das zonas mais nobres e centrais da cidade de Lisboa, situada junto à Avenida da Igreja, próximo da Avenida de Roma e do metro de Alvalade.\nLocalizada numa zona com uma vasta oferta de comércio tradicional e supermercados a menos de 5 minutos",
         "status": "available",
-        "added_on": "2024-03-17 03:43"
+        "added_on": "2024-03-17 03:43",
+        "original price": "1.850€/mês",
+        "date of price update": "2024-03-23 12:54"
     },
     {
         "região": "sao joao de brito",
@@ -1534,14 +1541,14 @@
         "região": "sao joao de brito",
         "title": "Apartamento T3 na rua Acácio de Paiva, São João de Brito, Alvalade",
         "link": "https://www.idealista.pt/imovel/33185133/",
-        "price": "3.535€/mês",
+        "price": "3.735€/mês",
         "details": "T3 | 95 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento T3 com terraço e oficina em Alvalade*APARTAMENTO COM TERRAÇO E OFICINA*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Acácio Paiva, com 3 quartos, 1 casa de banho, 1 WC e um escritório. A cozinha está equipada com electrodomésticos e utensílios de cozinha de última geração. As camas estão equipadas com roupa d",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-17 03:43",
-        "original price": "3.200€/mês",
-        "date of price update": "2024-03-20 18:57"
+        "original price": "3.535€/mês",
+        "date of price update": "2024-03-23 12:54"
     },
     {
         "região": "sao joao de brito",
@@ -1670,8 +1677,9 @@
         "details": "T9 | 2.600 m² área bruta",
         "description": "Moradia para arrendamento em Alvalade.\nMoradia Senhorial, na Av. Almirante Gago Coutinho com uma área total de 2600m2, a necessitar obras no interior.\nExcelente oportunidade para investir em Alojamento Local, ou Clínica, ou Escola, ou sede de Empresas\nMoradia composta por:\nO rés do chão é composto átrio, hall de en",
         "advertiser": "Century 21 Plano",
-        "status": "available",
-        "added_on": "2024-03-17 03:43"
+        "status": "rented",
+        "added_on": "2024-03-17 03:43",
+        "rented on": "2024-03-23 12:52"
     },
     {
         "região": "sao joao de brito",
@@ -1679,7 +1687,7 @@
         "link": "https://www.idealista.pt/imovel/33065949/",
         "price": "1.600€/mês",
         "details": "T3 | 130 m² área bruta | 3º andar sem elevador",
-        "description": "Identificação do imóvel: ZMPT563102\nApartamento T3 renovado em prédio tranquilo, com estacionamento à porta, mesmo junto ao LNEC.\nCondições de arrendamento:\nPagamento de 6 meses (2 meses de caução+ 4 meses antecipados);\nAnálise capacidade financeira prévia com IRS e Recibos de vencimento;\nFiador\nAs visitas são marca",
+        "description": "Identificação do imóvel: ZMPT563102\nApartamento T3 renovado em prédio tranquilo, com estacionamento à porta, mesmo junto ao LNEC.\nCondições de arrendamento:\nAnálise capacidade financeira prévia com IRS e Recibos de vencimento;\nFiador\nAs visitas são marcadas após análise capacidade financeira.\nMarque hoje a sua vis",
         "advertiser": "Zome Évora",
         "status": "available",
         "added_on": "2024-03-17 03:43"
@@ -1889,11 +1897,13 @@
         "região": "alvalade",
         "title": "Apartamento T1 na rua Doutor Gama Barros, 48, Alvalade, Alvalade",
         "link": "https://www.idealista.pt/imovel/33277016/",
-        "price": "1.600€/mês",
+        "price": "1.650€/mês",
         "details": "T1 | 80 m² área bruta | Sub cave sem elevador | 19 mar",
-        "description": "Aluga-se apartamento com uma área interior de 60 m2 e uma área exterior ajardinada com 20m2 sendo este alugado com mobília. O apartamento foi remodelado e tem muita luz natural, com janelas grandes (vidros duplos) em todas as divisões exceto no WC. Tem uma sala totalmente envidraçada que dá para o terraço, um quarto mu",
+        "description": "Aluga-se apartamento T1 com uma área interior de 60 m2 e uma área exterior ajardinada com 20m2 sendo este alugado com mobília. O apartamento foi remodelado e tem muita luz natural, com janelas grandes (vidros duplos) em todas as divisões exceto no WC. Tem uma sala totalmente envidraçada que dá para o terraço, um quarto",
         "status": "available",
-        "added_on": "2024-03-20 18:54"
+        "added_on": "2024-03-20 18:54",
+        "original price": "1.600€/mês",
+        "date of price update": "2024-03-24 03:36"
     },
     {
         "região": "alvalade",
@@ -1911,7 +1921,7 @@
         "title": "Apartamento T4, Azinhaga dos Ameixiais, 291, Campo Grande, Alvalade",
         "link": "https://www.idealista.pt/imovel/33279916/",
         "price": "2.200€/mês",
-        "details": "T4 | 140 m² área bruta | 6º andar com elevador | 20 horas",
+        "details": "T4 | 140 m² área bruta | 6º andar com elevador | 20 mar",
         "description": "Apartamento de tipologia T4 transformado em T3, único no piso, com excelente área, parcialmente mobilado, situado no 6º andar de prédio com dois elevadores em localização privilegiada.\nEste apartamento está harmoniosamente dividido entre área social e zona privada, tornando-o perfeito para a vida quotidiana e citadina",
         "advertiser": "Century 21 Colombo",
         "status": "available",
@@ -1932,11 +1942,13 @@
         "região": "sao joao de brito",
         "title": "Apartamento T0 na rua Jorge Colaço, 18, São João de Brito, Alvalade",
         "link": "https://www.idealista.pt/imovel/33279148/",
-        "price": "900€/mês",
-        "details": "T0 | 38 m² área bruta | Rés do chão sem elevador | 12 horas",
+        "price": "850€/mês",
+        "details": "T0 | 38 m² área bruta | Rés do chão sem elevador | 20 mar",
         "description": "Alvalade, junto a Avenida do Brasil, T0 em estado impecável recentemente renovado composto por um bom quarto com roupeiro, janela para o terraço e acesso Internet instalado, casa de banho totalmente equipada, porta de entrada de segurança, cozinha equipada com forno elétrico, maquina de lavar louça, maquina de lavar e",
         "status": "available",
-        "added_on": "2024-03-20 18:57"
+        "added_on": "2024-03-20 18:57",
+        "original price": "900€/mês",
+        "date of price update": "2024-03-23 12:54"
     },
     {
         "região": "sao joao de brito",
@@ -1944,7 +1956,7 @@
         "link": "https://www.idealista.pt/imovel/33279263/",
         "price": "1.050€/mês",
         "details": "T1 | 60 m² área bruta | 4º andar com elevador | 19 mar",
-        "description": "SÓ PARA O MÊS DE ABRIL\nArrendo apartamento T1 em plena Aveinida de Roma.\nCom grande Marquise c/ vista para a Avenida\nO apartamento tem uma frente e tem sol durante todo o dia.\nA cozinha tem fogão e esquentador ( possibilidade de colocação de combinado)\nJunto ao Metro Roma\nPrédio com 2 elevadores\nSolicita-se pessoas",
+        "description": "AOS INTERESSADOS VISITAS APARTIR DE ABRIL\nArrendo apartamento T1 em plena Aveinida de Roma.\nCom grande Marquise c/ vista para a Avenida\nO apartamento tem uma frente e tem sol durante todo o dia.\nA cozinha tem fogão e esquentador ( possibilidade de colocação de combinado)\nJunto ao Metro Roma\nPrédio com 2 elevadores\nS",
         "status": "available",
         "added_on": "2024-03-20 18:57"
     },
@@ -1965,8 +1977,9 @@
         "price": "700€/mês",
         "details": "T0 | 36 m² área bruta | Rés do chão com elevador | 19 mar",
         "description": "Apartamento T0+1 remodelado na Rua Jorge Colaço à Av Brasil - LNEC (Alvalade). Rés do chão com 36 m2 de área coberta com cozinha, marquise, quarto e 1 WC e um grande logradouro. Cozinha equipada com fogão, esquentador e exaustor.\nZona bem servida de transportes públicos com acesso fácil a toda a cidade: autocarros e m",
-        "status": "available",
-        "added_on": "2024-03-20 18:57"
+        "status": "rented",
+        "added_on": "2024-03-20 18:57",
+        "rented on": "2024-03-23 12:52"
     },
     {
         "região": "sao joao de brito",
@@ -1978,5 +1991,101 @@
         "advertiser": "Remax Team Forever",
         "status": "available",
         "added_on": "2024-03-20 18:57"
+    },
+    {
+        "região": "alvalade",
+        "title": "Apartamento T6 na rua João Villaret, s/n, Alvalade, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33288669/",
+        "price": "2.450€/mês",
+        "details": "T6 | 214 m² área bruta | Ontem",
+        "description": "Apartamento Duplex, como novo, com cozinha equipada, parcialmente mobilado. No piso inferior deste imóvel existem 2 casas-de-banho, cozinha e uma sala com área muito agradável e dois quartos com boas áreas. O piso superior dispõe de 4 quartos e um terraço e uma vista desafogada. Muitíssimo bem servido de transportes (c",
+        "advertiser": "RE/MAX LATINA II",
+        "status": "available",
+        "added_on": "2024-03-23 12:51"
+    },
+    {
+        "região": "campo grande",
+        "title": "Apartamento T2 em Campo Grande, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33288925/",
+        "price": "1.900€/mês",
+        "details": "T2 | 60 m² área bruta | sem elevador | Ontem",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
+        "status": "available",
+        "added_on": "2024-03-23 12:52"
+    },
+    {
+        "região": "campo grande",
+        "title": "Apartamento T2, campo Grande, Campo Grande, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33288708/",
+        "price": "2.200€/mês",
+        "details": "T2 | 137 m² área bruta | Ontem",
+        "description": "Apartamento T2 para arrendamento junto à rotunda de Entrecampos\nCaracterísticasT2 junto à rotunda de EntrecamposÁrea Total: 137m2Totalmente mobilado e equipadoUm dos quaros é suite-2 casas de banhoAr Condicionado\nLocalização e AcessosAvenida Campo Grande-Junto à rotunda de Entrecampos-Zona privilegiada em termos de red",
+        "advertiser": "RE/MAX ConviCtus",
+        "status": "available",
+        "added_on": "2024-03-23 12:52"
+    },
+    {
+        "região": "campo grande",
+        "title": "Penthouse em Campo Grande, Alvalade",
+        "link": "https://www.idealista.pt/imovel/30840676/",
+        "price": "1.450€/mês",
+        "details": "T1 | 70 m² área bruta | 10º andar com elevador | 22 mar",
+        "description": "CAMPO GRANDE APARTAMENTO T1 COM VISTA DESLUMBRANTE\nDISPONIBILIDADE IMEDIATA\nSó se aceitam particulares - não atendemos imobiliárias.\nT1 com 70 m2 área bruta, com terraço exterior com vista para o jardim do Campo Grande. Inserido em prédio com elevadores e vídeo porteiro.\nEspaços luminosos, com terraço interior, sala",
+        "status": "available",
+        "added_on": "2024-03-23 12:52"
+    },
+    {
+        "região": "campo grande",
+        "title": "Apartamento T1, campo Grande, Campo Grande, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33284457/",
+        "price": "1.600€/mês",
+        "details": "T1 | 97 m² área bruta | 1º andar com elevador | 21 mar",
+        "description": "Campo Grande – apartamento T1 com 61 m2, com vista desafogada para o jardim do Campo Grande.\nPrédio do ano 2000 com zonas comuns organizadas da seguinte forma: Lobby com portaria Concierge e segurança 24 horas, jardim e sala de condomínio, ginásio totalmente equipado, terraços e piscina.\nImóvel em muito bom estado de c",
+        "advertiser": "Madeyar",
+        "status": "available",
+        "added_on": "2024-03-23 12:52"
+    },
+    {
+        "região": "campo grande",
+        "title": "Duplex em Campo Grande, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33245869/",
+        "price": "6.000€/mês",
+        "details": "T5 | 246 m² área bruta | com elevador",
+        "description": "OFERTA ATO ÚNICO ESCRITURA E REGISTOS. Alvalade. PENTHOUSE T5 DUPLEX COM ÁREA TOTAL 284M2, COM 5 LUGARES DE ESTACIONAMENTO, ARRECADAÇÃO E UM TERRAÇO NA COBERTURA DO PRÉDIO (COMUM) COM CERCA DE 150M2 E ACESSO DIRECTO ATRAVÉS DO APARTAMENTO. COZINHA TOTALMENTE EQUIPADA. BONS ACABAMENTOS. !\nTotalmente mobilado e decorado",
+        "advertiser": "Villa Palace- Real Estate",
+        "status": "available",
+        "added_on": "2024-03-23 12:52"
+    },
+    {
+        "região": "sao joao de brito",
+        "title": "Duplex em São João de Brito, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33286781/",
+        "price": "1.500€/mês",
+        "details": "T2 | 80 m² área bruta | 1º andar sem elevador | 22 mar",
+        "description": "Belíssimo apartamento T2 Duplex de 80m2 situado num dos melhores bairros Lisboetas, totalmente renovado em 2017 é ideal para uma família de 4 pessoas. Tem uma sala muito luminosa e dois quartos com roupeiros embutidos. A cozinha tem forno e placa de indução com exaustor e esquentador a gás. A casa está equipada com ar",
+        "status": "available",
+        "added_on": "2024-03-23 12:54",
+        "original price": "1.350€/mês",
+        "date of price update": "2024-03-24 15:28"
+    },
+    {
+        "região": "campo grande",
+        "title": "Apartamento T1, R. Afonso Lopes Vieira, 9, Campo Grande, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33289671/",
+        "price": "1.100€/mês",
+        "details": "T1 | 47 m² área bruta | 3º andar com elevador | 4 horas",
+        "description": "Electrodomésticos caros na cozinha (placa, placa vitrocerâmica, forno, exaustor potente, frigorífico), 2 televisões, máquina de lavar roupa com secador de roupa.",
+        "status": "available",
+        "added_on": "2024-03-24 15:27"
+    },
+    {
+        "região": "alvalade",
+        "title": "Apartamento T4 na rua Antero de Figueiredo, 2, Alvalade, Alvalade",
+        "link": "https://www.idealista.pt/imovel/33289678/",
+        "price": "2.000€/mês",
+        "details": "T4 | 175 m² área bruta | 3º andar com elevador | 2 horas",
+        "description": "Arrenda-se T4 Alvalade com varanda - Bairro das Estacas - 175 m2\nExcelente apartamento T4 de 175m2 localizado no Bairro das Estacas em Alvalade num prédio familiar com elevadores.\nO imóvel é ideal para famílias e localiza-se na rua Antero de Figueiredo, a 5 minutos a pé da estação de comboio do Areeiro e do metro da",
+        "status": "new",
+        "added_on": "2024-03-24 18:01"
     }
 ]

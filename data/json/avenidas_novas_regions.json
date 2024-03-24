@@ -6,8 +6,9 @@
         "price": "2.000€/mês",
         "details": "T2 | 90 m² área bruta | 7º andar com elevador",
         "description": "Localizado num prédio de prestígio numa das zonas mais centrais de Lisboa, perto de comércio e transportes. É um apartamento espaçoso com dois quartos, um em suite, uma sala de estar/ jantar, cozinha equipada e uma casa de banho completa. A sala de estar tem uma janela para um amplo terraço com zona de refeições e laze",
-        "status": "available",
-        "added_on": "2024-03-13 12:12"
+        "status": "rented",
+        "added_on": "2024-03-13 12:12",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "gulbenkian praca espanha",
@@ -15,7 +16,7 @@
         "link": "https://www.idealista.pt/imovel/33247815/",
         "price": "3.950€/mês",
         "details": "T4 | 195 m² área bruta | com elevador",
-        "description": "Lisboa Avenida Novas fantástico apartamento T4 todo remodelado de luxo, sem moveis\nFica nas melhore zonas de Lisboa, Avenida Novas, Miguel Bombarda, junto ao parque de estacionamento Valbom, metro na Duque D Avila, Av. 5 de Outubro, local tranquilo de boa gente, comercio, zona pedonal, zona para andar de bicicletas,",
+        "description": "Lisboa Avenida Novas fantástico apartamento T4 foi todo remodelado de luxo, sem moveis\nFica nas melhore zonas de Lisboa, Avenida Novas, Miguel Bombarda, junto ao parque de estacionamento Valbom, metro na Duque D Avila, Av. 5 de Outubro, local tranquilo de boa gente, comercio, zona pedonal, zona para andar de biciclet",
         "advertiser": "NEW-LOFT Premium Real Estate",
         "status": "available",
         "added_on": "2024-03-13 12:12"
@@ -145,8 +146,9 @@
         "price": "3.450€/mês",
         "details": "T3 | 168 m² área bruta | 3º andar com elevador",
         "description": "Excelente apartamento com muita Luz num dos melhores bairros de Lisboa. Prédio recente, com bons acabamentos, boas áreas, elevador e um lugar de garagem.\nSala com cerca de 38m2 e muita luz e ar condicionado. Cozinha com 20m2. Quartos com 14 a 17m2 e ar condicionado. Varanda com 28m2.\nMuito boa construção, com ar cond",
-        "status": "available",
-        "added_on": "2024-03-13 12:12"
+        "status": "rented",
+        "added_on": "2024-03-13 12:12",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "gulbenkian praca espanha",
@@ -351,8 +353,9 @@
         "details": "T3 | 150 m² área bruta | 5º andar com elevador",
         "description": "Apartamento de 4 assoalhadas, totalmente remodelado em prédio com 2 elevadores, situado perto do metro junto a comércio e serviços como por exemplo o El Corte Inglés, o Lidl, num agradável bairro de características tranquilas e de excelente centralidade.\nA sua organização interna é constituída por:\nSala 43m2, com duas",
         "advertiser": "MIM - Mediação Imobiliária",
-        "status": "available",
-        "added_on": "2024-03-11 02:28"
+        "status": "rented",
+        "added_on": "2024-03-11 02:28",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "bairro azul parque eduardo vii",
@@ -481,8 +484,9 @@
         "price": "1.925€/mês",
         "details": "T2 | 90 m² área bruta | 7º andar com elevador",
         "description": "Magnífico apartamento em excepcional localização!\nO apartamento está situado numa das mais nobres e prestigiadas zonas de Lisboa, em frente ao El Corte Inglês e a curta distância do Parque Eduardo VII.\nEste apartamento tem todo o conforto, comodidade e sofisticação para os seus residentes.\nIdeal para pessoas singula",
-        "status": "available",
-        "added_on": "2024-03-11 02:28"
+        "status": "rented",
+        "added_on": "2024-03-11 02:28",
+        "rented on": "2024-03-24 03:50"
     },
     {
         "região": "bairro azul parque eduardo vii",
@@ -744,12 +748,14 @@
         "região": "sao sebastiao da pedreira",
         "title": "Apartamento T3 na rua Andrade Corvo, 33, São Sebastião da Pedreira, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33196491/",
-        "price": "3.500€/mês",
+        "price": "3.000€/mês",
         "details": "T3 | 135 m² área bruta | sem elevador",
         "description": "Bem-vindo ao seu retiro exclusivo na rua Andrade Corvo 33, localizado no vibrante coração de Lisboa, no prestigiado bairro de Picoas.\nEste opulento apartamento oferece uma fusão de elegância e charme intemporal, proporcionando o epítome da vida de luxo numa das localizações mais centrais e desejadas da cidade.\nCaract",
         "advertiser": "Century21 Realty Art M&J",
         "status": "available",
-        "added_on": "2024-03-11 21:39"
+        "added_on": "2024-03-11 21:39",
+        "original price": "3.500€/mês",
+        "date of price update": "2024-03-23 13:09"
     },
     {
         "região": "sao sebastiao da pedreira",
@@ -816,10 +822,11 @@
         "details": "T1 | 46 m² área bruta",
         "description": "Seja bem-vindo á sua nova CASA! Welcome to your NEW HOME! Bienvenido a su NUEVO HOGAR! Willkommen in Ihrem NEUEN ZUHAUSE! Bienvenue dans votre NOUVELLE MAISON! Добро пожаловать в ваш новый дом! Benvenuti nella vostra NUOVA CASA! Wëllkomm zu Äre NEI HOME! Καλώς ήρθατε στο νέο σας σπίτι! Velkommen til ditt NYE HJEM! مرحب",
         "advertiser": "RE/MAX LATINA II",
-        "status": "available",
+        "status": "rented",
         "added_on": "2024-03-11 21:39",
         "original price": "1.400€/mês",
-        "date of price update": "2024-03-17 23:37"
+        "date of price update": "2024-03-17 23:37",
+        "rented on": "2024-03-24 15:39"
     },
     {
         "região": "sao sebastiao da pedreira",
@@ -862,8 +869,9 @@
         "details": "T3 | 140 m² área bruta | 2º andar",
         "description": "Disponível a partir de 1 Junho de 2024\nO imóvel:\n- Apartamento T3 em excelentes condições\n- Sala com 50m2\n- 3 quartos (incluindo uma Suite com 26m2 com zona de closet e casa de banho com chuveiro)\n- WC com banheira\n- Cozinha totalmente equipada\n- Parcialmente mobilado (2 quartos com armários roupeiros embutidos",
         "advertiser": "Worldland Real Estate",
-        "status": "available",
-        "added_on": "2024-03-11 21:39"
+        "status": "rented",
+        "added_on": "2024-03-11 21:39",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "sao sebastiao da pedreira",
@@ -872,8 +880,9 @@
         "price": "2.150€/mês",
         "details": "T3 | 107 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Não, para mai",
-        "status": "available",
-        "added_on": "2024-03-11 21:39"
+        "status": "rented",
+        "added_on": "2024-03-11 21:39",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "sao sebastiao da pedreira",
@@ -1045,7 +1054,7 @@
         "title": "Apartamento T4 em São Sebastião da Pedreira, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33263219/",
         "price": "1.650€/mês",
-        "details": "T4 | 90 m² área bruta | 5º andar com elevador",
+        "details": "T4 | 90 m² área bruta | 5º andar sem elevador",
         "description": "",
         "status": "available",
         "added_on": "2024-03-12 16:31"
@@ -1135,14 +1144,14 @@
         "região": "sao sebastiao da pedreira",
         "title": "Apartamento T2 na avenida Luís Bívar, São Sebastião da Pedreira, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/32760703/",
-        "price": "3.645€/mês",
+        "price": "3.595€/mês",
         "details": "T2 | 76 m² área bruta | 6º andar com elevador",
         "description": "Apartamento de 2 quartos em Avenidas Novas*APARTAMENTO COM TERRAÇO COMUNITARIO, PISCINA E ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nBem-vindo ao Anzio, um deslumbrante apartamento com tema de praia, situado no coração das Avenidas Novas. Explore os parques, os calçadões exuberantes e as lojas internacionais a uma curta distânc",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-12 16:34",
-        "original price": "3.340€/mês",
-        "date of price update": "2024-03-20 19:03"
+        "original price": "3.645€/mês",
+        "date of price update": "2024-03-23 13:10"
     },
     {
         "região": "sao sebastiao da pedreira",
@@ -1281,17 +1290,18 @@
         "title": "Apartamento T4 na avenida António Augusto de Aguiar, 150, Bairro Azul - Parque Eduardo VII, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33273967/",
         "price": "3.950€/mês",
-        "details": "T4 | 183 m² área bruta | 3º andar com elevador | 16 mar",
+        "details": "T4 | 183 m² área bruta | 3º andar com elevador",
         "description": "Apartamento T4 tem localização central e boas condições com cozinha totalmente equipada, sala de estar com muita luz e quatro quartos. O prédio tem elevador e cave para estacionamento. Fácil acesso a todos os lugares, perto de metrô, supermercado, shopping center, etc.",
-        "status": "available",
-        "added_on": "2024-03-17 23:32"
+        "status": "rented",
+        "added_on": "2024-03-17 23:32",
+        "rented on": "2024-03-24 15:39"
     },
     {
         "região": "bairro azul parque eduardo vii",
         "title": "Apartamento T2 na rua Doutor Júlio Dantas, 10, Bairro Azul - Parque Eduardo VII, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33273205/",
         "price": "2.100€/mês",
-        "details": "T2 | 110 m² área bruta | com elevador | 16 mar",
+        "details": "T2 | 110 m² área bruta | com elevador",
         "description": "Arrenda-se apartamento T2 na Rua R. Dr. Júlio Dantas 10 no Bairro Azul. O apartamento foi recentemente remodelado, fica no 5º piso, inserido no prédio com 2 elevadores.\nO apartamento é composto por um hall de entrada; uma cozinha totalmente equipada com equipamentos novos, com despensa e uma zona para refeição; uma sa",
         "advertiser": "Century21 Realty Art M&J",
         "status": "available",
@@ -1302,7 +1312,7 @@
         "title": "Apartamento T1 na avenida António Augusto de Aguiar, 195, Bairro Azul - Parque Eduardo VII, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33269741/",
         "price": "2.300€/mês",
-        "details": "T1 | 61 m² área bruta | 2º andar | 14 mar",
+        "details": "T1 | 61 m² área bruta | 2º andar",
         "description": "Apartamento total e criteriosamente reabilitado com 61m2, pé direito alto, com acabamentos e muito cachê, mantendo a traça original num prédio de enorme elegância com cuidado em cada detalhe.\nSituado num 2º andar com elevador, o prédio oferece uma antecâmara em cada andar e de seguida temos a casa em que entramos para",
         "advertiser": "Home Tailors Lisboa",
         "status": "available",
@@ -1313,7 +1323,7 @@
         "title": "Apartamento T4 na rua Padre António Vieira, 28, Bairro Azul - Parque Eduardo VII, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33267569/",
         "price": "4.000€/mês",
-        "details": "T4 | 165 m² área bruta | com elevador | 14 mar",
+        "details": "T4 | 165 m² área bruta | com elevador",
         "description": "Espaçoso apartamento de quatro quartos localizado em zona prime das Avenidas Novas, numa zona privilegiada de Lisboa.\nEste imóvel oferece uma área generosa, com quatro quartos amplos, incluindo uma suíte principal, uma cozinha totalmente equipada e uma sala de estar espaçosa, ideal para convívio familiar. Apresenta ta",
         "advertiser": "Century21 Central Park",
         "status": "available",
@@ -1324,7 +1334,7 @@
         "title": "Apartamento T1 na rua Chaby Pinheiro, Campo Pequeno, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/31901011/",
         "price": "1.400€/mês",
-        "details": "T1 | 40 m² área bruta | 3º andar sem elevador | 14 mar",
+        "details": "T1 | 40 m² área bruta | 3º andar sem elevador",
         "description": "Apartamento T1 sem móveis localizado no Campo Pequeno:\nAs áreas dividem-se por:\n- Sala de Estar com saída para varandim\n- Quarto sem roupeiros\n- Kitchenette equipada\n-Wc completo com base de duche\nImóvel equipado com ar condicionado, janelas com vidros duplos, localizado próximo ao centro comercial do Campo Peque",
         "advertiser": "Porta da Frente Christie’s",
         "status": "available",
@@ -1335,7 +1345,7 @@
         "title": "Apartamento T4 na rua Chaby Pinheiro, Campo Pequeno, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33268786/",
         "price": "2.100€/mês",
-        "details": "T4 | 155 m² área bruta | 2º andar sem elevador | 14 mar",
+        "details": "T4 | 155 m² área bruta | 2º andar sem elevador",
         "description": "Apartamento espaçoso para arrendamento no coração de Lisboa, próximo ao Campo Pequeno.\nCom 155 m² bruta e 118 m² úteis, possui 4 quartos e 2 casas de banho, além de uma cozinha equipada.\nCom áreas generosas e a traça original preservada, o ambiente é acolhedor e charmoso, ideal para famílias que procuram um lar em um",
         "status": "available",
         "added_on": "2024-03-17 23:33"
@@ -1345,7 +1355,7 @@
         "title": "Apartamento T2 em Campo Pequeno, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33267600/",
         "price": "3.000€/mês",
-        "details": "T2 | 137 m² área bruta | com elevador | 14 mar",
+        "details": "T2 | 137 m² área bruta | com elevador",
         "description": "Explore o requinte e o conforto neste magnífico apartamento T2 num 5 andar, localizado em uma zona nobre de Lisboa, na Avenida de Berna, com a assinatura do renomado arquiteto Sidney Quintela.\nCaracterísticas do Imóvel:\nEste apartamento de alto padrão oferece um design sofisticado, com sala e cozinha em conceito open",
         "advertiser": "Century 21 Prime",
         "status": "available",
@@ -1499,8 +1509,9 @@
         "details": "T1 | 75 m² área bruta",
         "description": "Apartamento T1 com terraço de 15m2 na Av. Elias Garcia 8.\nApartamento situado no coração de Lisboa num prédio de traça antiga reabilitado em 2011, mantendo todas as caracteristicas originais. Trata-se de uma cave com terraço.\nA cozinha está equipada com forno, placa, exaustor, esquentador, frigorifico e maquina de lava",
         "advertiser": "RE/MAX Team",
-        "status": "available",
-        "added_on": "2024-03-17 23:33"
+        "status": "rented",
+        "added_on": "2024-03-17 23:33",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "campo pequeno",
@@ -1834,12 +1845,14 @@
         "região": "campo pequeno",
         "title": "Moradia independente em Campo Pequeno, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33017576/",
-        "price": "10.000€/mês",
+        "price": "8.500€/mês",
         "details": "T6 | 455 m² área bruta",
         "description": "Moradia equipada, sem móveis, com terraço e dois lugares de garagem, nas Avenidas NovasMoradia T6+2 para arrendamento, sem móveis, com terraço e jardim no centro das Avenidas Novas, próximo do Museu Calouste Gulbenkian, do Saldanha, do Campo Pequeno, do Instituto Superior Técnico e de todos os transportes, comércio e serviços.\nEste imóvel com 759 m2 de área bruta de construção, 455 m2 de área bruta priv",
         "advertiser": "Quintela + Penalva | Knight Frank",
         "status": "available",
-        "added_on": "2024-03-17 23:34"
+        "added_on": "2024-03-17 23:34",
+        "original price": "10.000€/mês",
+        "date of price update": "2024-03-23 13:06"
     },
     {
         "região": "campo pequeno",
@@ -1996,14 +2009,14 @@
         "região": "campo pequeno",
         "title": "Apartamento T3 na avenida Elias Garcia, Campo Pequeno, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/32943551/",
-        "price": "3.605€/mês",
+        "price": "3.885€/mês",
         "details": "T3 | 125 m² área bruta | 1º andar com elevador",
         "description": "Apartmento T3 em Avenidas Novas*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nExperimente o epítome do conforto e do charme costeiro em Aurunca, um deslumbrante apartamento de 125 metros quadrados situado no vibrante bairro das Avenidas Novas. Este bairro exuberante oferece as vistas mais deslumbrantes de Lisboa, ao mesmo tempo que está",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-17 23:34",
-        "original price": "3.515€/mês",
-        "date of price update": "2024-03-20 18:59"
+        "original price": "3.605€/mês",
+        "date of price update": "2024-03-23 13:06"
     },
     {
         "região": "campo pequeno",
@@ -2111,7 +2124,7 @@
         "link": "https://www.idealista.pt/imovel/32756776/",
         "price": "3.500€/mês",
         "details": "T3 | 195 m² área bruta",
-        "description": "T3 | 2 LUGARES DE GARAGEM | AVENIDAS NOVAS Numa das principais artérias da cidade e próximo de espaços verdes de referência, como o Parque Eduardo VII e os jardins da Gulbenkian como também o Museu do Campo Pequeno, com uma localização única!  \nApartamento com duas frentes com varandas e terraço, 3 quartos sendo que um",
+        "description": "T3 | AVENIDAS NOVAS | 2 LUGARES DE GARAGEM Numa das principais artérias da cidade e próximo de espaços verdes de referência, como o Parque Eduardo VII e os jardins da Gulbenkian como também o Museu do Campo Pequeno, com uma localização única!   \nApartamento com duas frentes com varandas e terraço, 3 quartos sendo que u",
         "advertiser": "RE/MAX Expo",
         "status": "available",
         "added_on": "2024-03-17 23:34"
@@ -2261,7 +2274,7 @@
         "title": "Apartamento T1 na rua Filipe da Mata, 100, Entrecampos, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/32652697/",
         "price": "1.500€/mês",
-        "details": "T1 | 62 m² área bruta | 1º andar com elevador | 14 mar",
+        "details": "T1 | 62 m² área bruta | 1º andar com elevador",
         "description": "Apartamento T1 nas Avenidas Novas, para arrendamento inserido num edifício de 4 andares.\nO imóvel está disposto da seguinte forma:\n•Sala ampla com kitchenette e varanda;\n•Cozinha equipada com: esquentador, exaustor, fogão com forno, máquina de lavar roupa, micro-ondas, frigorífico, e bancada de granito preta;\n•Quart",
         "status": "available",
         "added_on": "2024-03-17 23:35"
@@ -2295,8 +2308,9 @@
         "details": "T1 | 60 m² área bruta | 11º andar com elevador",
         "description": "Apartamento T1+1 com 60 m² de Área Bruta Privativa, orientado a Nascente.\nO apartamento está inserido num décimo primeiro andar num prédio de 1962 com 13 pisos para habitação servidos por três elevadores.\nSituado em plena mesmo em frente ao Metro da Av. de Roma, voltado para a Avenida encontra tudo o que precisa, em te",
         "advertiser": "Equipa JPVA",
-        "status": "available",
-        "added_on": "2024-03-17 23:35"
+        "status": "rented",
+        "added_on": "2024-03-17 23:35",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "entrecampos",
@@ -2478,8 +2492,9 @@
         "price": "1.350€/mês",
         "details": "T1 | 66 m² área bruta | 2º andar sem elevador",
         "description": "Apartamento com excelente localização, a menos de 5 minutos a pé do Hospital Santa Maria e do ISCTE.\nAr-condicionado na Sala e na Suite (casa de banho no quarto).\nDuas casas de banho.\nCozinha equipada com placa, frigorífico e máquina de lavar roupa.\nSe necessário, a casa pode ser mobilada.\nNota: não se pretende o conta",
-        "status": "available",
-        "added_on": "2024-03-17 23:35"
+        "status": "rented",
+        "added_on": "2024-03-17 23:35",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "entrecampos",
@@ -2625,7 +2640,7 @@
         "link": "https://www.idealista.pt/imovel/33058203/",
         "price": "1.250€/mês",
         "details": "T1 | 60 m² área bruta | 1º andar sem elevador",
-        "description": "Apartamento T1 a estrear para arrendamento em Lisboa.\nModerno e confortável foi recentemente reabilitado com materiais cuidadosamente seleccionados, oferecendo um ambiente sofisticado e contemporâneo. Os acabamentos elegantes e a localização ideal, próxima das universidades (Medicina, ISCTE, Med. Dentária, Católica, D",
+        "description": "Apartamento T1 a estrear, para arrendamento em Lisboa.\nModerno e confortável foi recentemente reabilitado com materiais cuidadosamente seleccionados, oferecendo um ambiente sofisticado e contemporâneo. Os acabamentos elegantes e a localização ideal, próxima das universidades (Medicina, ISCTE, Med. Dentária, Católica,",
         "status": "available",
         "added_on": "2024-03-17 23:35"
     },
@@ -2812,7 +2827,7 @@
         "link": "https://www.idealista.pt/imovel/32762677/",
         "price": "2.499€/mês",
         "details": "T3 | 90 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 12/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 24/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-17 23:35"
     },
@@ -2856,8 +2871,9 @@
         "details": "T1 | 86 m² área bruta | 15 mar",
         "description": "Lindo apartamento T1 com vista sobre natureza.\nEsta luminosa e espaçosa penthouse está localizada no último andar de um prédio com elevador num dos bairros mais nobres de Lisboa.\nCom varanda com vista para o jardim da Gulbenkian, o apartamento é inundado de luz natural durante todo o dia.\nO apartamento está totalmen",
         "advertiser": "IAD Portugal",
-        "status": "available",
-        "added_on": "2024-03-17 23:36"
+        "status": "rented",
+        "added_on": "2024-03-17 23:36",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "gulbenkian praca espanha",
@@ -2867,15 +2883,16 @@
         "details": "T2 | 88 m² área bruta | 2º andar com elevador | 15 mar",
         "description": "Apartamento T2 com 88 m2,\nsituado na Rua Tenente Espanca,\njunto à Gulbenkian e Praça de Espanha,\nbastante soalheiro e com áreas generosas.\nO imóvel está em excelente estado de conservação,\nsitua-se no 2º andar (c/elevador) é arrendado mobilado\ne Kitchenette totalmente equipada.\nConstituído por:\n- 2 quartos, um deles",
         "advertiser": "Predial Liz",
-        "status": "available",
-        "added_on": "2024-03-17 23:36"
+        "status": "rented",
+        "added_on": "2024-03-17 23:36",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "gulbenkian praca espanha",
         "title": "Apartamento T3 na avenida Miguel Bombarda, Gulbenkian - Praça Espanha, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33271590/",
         "price": "3.950€/mês",
-        "details": "T3 | 185 m² área bruta | 1º andar com elevador | 15 mar",
+        "details": "T3 | 185 m² área bruta | 1º andar com elevador",
         "description": "Apartamento T3+1 sem móveis para arrendamento nas Avenidas Novas\nAs áreas dividem-se por:\n-Hall de entrada\n-Sala comum ampla com saída para varanda\n-Cozinha equipada com zona de lavandaria\n-Corredor de circulação dos quartos\n-Wc Social\n-Wc com duche de apoio ao quarto\n-Quarto com roupeiros e saída para varanda",
         "advertiser": "Porta da Frente Christie’s",
         "status": "available",
@@ -2886,7 +2903,7 @@
         "title": "Penthouse na avenida Conde de Valbom, Gulbenkian - Praça Espanha, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33259849/",
         "price": "2.600€/mês",
-        "details": "T1 | 70 m² área bruta | 7º andar com elevador | 14 mar",
+        "details": "T1 | 70 m² área bruta | 7º andar com elevador",
         "description": "Penthouse de luxo totalmente remodelado, no coração de Lisboa.Este apartamento Penthouse T1+1 de luxo, o design foi meticulosamente planejado para maximizar a luz natural e a sensação de espaço, proporcionando aos moradores numa experiência única no topo das árvores nesta rua encantadora.\nEsta Penthouse apresenta uma cozinha totalmente equipada com eletrodomésticos de luxo, além",
         "status": "available",
         "added_on": "2024-03-17 23:36"
@@ -2941,8 +2958,9 @@
         "price": "2.000€/mês",
         "details": "T2 | 79 m² área bruta | 7º andar com elevador",
         "description": "Apartamento de luxo T2 situado no 7º andar de um edifício prestigiado, localizado numa das artérias mais procuradas pelos executivos de empresas multinacionais.\nIdeal para uma pessoa ou um casal ou com um filho.\nO apartamento oferece:\nTerraço com 30m2\nSala de estar\nQuarto em suite, com casa de banho e roupeiros:\nQuar",
-        "status": "available",
-        "added_on": "2024-03-17 23:36"
+        "status": "rented",
+        "added_on": "2024-03-17 23:36",
+        "rented on": "2024-03-23 13:06"
     },
     {
         "região": "gulbenkian praca espanha",
@@ -3005,7 +3023,7 @@
         "title": "Apartamento T3 na avenida Duque de Ávila, 47, São Sebastião da Pedreira, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33270034/",
         "price": "2.450€/mês",
-        "details": "T3 | 130 m² área bruta | 2º andar sem elevador | 14 mar",
+        "details": "T3 | 130 m² área bruta | 2º andar sem elevador",
         "description": "Luminoso apartamento com áreas generosas em localização privilegiada perto do Saldanha e do Instituto Técnico de Lisboa.\nO apartamento tem 2 quartos, sala, cozinha equipada e casa de banho completa com banheira no 1º andar e no sótão tem uma suite. Tem aquecimento e Ar condicionado na maioria das divisões.\nO apartament",
         "status": "available",
         "added_on": "2024-03-17 23:37"
@@ -3055,11 +3073,11 @@
     },
     {
         "região": "campo pequeno",
-        "title": "Apartamento T2 em Campo Pequeno, Avenidas Novas",
+        "title": "Apartamento T3 em Campo Pequeno, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/31595364/",
         "price": "3.700€/mês",
-        "details": "T2 | 142 m² área bruta | 6º andar com elevador | 7 horas",
-        "description": "Apartamento equipado, com estacionamento para duas viaturas, nas Avenidas NovasApartamento T2+1 remodelado nas Avenidas Novas, uma zona residencial em um dos bairros mais centrais da cidade de Lisboa, próximo da Avenida da República e Campo Pequeno.\nEste imóvel com 142 m2 de área bruta privativa, inserido num prédio com dois elevadores, e com três frações por piso é composto por um hall de entr",
+        "details": "T3 | 142 m² área bruta | 6º andar com elevador | 20 mar",
+        "description": "Apartamento equipado, com estacionamento para duas viaturas, nas Avenidas NovasApartamento T3 remodelado nas Avenidas Novas, uma zona residencial em um dos bairros mais centrais da cidade de Lisboa, próximo da Avenida da República e Campo Pequeno.\nEste imóvel com 142 m2 de área bruta privativa, inserido num prédio com dois elevadores, e com três frações por piso é composto por um hall de entrad",
         "advertiser": "Quintela + Penalva | Knight Frank",
         "status": "available",
         "added_on": "2024-03-20 18:59"
@@ -3069,7 +3087,7 @@
         "title": "Apartamento T4 na avenida 5 de Outubro, Campo Pequeno, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33280670/",
         "price": "3.300€/mês",
-        "details": "T4 | 147 m² área bruta | 2º andar com elevador | 13 horas",
+        "details": "T4 | 147 m² área bruta | 2º andar com elevador | 20 mar",
         "description": "Este apartamento Transformado em T2 na Avenida 5 de Outubro oferece uma excelente oportunidade para quem procura uma residência renovada numa localização privilegiada em Lisboa.\n1. Descrição do Apartamento:\n• Apartamento com 2 Quartos totalmente renovado.\n• Excelentes áreas internas.\n• Cozinha equipada.\n2. Localização",
         "status": "available",
         "added_on": "2024-03-20 18:59"
@@ -3079,7 +3097,7 @@
         "title": "Apartamento T0 na rua Mário Cesariny, 8, Entrecampos, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33280725/",
         "price": "1.300€/mês",
-        "details": "T0 | 69 m² área bruta | 7º andar com elevador | 13 horas",
+        "details": "T0 | 69 m² área bruta | 7º andar com elevador | 20 mar",
         "description": "Desfrute de um estilo de vida contemporâneo neste apartamento T0 mobilado e pronto a habitar, situado no empreendimento EPUL nas Avenidas Novas.\nLayout feito por arquiteto com walkin closet, privacidade da área de dormir.  Espaço muito bem aproveitado com muita área de arrumação.\nLocalização Privilegiada:\nRua",
         "advertiser": "KW Ábaco",
         "status": "available",
@@ -3090,7 +3108,7 @@
         "title": "Apartamento T0 na rua da Beneficência, s/n, Entrecampos, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33280095/",
         "price": "1.100€/mês",
-        "details": "T0 | 39 m² área bruta | 16 horas",
+        "details": "T0 | 39 m² área bruta | 20 mar",
         "description": "Apartamento T0 pronto a habitar, totalmente mobilado e equipado.\nImóvel com terraço de uso e acesso exclusivo.\nCasa de banho renovado já com base de duche.\nCondições: 2 rendas e 2 cauções\n \nMarque a sua visita!\n .",
         "advertiser": "RE/MAX Time",
         "status": "available",
@@ -3112,8 +3130,8 @@
         "title": "Apartamento T1 na avenida João Crisóstomo, 61, Gulbenkian - Praça Espanha, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33281232/",
         "price": "1.300€/mês",
-        "details": "T1 | 61 m² área bruta | 3º andar com elevador | 9 horas",
-        "description": "T1 renovado, virado para sul e cheio de luz, situado nas Avenidas Novas junto ao Jardim da Gulbenkian, estação de Metro S. Sebastião e muito perto do El Corte Ingles, Lidl e Auchan.\nNa Avenida João Crisóstomo, zona muito central, a 3 min da Fundação Gulbenkian, da estação de S. Sebastião (linha amarela) e supermercado",
+        "details": "T1 | 61 m² área bruta | 3º andar com elevador | 20 mar",
+        "description": "T1 renovado, com ou sem mobilia, virado para sul e cheio de luz, situado nas Avenidas Novas junto ao Jardim da Gulbenkian, estação de Metro S. Sebastião e muito perto do El Corte Ingles, Lidl e Auchan.\nNa Avenida João Crisóstomo, zona muito central, a 3 min da Fundação Gulbenkian, da estação de S. Sebastião (linha ama",
         "status": "available",
         "added_on": "2024-03-20 19:01"
     },
@@ -3122,7 +3140,7 @@
         "title": "Apartamento T2 na avenida Santos Dumont, s/n, Gulbenkian - Praça Espanha, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33280094/",
         "price": "1.850€/mês",
-        "details": "T2 | 95 m² área bruta | 16 horas",
+        "details": "T2 | 95 m² área bruta | 20 mar",
         "description": "Apartamento T1+1 para arrendamento numa localização previlegiada.\nExcelente Apartamento a estrear com terraço de 8m2. Res-do-chão alto com terraço de uso excluisivo nas trazeiras. Acabado de remodelar com materiais de qualidade superior, cozinha equipada (excepto frigorifico) e ar condicionado em todas as divisões.\nA l",
         "advertiser": "RE/MAX Time",
         "status": "available",
@@ -3155,9 +3173,94 @@
         "title": "Apartamento T2 em São Sebastião da Pedreira, Avenidas Novas",
         "link": "https://www.idealista.pt/imovel/33279562/",
         "price": "2.450€/mês",
-        "details": "T2 | 95 m² área bruta | 8º andar com elevador | 16 horas",
+        "details": "T2 | 95 m² área bruta | 8º andar com elevador | 20 mar",
         "description": "Apartamento T2, totalmente renovado por arquiteta conceituada, que concilia a maximização do espaço à conquista de um ambiente tranquilo e informal, primando o conforto.\nSito no centro de Lisboa, freguesia das Avenidas Novas, caracteriza-se pelo contraste entre o ambiente urbano de uma grande capital europeia, com as",
         "status": "available",
         "added_on": "2024-03-20 19:02"
+    },
+    {
+        "região": "bairro azul parque eduardo vii",
+        "title": "Apartamento T3 em Bairro Azul - Parque Eduardo VII, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/33287876/",
+        "price": "2.900€/mês",
+        "details": "T3 | 144 m² área bruta | 22 mar",
+        "description": "Disponível no final de Junho.\nApartamento T3, completamente renovado, que concilia a maximização do espaço com a concretização de um ambiente tranquilo e localizado no centro de Lisboa, em São Sebastião, caracteriza-se pelo contraste entre o ambiente urbano de uma grande capital europeia, com as suas principais vias,",
+        "advertiser": "Engel & Völkers Lisboa",
+        "status": "available",
+        "added_on": "2024-03-23 13:05"
+    },
+    {
+        "região": "campo pequeno",
+        "title": "Apartamento T3 em Campo Pequeno, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/33287080/",
+        "price": "4.000€/mês",
+        "details": "T3 | 151 m² área bruta | 5º andar com elevador | 22 mar",
+        "description": "Apartamento equipado, com estacionamento para duas viaturas e arrecadação, nas Avenidas NovasApartamento T3 remodelado nas Avenidas Novas, uma zona residencial em um dos bairros mais centrais da cidade de Lisboa, próximo da Avenida da República e Campo Pequeno.\nEste imóvel com 152 m2 de área bruta privativa, inserido num prédio com dois elevadores, e com três frações por piso é composto por um hall de entrada",
+        "advertiser": "Quintela + Penalva | Knight Frank",
+        "status": "available",
+        "added_on": "2024-03-23 13:06"
+    },
+    {
+        "região": "entrecampos",
+        "title": "Apartamento T2 na rua Sousa Lopes, 1759, Entrecampos, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/33286621/",
+        "price": "1.290€/mês",
+        "details": "T2 | 80 m² área bruta | 4º andar com elevador | 22 mar",
+        "description": "Apartamento, t2, totalmente mobilado e equipado.\nComposto por sala com acesso a uma varanda fechada onde poderá compor mais uma divisão, dois quartos com roupeiro, cozinha totalmente equipada e W. C.\nExcelente localização a 850m da Cidade Universitária e a 1Km do metro de Entre Campos.\nDisponível para contratos mínimos",
+        "advertiser": "MYCASAS.PT",
+        "status": "available",
+        "added_on": "2024-03-23 13:07"
+    },
+    {
+        "região": "entrecampos",
+        "title": "Apartamento T2 na rua Julieta Ferrão, s/n, Entrecampos, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/33139063/",
+        "price": "1.250€/mês",
+        "details": "T2 | 70 m² área bruta",
+        "description": "Neste Emblemático Edifício Gemini, encontramos este apartamento com tipologia T2 para arrendar Dois quartos- Sala- Wc- Despensa- Cozinha Equipada Máquina da Loiça-Hisance- Máquina roupa -Samsung- Micro-ondas -Candy- Fogão -Balay- Frigorifico – BeekenPrédio com três elevadoresReceção com porteiroEspaços verdes, zona com",
+        "advertiser": "RE/MAX Golden Line II",
+        "status": "available",
+        "added_on": "2024-03-23 13:07"
+    },
+    {
+        "região": "sao sebastiao da pedreira",
+        "title": "Apartamento T1 na avenida da República, s/n, São Sebastião da Pedreira, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/33288554/",
+        "price": "3.500€/mês",
+        "details": "T1 | 105 m² área bruta | Ontem",
+        "description": "T1 + Garagem | 105 m2 | Avenida da República 37\n \nApartamento T1 com 105 m2 de ABP situado na Avenida da República 37, com entrada pela Avenida Miguel Bombarda 14.\nO apartamento é orientado a nascente (Sul), com vista frontal para a Av. da República e está inserido num prédio de construção dos anos 30-40 totalmente rec",
+        "advertiser": "RE/MAX Siimgroup",
+        "status": "available",
+        "added_on": "2024-03-23 13:09"
+    },
+    {
+        "região": "sao sebastiao da pedreira",
+        "title": "Apartamento T3 na rua Pedro Nunes, 24, São Sebastião da Pedreira, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/33287899/",
+        "price": "2.900€/mês",
+        "details": "T3 | 119 m² área bruta | 3º andar com elevador | 22 mar",
+        "description": "T3 completamente equipado (mobília e cozinha), com 2 suites e 3 casas de banho. Apartamento com ótimos acessos e serviços (supermercados, restaurantes, cafés, jardins, ginásios, etc... ). Tem um terceiro quarto que pode ser utilizado como tal ou também como escritório.\nCozinha também equipada com uma mesa em ilha par",
+        "status": "available",
+        "added_on": "2024-03-23 13:09"
+    },
+    {
+        "região": "sao sebastiao da pedreira",
+        "title": "Apartamento T3 na rua António Enes, 18, São Sebastião da Pedreira, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/30733080/",
+        "price": "2.300€/mês",
+        "details": "T3 | 140 m² área bruta | 2º andar sem elevador",
+        "description": "Apartamento de charme nas avenidas novas, com muita luz e ótima vizinhança.\n4 meses de pré-aviso.\nDisponível a partir de junho 2024.",
+        "status": "available",
+        "added_on": "2024-03-23 13:09"
+    },
+    {
+        "região": "entrecampos",
+        "title": "Apartamento T2 em Entrecampos, Avenidas Novas",
+        "link": "https://www.idealista.pt/imovel/33289462/",
+        "price": "2.000€/mês",
+        "details": "T2 | 210 m² área bruta | 3º andar com elevador | 14 horas",
+        "description": "Apartamento T2, premium de luxo, em zona privilegiada no centro de Lisboa.\nSito no centro de Lisboa, caracteriza-se pelo contraste entre o ambiente urbano de uma grande capital europeia, com as suas principais vias, e o ambiente calmo e tranquilo dos bairros.\nGraças à sua localização privilegiada usufrui de uma vasta",
+        "status": "available",
+        "added_on": "2024-03-24 03:52"
     }
 ]

@@ -22,7 +22,7 @@
         "added_on": "2024-03-06 20:53"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 na rua Rodrigo da Fonseca, 58, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33250508/",
         "price": "1.490€/mês",
@@ -45,16 +45,15 @@
         "added_on": "2024-03-06 20:53"
     },
     {
-        "região": "santo antonio",
+        "região": "principe real",
         "title": "Apartamento T1 em Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33249503/",
         "price": "1.400€/mês",
-        "details": "T1 | 65 m² área bruta | 1º andar com elevador | 06 mar",
+        "details": "T1 | 65 m² área bruta | 1º andar com elevador | 22 mar",
         "description": "Apartamento T1 num primeiro andar com elevador.\nLocalizado em frente ao British Council a 10 min do metro do Rato.\nPrédio de habitação e apartamento em muito bom estado de conservação, tem ar condicionado na sala, a cozinha totalmente equipada e quarto com roupeiro.\nApartamento disponivel no inicio de Abril de 2024.\nCo",
         "advertiser": "RE/MAX Collection Valor",
-        "status": "rented",
-        "added_on": "2024-03-06 20:53",
-        "rented on": "2024-03-16 13:08"
+        "status": "available",
+        "added_on": "2024-03-06 20:53"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -78,7 +77,7 @@
         "added_on": "2024-03-06 20:53"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T2 na rua Rodrigo Sampaio, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33246017/",
         "price": "4.000€/mês",
@@ -112,7 +111,7 @@
         "added_on": "2024-03-06 20:53"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Penthouse na rua de Santa Marta, 72, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/32073096/",
         "price": "1.600€/mês",
@@ -135,7 +134,7 @@
         "date of price update": "2024-03-11 21:06"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 na rua Rodrigues Sampaio, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/30827485/",
         "price": "1.340€/mês",
@@ -156,7 +155,7 @@
         "added_on": "2024-03-06 20:53"
     },
     {
-        "região": "santo antonio",
+        "região": "principe real",
         "title": "Apartamento T1 em Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33184588/",
         "price": "2.000€/mês",
@@ -263,7 +262,7 @@
         "link": "https://www.idealista.pt/imovel/33233530/",
         "price": "7.000€/mês",
         "details": "T5 | 342 m² área bruta | 4º andar com elevador",
-        "description": "Trata-se de um magnífico apartamento T5 com 342m2 de área bruta, remodelado a estrear, com vista rio e varanda, situado em prédio de grande porte nas Amoreiras.\nApartamento com muita luz natural e vista desafogada.\nO apartamento é composto por: hall de grandes dimensões, sala maravilhosa com 70m2 com dois ambientes, m",
+        "description": "Trata-se de um magnífico apartamento T5 com 342m2 de área bruta, remodelado a estrear, com vista rio e varanda, situado em prédio de grande porte nas Amoreiras.\nApartamento com muita luz natural e vista desafogada.\nO apartamento é composto por: hall de grandes dimensões, sala maravilhosa com 70m2 com dois ambientes,",
         "advertiser": "Worldland Real Estate",
         "status": "available",
         "added_on": "2024-03-06 20:53"
@@ -391,7 +390,7 @@
         "date of price update": "2024-03-19 05:22"
     },
     {
-        "região": "santo antonio",
+        "região": "rato amoreiras",
         "title": "Apartamento T3 em Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33230405/",
         "price": "3.100€/mês",
@@ -565,7 +564,7 @@
         "date of price update": "2024-03-16 13:04"
     },
     {
-        "região": "santo antonio",
+        "região": "rato amoreiras",
         "title": "Apartamento T1 na rua Artilharia 1, 33, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/31748559/",
         "price": "1.650€/mês",
@@ -609,7 +608,7 @@
         "added_on": "2024-03-06 21:54"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 no largo das Palmeiras, 3, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33211365/",
         "price": "2.100€/mês",
@@ -626,8 +625,9 @@
         "price": "2.200€/mês",
         "details": "T3 | 130 m² área bruta | Rés do chão com elevador",
         "description": "Apartamento bem situado, 3 quartos, terraço de 15 m2, prédio calmo.\nDisponível a partir de dia 1 de Setembro 2024.\nSem mediação.",
-        "status": "available",
-        "added_on": "2024-03-06 21:54"
+        "status": "rented",
+        "added_on": "2024-03-06 21:54",
+        "rented on": "2024-03-24 16:30"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -635,7 +635,7 @@
         "link": "https://www.idealista.pt/imovel/33205613/",
         "price": "2.000€/mês",
         "details": "T1 | 77 m² área bruta | 6º andar com elevador",
-        "description": "T1 no Tivoli Fórum, Avenida Liberdade para Aluguer de longa duração (contrato 2 anos mínimo). Totalmente mobiliado. Disponível a partir do dia 1 de abril. Visitas a partir do 14 de Março.",
+        "description": "T1 no Tivoli Fórum, Avenida Liberdade para Aluguer de longa duração (contrato 2 anos mínimo). Totalmente mobiliado. Disponível a partir do dia 1 de abril. Visitas a partir do 14 de Março.\nAr condicionado AAA+ com bomba de calor e WiFi e termo acumulador B com Wifi a estrenar.",
         "status": "available",
         "added_on": "2024-03-06 21:54"
     },
@@ -664,12 +664,14 @@
         "região": "av da liberdade marques de pombal",
         "title": "Apartamento T4 na rua Rodrigo da Fonseca, 70, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33204257/",
-        "price": "3.850€/mês",
+        "price": "3.750€/mês",
         "details": "T4 | 190 m² área bruta | com elevador",
         "description": "T4 EM ZONA PREMIUM DE LISBOAT4 em plena Rodrigo da Fonseca, que conta com 190m2 de área bruta privativa. Para além da sua excelente localização, este apartamento, com áreas muito generosas e muito bem dividido,  está inserido num prédio com elevador e em óptimo estado de conservação. Este apartamento dispõe ainda de 2 Terraços com vista sobre o T",
         "advertiser": "kw area",
         "status": "available",
-        "added_on": "2024-03-06 21:54"
+        "added_on": "2024-03-06 21:54",
+        "original price": "3.850€/mês",
+        "date of price update": "2024-03-23 13:32"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -774,7 +776,7 @@
         "link": "https://www.idealista.pt/imovel/33191633/",
         "price": "1.000€/mês",
         "details": "T1 | 24 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 09/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 29/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
         "status": "available",
         "added_on": "2024-03-06 23:04"
     },
@@ -810,7 +812,7 @@
         "added_on": "2024-03-06 23:04"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Duplex na rua Prior Coutinho, 59, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/32282309/",
         "price": "1.600€/mês",
@@ -898,7 +900,7 @@
         "added_on": "2024-03-06 23:04"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Duplex na rua Joaquim António de Aguiar, 33, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/32304693/",
         "price": "3.500€/mês",
@@ -974,7 +976,7 @@
         "added_on": "2024-03-06 23:04"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T1 em Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33177173/",
         "price": "1.480€/mês",
@@ -985,7 +987,7 @@
         "rented on": "2024-03-21 01:43"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T0 em Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/32694996/",
         "price": "1.400€/mês",
@@ -1038,7 +1040,7 @@
         "added_on": "2024-03-07 00:30"
     },
     {
-        "região": "santo antonio",
+        "região": "praca da alegria",
         "title": "Apartamento T1 na rua de Santo António da Glória, Praça da Alegria, Santo António",
         "link": "https://www.idealista.pt/imovel/33172708/",
         "price": "1.800€/mês",
@@ -1059,7 +1061,7 @@
         "added_on": "2024-03-07 00:30"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 na rua Rodrigo da Fonseca, 58, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33171728/",
         "price": "1.500€/mês",
@@ -1072,11 +1074,11 @@
     },
     {
         "região": "av da liberdade marques de pombal",
-        "title": "Apartamento T2 em Av. da Liberdade - Marquês de Pombal, Santo António",
+        "title": "Apartamento T2 na rua Ferreira Lapa, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33170625/",
         "price": "3.600€/mês",
-        "details": "T2 | 129 m² área bruta | com elevador",
-        "description": "TO RENT * T2 | LISBOA | MARQUÊS POMBAL\n+INFO -\n129m2\nPrédio com elevador\nT2\nCozinha equipada\nSala de estar\n2 Suites\n1 WC social\nAr condicionado\n1 lugar de garagem\nPiscina Interior\nGinásio\nSauna\nBanho Turco\nREF: A154236\nHL.",
+        "details": "T2 | 129 m² área bruta | 4º andar com elevador",
+        "description": "TO RENT * T2 | LISBOA | MARQUÊS POMBAL\n+INFO -\n129m2\nPrédio com elevador\nT2\nCozinha equipada\nSala de estar\n2 Suites\n1 WC social\nAr condicionado\n1 lugar de garagem\nPiscina Interior\nGinásio\nSauna\nBanho Turco\nREF: A154236\nHL\nApartamento T2 de 129m2 a estrear, com 2 Suites, cozinha equipada, Sala ampla e Wc social. Equi",
         "advertiser": "HomeLovers",
         "status": "available",
         "added_on": "2024-03-07 00:30"
@@ -1104,7 +1106,7 @@
         "added_on": "2024-03-07 00:30"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T2 na rua Luciano Cordeiro, 80, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/30358624/",
         "price": "2.000€/mês",
@@ -1115,7 +1117,7 @@
         "rented on": "2024-03-11 01:48"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T3 em Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33166946/",
         "price": "3.000€/mês",
@@ -1291,7 +1293,7 @@
         "added_on": "2024-03-07 00:30"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T2 na rua de Santa Marta, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33147266/",
         "price": "2.900€/mês",
@@ -1303,7 +1305,7 @@
         "rented on": "2024-03-08 15:43:41"
     },
     {
-        "região": "santo antonio",
+        "região": "praca da alegria",
         "title": "Apartamento T1 em Praça da Alegria, Santo António",
         "link": "https://www.idealista.pt/imovel/33148104/",
         "price": "2.050€/mês",
@@ -1351,8 +1353,9 @@
         "price": "1.400€/mês",
         "details": "T1 | 40 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 20/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "available",
-        "added_on": "2024-03-07 01:58"
+        "status": "rented",
+        "added_on": "2024-03-07 01:58",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "campo de santana santa marta",
@@ -1365,7 +1368,7 @@
         "added_on": "2024-03-07 01:58"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T1 na rua São José, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33145483/",
         "price": "1.800€/mês",
@@ -1377,7 +1380,7 @@
         "rented on": "2024-03-16 13:08"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T0 na rua São José, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33145417/",
         "price": "1.600€/mês",
@@ -1423,11 +1426,13 @@
         "região": "campo de santana santa marta",
         "title": "Apartamento T0 na rua Esperança do Cardal, 24, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33140800/",
-        "price": "1.500€/mês",
+        "price": "1.800€/mês",
         "details": "T0 | 55 m² área bruta | 4º andar sem elevador",
-        "description": "Loft, situado no último andar da casa do Torel\n- Disponibilidade: 03/2024\n- Descrição: O apartamento tem uma cama de casal (140x200) e colchões especialmente concebidos para hotéis de luxo. Cozinha totalmente equipada: forno/micro-ondas, máquina de lavar louça, exaustor, frigorífico, máquina de lavar roupa, ar condi",
+        "description": "Loft, situado no último andar da casa do Torel\n- Disponibilidade: 06/2024\n- Descrição: O apartamento tem uma cama de casal (140x200) e colchões especialmente concebidos para hotéis de luxo. Cozinha totalmente equipada: forno/micro-ondas, máquina de lavar louça, exaustor, frigorífico, máquina de lavar roupa, ar condi",
         "status": "available",
-        "added_on": "2024-03-07 01:58"
+        "added_on": "2024-03-07 01:58",
+        "original price": "1.500€/mês",
+        "date of price update": "2024-03-23 13:35"
     },
     {
         "região": "campo de santana santa marta",
@@ -1441,7 +1446,7 @@
         "added_on": "2024-03-07 01:58"
     },
     {
-        "região": "santo antonio",
+        "região": "praca da alegria",
         "title": "Apartamento T1 em Praça da Alegria, Santo António",
         "link": "https://www.idealista.pt/imovel/33141235/",
         "price": "2.150€/mês",
@@ -1475,7 +1480,7 @@
         "added_on": "2024-03-07 01:58"
     },
     {
-        "região": "santo antonio",
+        "região": "rato amoreiras",
         "title": "Apartamento T1 na rua Seara Nova, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33136717/",
         "price": "1.600€/mês",
@@ -1578,8 +1583,9 @@
         "details": "T3 | 166 m² área bruta | com elevador",
         "description": "Apartamento na R. Rodrigo da Fonseca foi totalmente remodelado no início de 2021, está impecável.\nDescrição:\n- Grande sala\n- Sala de jantar\n- Três quartos, dois deles com pequena varanda\n- 2 casa-de-banho completas\n- Cozinha equipada com electrodomésticos Miele\n- Zona de lavandaria\n- Despensa\n- Arrumos\n1º an",
         "advertiser": "MSA Real Estate",
-        "status": "available",
-        "added_on": "2024-03-07 01:58"
+        "status": "rented",
+        "added_on": "2024-03-07 01:58",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -1668,7 +1674,7 @@
         "added_on": "2024-03-07 03:25"
     },
     {
-        "região": "santo antonio",
+        "região": "principe real",
         "title": "Apartamento T2 na rua Marcos Portugal, 22, Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33109787/",
         "price": "2.500€/mês",
@@ -1679,7 +1685,7 @@
         "rented on": "2024-03-21 01:43"
     },
     {
-        "região": "santo antonio",
+        "região": "principe real",
         "title": "Apartamento T1 na rua Monte Olivete, 5, Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33109596/",
         "price": "2.000€/mês",
@@ -1696,7 +1702,7 @@
         "link": "https://www.idealista.pt/imovel/32669005/",
         "price": "1.875€/mês",
         "details": "T2 | 80 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 27/05/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 17/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-07 03:25"
     },
@@ -1799,7 +1805,7 @@
         "added_on": "2024-03-07 03:25"
     },
     {
-        "região": "santo antonio",
+        "região": "praca da alegria",
         "title": "Apartamento T2 na rua das Taipas, Praça da Alegria, Santo António",
         "link": "https://www.idealista.pt/imovel/33091419/",
         "price": "1.850€/mês",
@@ -1816,7 +1822,7 @@
         "link": "https://www.idealista.pt/imovel/33086210/",
         "price": "4.000€/mês",
         "details": "T2 | 50 m² área bruta",
-        "description": "[PT] Disponível em: 26/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 26/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "description": "[PT] Disponível em: 28/04/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 28/04/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
         "status": "available",
         "added_on": "2024-03-07 03:25"
     },
@@ -1846,7 +1852,7 @@
         "link": "https://www.idealista.pt/imovel/33086201/",
         "price": "3.800€/mês",
         "details": "T2 | 143 m² área bruta | 3º andar",
-        "description": "[PT] Disponível em: 19/08/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 19/08/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "description": "[PT] Disponível em: 21/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 21/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
         "status": "available",
         "added_on": "2024-03-07 03:25"
     },
@@ -1956,7 +1962,7 @@
         "link": "https://www.idealista.pt/imovel/33086065/",
         "price": "3.700€/mês",
         "details": "T1 | 60 m² área bruta | 1º andar",
-        "description": "[PT] Disponível em: 02/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 02/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "description": "[PT] Disponível em: 13/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 13/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
         "status": "available",
         "added_on": "2024-03-07 03:25"
     },
@@ -1997,7 +2003,7 @@
         "date of price update": "2024-03-21 01:46"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 na rua Rodrigo da Fonseca, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33075232/",
         "price": "1.500€/mês",
@@ -2013,7 +2019,7 @@
         "link": "https://www.idealista.pt/imovel/33072321/",
         "price": "2.820€/mês",
         "details": "T2 | 92 m² área bruta | 1º andar com elevador",
-        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 21-03-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,820* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
+        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 02-04-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,820* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
         "status": "available",
         "added_on": "2024-03-07 04:54",
@@ -2031,7 +2037,7 @@
         "added_on": "2024-03-07 04:54"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 em Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33067685/",
         "price": "1.400€/mês",
@@ -2054,7 +2060,7 @@
         "added_on": "2024-03-07 04:54"
     },
     {
-        "região": "santo antonio",
+        "região": "principe real",
         "title": "Apartamento T2 na travessa do Noronha, 26, Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33065785/",
         "price": "3.300€/mês",
@@ -2096,10 +2102,11 @@
         "details": "T1 | 70 m² área bruta | 4º andar com elevador",
         "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 09-04-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €2,230* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
         "advertiser": "The Blueground",
-        "status": "available",
+        "status": "rented",
         "added_on": "2024-03-07 04:54",
         "original price": "2.400€/mês",
-        "date of price update": "2024-03-07 13:25"
+        "date of price update": "2024-03-07 13:25",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "rato amoreiras",
@@ -2115,7 +2122,7 @@
         "date of price update": "2024-03-09 23:13"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T0 em Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/32694993/",
         "price": "1.400€/mês",
@@ -2195,7 +2202,7 @@
         "added_on": "2024-03-07 04:54"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 em Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/28294136/",
         "price": "1.500€/mês",
@@ -2206,7 +2213,7 @@
         "rented on": "2024-03-16 13:08"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T0 em Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33045490/",
         "price": "950€/mês",
@@ -2253,14 +2260,14 @@
         "região": "rato amoreiras",
         "title": "Apartamento T2 na rua de São Bento, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33035001/",
-        "price": "3.555€/mês",
+        "price": "3.505€/mês",
         "details": "T2 | 103 m² área bruta | 3º andar com elevador",
         "description": "Apartamento novo T2 em Santos*COMPLETAMENTE MOBILADO*\n*ARRENDAMENTO MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Padre Luís Aparício, com 2 quartos e 2 casas de banho. A cozinha está equipada com electrodomésticos e utensílios de cozinha topo de gama. As camas estão equipadas com roupa de cama macia, ideal para uma boa noite de descans",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-07 04:54",
-        "original price": "3.495€/mês",
-        "date of price update": "2024-03-21 01:46"
+        "original price": "3.570€/mês",
+        "date of price update": "2024-03-24 18:56"
     },
     {
         "região": "campo de santana santa marta",
@@ -2338,16 +2345,15 @@
         "added_on": "2024-03-07 13:50"
     },
     {
-        "região": "santo antonio",
-        "title": "Apartamento T1 na rua da Sociedade Farmaceutica, s/n, Av. da Liberdade - Marquês de Pombal, Santo António",
+        "região": "av da liberdade marques de pombal",
+        "title": "Apartamento T1 na rua Actor Tasso, s/n, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33252285/",
         "price": "1.325€/mês",
         "details": "T1 | 50 m² área bruta | Rés do chão sem elevador",
         "description": "Totalmente remodelado, mobilado e equipado com TV, máquina de lavar roupa, placa elétrica, micro-ondas, exaustor, frigorífico, com termoacumulador para aquecimento de águas e máquina de lavar loiça. É um R/C alto na Rua da Sociedade Farmacêutica, num prédio típico, sem elevador. Pronto a habitar, chave na mão, a decora",
         "advertiser": "RE/MAX Collection Vantagem Villa",
-        "status": "rented",
-        "added_on": "2024-03-07 13:50",
-        "rented on": "2024-03-21 01:43"
+        "status": "available",
+        "added_on": "2024-03-07 13:50"
     },
     {
         "região": "principe real",
@@ -2372,7 +2378,7 @@
         "added_on": "2024-03-07 13:50"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T1 em Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33251235/",
         "price": "1.100€/mês",
@@ -2384,7 +2390,7 @@
         "rented on": "2024-03-08 15:43:46"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T5 em Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33253932/",
         "price": "3.900€/mês",
@@ -2396,7 +2402,7 @@
         "rented on": "2024-03-16 13:08"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1, R. Castilho, 90, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33254590/",
         "price": "1.560€/mês",
@@ -2486,11 +2492,13 @@
         "região": "campo de santana santa marta",
         "title": "Apartamento T0 na rua Esperança do Cardal, 24, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/32969151/",
-        "price": "1.250€/mês",
-        "details": "T0 | 25 m² área bruta | 2º andar sem elevador",
-        "description": "A partir de abril de 2024, a Casa do Torel oferece um apartemento para alugar com todo o conforto. O apartamento tem uma cama de casal (140x200) e um banco que pode ser convertido numa cama (120x200).\nEquipamento:\nColchões especialmente concebidos para hotéis de luxo.\nCozinha totalmente equipada: Forno combinado/mi",
+        "price": "1.500€/mês",
+        "details": "T0 | 30 m² área bruta | 2º andar sem elevador",
+        "description": "A partir de julho de 2024, a Casa do Torel oferece um apartemento para alugar com todo o conforto. O apartamento tem uma cama de casal (140x200) e um banco que pode ser convertido numa cama (120x200).\nEquipamento:\nColchões especialmente concebidos para hotéis de luxo.\nCozinha totalmente equipada: Forno combinado/mi",
         "status": "available",
-        "added_on": "2024-03-08 10:02"
+        "added_on": "2024-03-08 10:02",
+        "original price": "1.250€/mês",
+        "date of price update": "2024-03-23 13:35"
     },
     {
         "região": "principe real",
@@ -2525,7 +2533,7 @@
         "added_on": "2024-03-08 10:02"
     },
     {
-        "região": "santo antonio",
+        "região": "campo de santana santa marta",
         "title": "Apartamento T2 na rua São José, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/32033893/",
         "price": "2.090€/mês",
@@ -2543,8 +2551,9 @@
         "details": "T1 | 76 m² área bruta | 1º andar",
         "description": "Apartamento T1 com garagem junto à Avenida da LiberdadeApartamento T1 situado no Liberdade Premium Apartments, para arrendamento, totalmente mobilado.\nO arrendamento de 2800 euros mensais inclui a limpeza do apartamento uma vez por semana e 1 lugar de estacionamento em garagem.\nO apartamento de 76 m² tem o quarto em suite, com closet, varanda com 8 m² na sala de estar, c",
         "advertiser": "Infante & Riu - Portugal Real Estate",
-        "status": "available",
-        "added_on": "2024-03-08 10:02"
+        "status": "rented",
+        "added_on": "2024-03-08 10:02",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "campo de santana santa marta",
@@ -2638,7 +2647,7 @@
         "added_on": "2024-03-08 10:02"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 na rua Rodrigues Sampaio, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/31281430/",
         "price": "1.950€/mês",
@@ -2704,7 +2713,7 @@
         "added_on": "2024-03-08 10:02"
     },
     {
-        "região": "santo antonio",
+        "região": "rato amoreiras",
         "title": "Apartamento T3 na rua Carlos Alberto da Mota Pinto, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/32755031/",
         "price": "3.100€/mês",
@@ -2952,12 +2961,14 @@
         "região": "campo de santana santa marta",
         "title": "Apartamento T2 na rua São José, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/31850933/",
-        "price": "2.535€/mês",
+        "price": "2.735€/mês",
         "details": "T2 | 54 m² área bruta | 2º andar com elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nOnde o urbano encontra o oásis, Seba é uma joia escondida no bairro de Santo António, em Lisboa. Famosa pelo seu estilo de vida descontraído e pelo seu charme arquitetónico, esta freguesia é perfeita para quem procura uma localização central, mas com uma atmos",
         "advertiser": "Ukio Lisboa",
         "status": "available",
-        "added_on": "2024-03-08 10:22"
+        "added_on": "2024-03-08 10:22",
+        "original price": "2.535€/mês",
+        "date of price update": "2024-03-23 13:35"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -3008,14 +3019,14 @@
         "região": "av da liberdade marques de pombal",
         "title": "Apartamento T2 na rua Rodrigues Sampaio, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/32050443/",
-        "price": "2.795€/mês",
+        "price": "2.985€/mês",
         "details": "T2 | 72 m² área bruta | 5º andar com elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*.\nOs hóspedes que procuram aproveitar as fantásticas paisagens de Lisboa não precisam de procurar mais. Boa senta-se no famoso bairro de Santo António. Localizado no coração de Lisboa, Santo António hipnotiza a todos com a sua arquitectura e glamour. Um passeio",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-08 10:22",
-        "original price": "2.680€/mês",
-        "date of price update": "2024-03-21 01:42"
+        "original price": "2.795€/mês",
+        "date of price update": "2024-03-23 13:33"
     },
     {
         "região": "campo de santana santa marta",
@@ -3234,8 +3245,9 @@
         "price": "4.950€/mês",
         "details": "T3 | 166 m² área bruta | Rés do chão sem elevador",
         "description": "** Available! **\nWe are extremely pleased to present a wonderfully charming 3-bedroom property (two bedrooms and an office), located in the heart of Lisbon. Based in one of the most fashionable and trendy areas of the capital, Principe Real, the area offers an array of modern and traditional restaurants as well as a",
-        "status": "available",
-        "added_on": "2024-03-08 13:42"
+        "status": "rented",
+        "added_on": "2024-03-08 13:42",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -3306,16 +3318,15 @@
         "rented on": "2024-03-16 13:08"
     },
     {
-        "região": "santo antonio",
+        "região": "av da liberdade marques de pombal",
         "title": "Apartamento T1 em Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33257409/",
         "price": "2.000€/mês",
         "details": "T1 | 70 m² área bruta",
         "description": "Condomínio residencial fechado, com 52 apartamentos (T0 a T3 duplex, com 70m2 a 165m2) decorados com acabamentos de alta-qualidade, um jardim interior comum a todos os apartamentos, piscina e amplas áreas de circulação. Todos os detalhes do edifício foram cuidadosamente pensados, oferecendo uma seleção de materiais e a",
         "advertiser": "IAD Portugal",
-        "status": "rented",
-        "added_on": "2024-03-09 21:45",
-        "rented on": "2024-03-21 01:43"
+        "status": "available",
+        "added_on": "2024-03-09 21:45"
     },
     {
         "região": "campo de santana santa marta",
@@ -3385,7 +3396,7 @@
         "added_on": "2024-03-09 22:02"
     },
     {
-        "região": "santo antonio",
+        "região": "rato amoreiras",
         "title": "Apartamento T3, Av. Engenheiro Duarte Pacheco, 3, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/32965120/",
         "price": "1.300€/mês",
@@ -3523,8 +3534,9 @@
         "price": "1.906€/mês",
         "details": "T1 | 70 m² área bruta | com elevador | 16 mar",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
-        "status": "available",
-        "added_on": "2024-03-16 13:03"
+        "status": "rented",
+        "added_on": "2024-03-16 13:03",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -3533,8 +3545,9 @@
         "price": "2.230€/mês",
         "details": "T1 | 70 m² área bruta | sem elevador | 16 mar",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
-        "status": "available",
-        "added_on": "2024-03-16 13:03"
+        "status": "rented",
+        "added_on": "2024-03-16 13:03",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "av da liberdade marques de pombal",
@@ -3543,15 +3556,16 @@
         "price": "2.230€/mês",
         "details": "T1 | 70 m² área bruta | sem elevador | 16 mar",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
-        "status": "available",
-        "added_on": "2024-03-16 13:03"
+        "status": "rented",
+        "added_on": "2024-03-16 13:03",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "rato amoreiras",
         "title": "Apartamento T2 em Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/32694894/",
         "price": "2.590€/mês",
-        "details": "T2 | 120 m² área bruta | com elevador | 16 mar",
+        "details": "T2 | 120 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 14/07/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-16 13:03"
@@ -3561,7 +3575,7 @@
         "title": "Apartamento T1 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33271791/",
         "price": "2.350€/mês",
-        "details": "T1 | 33 m² área bruta | 1º andar com elevador | 15 mar",
+        "details": "T1 | 33 m² área bruta | 1º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 1 quarto e 1 banheiro. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ideais para uma",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3572,7 +3586,7 @@
         "title": "Apartamento T2 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33271740/",
         "price": "2.500€/mês",
-        "details": "T2 | 67 m² área bruta | 1º andar com elevador | 15 mar",
+        "details": "T2 | 67 m² área bruta | 1º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 2 quartos e 2 banheiros. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ideais para um",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3583,7 +3597,7 @@
         "title": "Apartamento T1 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33271703/",
         "price": "2.100€/mês",
-        "details": "T1 | 67 m² área bruta | Rés do chão com elevador | 15 mar",
+        "details": "T1 | 67 m² área bruta | Rés do chão com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 1 quarto, 1 sofá cama e 1 banheiro. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ide",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3594,7 +3608,7 @@
         "title": "Apartamento T2 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33271646/",
         "price": "2.250€/mês",
-        "details": "T2 | 83 m² área bruta | Rés do chão com elevador | 15 mar",
+        "details": "T2 | 83 m² área bruta | Rés do chão com elevador",
         "description": "*APARTAMENTO COM PATIO INTERIOR*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 2 quartos e 2 banheiros. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ideais para um",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3605,7 +3619,7 @@
         "title": "Apartamento T1 no largo das Palmeiras, 3, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33271123/",
         "price": "2.100€/mês",
-        "details": "T1 | 60 m² área bruta | Rés do chão com elevador | 15 mar",
+        "details": "T1 | 60 m² área bruta | Rés do chão com elevador",
         "description": "Contracto mínimo de UM ANO.\nApartamento T1 Novo, totalmente Mobilado e equipado na zona do Marquês, inserido em prédio novo com lugar de garagem.\nOferecendo a possibilidade de qualidade de vida, próximo de transportes, cafés, restaurantes, supermercado e todo o tipo de comércio.\nO apartamento tem a cozinha equipada,",
         "status": "available",
         "added_on": "2024-03-16 13:03"
@@ -3615,7 +3629,7 @@
         "title": "Apartamento T2 em Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33270210/",
         "price": "3.200€/mês",
-        "details": "T2 | 108 m² área bruta | 5º andar com elevador | 14 mar",
+        "details": "T2 | 108 m² área bruta | 5º andar com elevador",
         "description": "Apartamento T2 no coração do Príncipe Real com 2 terraços, um estacionamento e arrecadação.\nApartamento mobilado, banhado de luz no último piso de um prédio renovado, com elevador, na Rua da Escola Politécnica.\nO apartamento tem um layout funcional, com dois quartos, um em suite, que comunicam com um encantador, calm",
         "status": "available",
         "added_on": "2024-03-16 13:03"
@@ -3624,18 +3638,20 @@
         "região": "campo de santana santa marta",
         "title": "Duplex na rua Luciano Cordeiro, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33269947/",
-        "price": "2.800€/mês",
-        "details": "T4 | 150 m² área bruta | 4º andar sem elevador | 14 mar",
+        "price": "2.700€/mês",
+        "details": "T4 | 150 m² área bruta | 4º andar sem elevador",
         "description": "Apartamento de tipologia T4 em prédio de traça antiga renovado no centro de Lisboa, totalmente remodelado, mobilado com áreas generosas e materiais de qualidade. Situa-se junto ao Marquês de Pombal numa rua sossegada. Uma zona muito procurada e com acesso a transportes, comércio e serviços. A 5 minutos da Av. Liberdade",
         "status": "available",
-        "added_on": "2024-03-16 13:03"
+        "added_on": "2024-03-16 13:03",
+        "original price": "2.800€/mês",
+        "date of price update": "2024-03-24 16:30"
     },
     {
         "região": "av da liberdade marques de pombal",
         "title": "Duplex na rua Rosa Araújo, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/32265990/",
         "price": "9.500€/mês",
-        "details": "T4 | 238 m² área bruta | 5º andar com elevador | 14 mar",
+        "details": "T4 | 238 m² área bruta | 5º andar com elevador",
         "description": "Penthouse Duplex de 238m2 com 4 suites e vários espaços exteriores, perto da Avenida da Liberdade, e inserida num prédio premiado pela sua arquitectura.\nO apartamento distribui-se da seguinte forma:\n1º ANDAR:\n- Sala de 48m2 elegantemente dividida entre zona de estar e zona de refeição, ambas com acesso a uma varanda",
         "advertiser": "Sea Lisbon",
         "status": "available",
@@ -3646,7 +3662,7 @@
         "title": "Apartamento T2 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33269561/",
         "price": "2.990€/mês",
-        "details": "T2 | 77 m² área bruta | 3º andar com elevador | 14 mar",
+        "details": "T2 | 77 m² área bruta | 3º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 2 quartos e 2 banheiro. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ideais para uma",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3657,7 +3673,7 @@
         "title": "Apartamento T2 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33269311/",
         "price": "2.740€/mês",
-        "details": "T2 | 80 m² área bruta | 3º andar com elevador | 14 mar",
+        "details": "T2 | 80 m² área bruta | 3º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 2 quartos e 2 banheiro. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ideais para uma",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3668,7 +3684,7 @@
         "title": "Apartamento T1 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33269038/",
         "price": "2.350€/mês",
-        "details": "T1 | 55 m² área bruta | 2º andar com elevador | 14 mar",
+        "details": "T1 | 55 m² área bruta | 2º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 1 quarto, 1 sofá cama e 1 banheiro. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ide",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3679,7 +3695,7 @@
         "title": "Apartamento T3 na avenida da Liberdade, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33267664/",
         "price": "4.500€/mês",
-        "details": "T3 | 145 m² área bruta | 2º andar sem elevador | 14 mar",
+        "details": "T3 | 145 m² área bruta | 2º andar sem elevador",
         "description": "Bem-vindo a este deslumbrante apartamento de estilo pombalino, situado no coração da Avenida da Liberdade, em Lisboa. Totalmente renovado em 2021, este apartamento no segundo andar apresenta tectos altos, pisos de madeira e características de época, incluindo molduras e vistas maravilhosas da movimentada avenida da cap",
         "advertiser": "Fox Real Estate",
         "status": "available",
@@ -3690,7 +3706,7 @@
         "title": "Apartamento T1 na rua do Salitre, 122, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33249012/",
         "price": "1.300€/mês",
-        "details": "T1 | 41 m² área bruta | 2º andar com elevador | 14 mar",
+        "details": "T1 | 41 m² área bruta | 2º andar com elevador",
         "description": "Apresentamos este magnífico T0, totalmente renovado, junto à Av. da Liberdade.\nÉ composto por:\nUm hall de entrada.\nUma kitchnete totalmente equipada com frigorifico, máquina de lavar louça, placa de indução, forno, exaustor, microondas e caldeira.\nUma sala com uma mesa redonda e duas cadeiras, um sofá um móvel de ap",
         "status": "available",
         "added_on": "2024-03-16 13:03"
@@ -3700,7 +3716,7 @@
         "title": "Apartamento T2 em Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33259722/",
         "price": "2.400€/mês",
-        "details": "T2 | 100 m² área bruta | 1º andar com elevador | 14 mar",
+        "details": "T2 | 100 m² área bruta | 1º andar com elevador",
         "description": "Neste fantástico apartamento T2, venha descobrir o melhor nascer e pôr-do-sol da cidade. As varandas e os grandes vãos de vidro foram concebidos para usufruir do sol da zona ribeirinha de Lisboa e banhar de luz natural cada metro quadrado deste apartamento T1 novo a estrear. \nO estilo e a qualidade dos acabamentos Pr",
         "advertiser": "KW Exclusive",
         "status": "available",
@@ -3711,7 +3727,7 @@
         "title": "Apartamento T3 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33268197/",
         "price": "3.800€/mês",
-        "details": "T3 | 103 m² área bruta | 5º andar com elevador | 14 mar",
+        "details": "T3 | 103 m² área bruta | 5º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 3 quartos e 3 banheiros. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ideais para um",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3722,7 +3738,7 @@
         "title": "Apartamento T1 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33268138/",
         "price": "2.600€/mês",
-        "details": "T1 | 42 m² área bruta | 2º andar com elevador | 14 mar",
+        "details": "T1 | 42 m² área bruta | 2º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 1 quarto, 1 sofá cama e 1 banheiro. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ide",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3733,7 +3749,7 @@
         "title": "Apartamento T1 na rua Bernardo Lima, Campo de Santana - Santa Marta, Santo António",
         "link": "https://www.idealista.pt/imovel/33268000/",
         "price": "2.700€/mês",
-        "details": "T1 | 52 m² área bruta | 2º andar com elevador | 14 mar",
+        "details": "T1 | 52 m² área bruta | 2º andar com elevador",
         "description": "*APARTAMENTO COM ESTACIONAMENTO*\n*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Bernardo Lima, com 1 quarto, 1 sofá cama e 1 banheiro. A cozinha está equipada com eletrodomésticos e utensílios de cozinha de última geração. As camas são equipadas com roupas de cama macias, ide",
         "advertiser": "Ukio Lisboa",
         "status": "available",
@@ -3744,7 +3760,7 @@
         "title": "Apartamento T0 na rua do Salitre, s/n, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33267894/",
         "price": "1.300€/mês",
-        "details": "T0 | 41 m² área bruta | 14 mar",
+        "details": "T0 | 41 m² área bruta",
         "description": "Apresentamos este magnífico T0, totalmente renovado, junto à Av. da Liberdade.\nÉ composto por:\nUm hall de entrada.\nUma kitchnete totalmente equipada com frigorifico, máquina de lavar louça, placa de indução, forno, exaustor, microondas e caldeira.  \nUma sala com uma mesa e duas cadeiras, um sofá cama, um candeeiro de",
         "advertiser": "RE/MAX G4 Cais",
         "status": "available",
@@ -3755,7 +3771,7 @@
         "title": "Apartamento T0 na rua do Salitre, s/n, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33267884/",
         "price": "1.300€/mês",
-        "details": "T0 | 41 m² área bruta | 14 mar",
+        "details": "T0 | 41 m² área bruta",
         "description": "Apresentamos este magnífico T0, totalmente renovado, junto à Av. da Liberdade.\nÉ composto por:\nUm hall de entrada.\nUma kitchnete totalmente equipada com frigorifico, máquina de lavar louça, placa de indução, forno, exaustor, microondas e caldeira.  \nUma sala com uma mesa e duas cadeiras, um sofá cama, um candeeiro de",
         "advertiser": "RE/MAX G4 Cais",
         "status": "available",
@@ -3766,7 +3782,7 @@
         "title": "Apartamento T2 na rua Rodrigo da Fonseca, s/n, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33267808/",
         "price": "3.600€/mês",
-        "details": "T2 | 130 m² área bruta | 4º andar com elevador | 14 mar",
+        "details": "T2 | 130 m² área bruta | 4º andar com elevador",
         "description": "Apartamento T2 remodelado e decorado no centro de Lisboa, junto ao Ritz\nApartamento T2, originalmente era um T5 que foi totalmente renovado com muito bom gosto, mobilado, tetos altos e trabalhados situado na Rua Rodrigo da Fonseca. 103m2 de área útil, 2 casas de banho completas sendo que a suite tem também uma banheira",
         "advertiser": "RE/MAX Collection Vantagem Villa",
         "status": "available",
@@ -3952,7 +3968,7 @@
         "title": "Apartamento T2 na praça das Amoreiras, 32, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33274314/",
         "price": "3.000€/mês",
-        "details": "T2 | 110 m² área bruta | 1º andar com elevador | 16 mar",
+        "details": "T2 | 110 m² área bruta | 1º andar com elevador",
         "description": "Mulberry Hill - no jardim das Amoreiras, freguesia de Santo António.\nPrédio novo.\nDois quartos, sendo um deles suite.\nDuas casas de banho equipadas com louças suspensas de design contemporâneo, com pavimento em pedra.\nCozinha equipada com todos os electrodomésticos da marca SMEG.\nTerraço privativo de 38 m2 em deck, com",
         "status": "available",
         "added_on": "2024-03-19 05:21"
@@ -3965,18 +3981,19 @@
         "details": "T1 | 45 m² área bruta | 1º andar sem elevador",
         "description": "Apresento-lhe um apartamento T1, com terraço, localizado no Príncipe Real, em Lisboa\nO apartamento está disponível para arrendamento não mobilado, o que lhe permite personalizar o espaço de acordo com as suas preferências e estilo.\nO apartamento está situado numa área privilegiada de Lisboa, no Príncipe Real, perto",
         "advertiser": "Home Tailors Telheiras",
-        "status": "available",
-        "added_on": "2024-03-19 05:23"
+        "status": "rented",
+        "added_on": "2024-03-19 05:23",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "av da liberdade marques de pombal",
         "title": "Penthouse em Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33281938/",
         "price": "4.500€/mês",
-        "details": "T2 | 112 m² área bruta | 6º andar com elevador | 7 horas",
+        "details": "T2 | 112 m² área bruta | 6º andar com elevador | 20 mar",
         "description": "Apartamento com boas áreas, 6º e último piso, boa orientação solar, com\nparqueamento para 1 carro, semi-mobiliado, ótima localização.\nBeneficia-se com ar condicionado, estores elétricos, caixilharia com\nvidros duplos, porta de segurança, vídeo-porteiro.\nComposto por:\nhall,\nsala com varanda,\nterraço de uso exclusivo do",
         "advertiser": "Verde Querer",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:41"
     },
     {
@@ -3984,10 +4001,10 @@
         "title": "Apartamento T2 na avenida da Liberdade, Av. da Liberdade - Marquês de Pombal, Santo António",
         "link": "https://www.idealista.pt/imovel/33280729/",
         "price": "4.300€/mês",
-        "details": "T2 | 110 m² área bruta | 2º andar com elevador | 14 horas",
+        "details": "T2 | 110 m² área bruta | 2º andar com elevador | 20 mar",
         "description": "EMBAIXADA DA CASA | Apresenta excelente T2 situado em plena Av. da Liberdade.\nInserido num prédio de luxo completamente renovado há poucos anos, com porteiro 24 horas, preserva todo o charme original e acrescenta toda a qualidade e modernidade atuais.\nDispõe de uma ampla ampla sala de estar e de refeições, aberta par",
         "advertiser": "Embaixada da Casa",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:41"
     },
     {
@@ -3998,7 +4015,7 @@
         "details": "T1 | 49 m² área bruta | Rés do chão com elevador | 19 mar",
         "description": "Português:\nVenha conhecer este magnifico apartamento T1, na Rua de São José, totalmente mobilado, num prédio com elevador, a escassos minutos da Av Liberdade, e junto ao restaurante Solar dos Presuntos e Hard Rock Café. O apartamento está disponível para arrendamento de longa duração, com um mínimo de 12 meses. Age",
         "advertiser": "KW Select",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:43"
     },
     {
@@ -4006,10 +4023,10 @@
         "title": "Apartamento T2, Calçada da Patriarcal, s/n, Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33280250/",
         "price": "2.950€/mês",
-        "details": "T2 | 100 m² área bruta | 17 horas",
+        "details": "T2 | 100 m² área bruta | 20 mar",
         "description": "T2 | Terraço | Remodelado | Ar condicionado\nMorar num T2 cuidadosamente remodelado, com cerca de 100m2, em pleno Principe Real, mesmo ao lado do plácio mourisco da Embaixada e com terraço privado? Sim, é possível. Veja as principais caracteristicas:\n- Acesso direto da calçada exterior para o interior do apartamento atr",
         "advertiser": "RE/MAX Alpha",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:45"
     },
     {
@@ -4017,10 +4034,10 @@
         "title": "Apartamento T3, Calçada da Patriarcal, s/n, Príncipe Real, Santo António",
         "link": "https://www.idealista.pt/imovel/33280240/",
         "price": "2.950€/mês",
-        "details": "T3 | 106 m² área bruta | 17 horas",
+        "details": "T3 | 106 m² área bruta | 20 mar",
         "description": "T3 | A estrear | Principe Real | 100m2\nTrata-se de um apartamento com caracteristicas únicas. É um \"primeiro andar\" com entrada direta da rua e cujas escadas de acesso, em madeira maciça, fazem já parte integrante do apartamento. A cozinha, com cerca de 12m2, é aberta para a sala comum, o que permite uma grande amplitu",
         "advertiser": "RE/MAX Alpha",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:45"
     },
     {
@@ -4031,7 +4048,7 @@
         "details": "T3 | 180 m² área bruta | Rés do chão sem elevador | 19 mar",
         "description": "DISPONÍVEL EM JUNHO 2024!\nTradicional e majestoso apartamento T3, com um fantástico terraço, no rés-do-chão alto de um prédio de charme, numa das Ruas mais aclamadas do Principe Real e com a tradicional arquitectura antiga de Lisboa.\nCaracterísticas:\n- 2 suites\n- 1 Quarto\n- 3 casas de banho\n- 1 cozinha\n- 1 sala de es",
         "advertiser": "WoM. Investments ",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:45"
     },
     {
@@ -4042,7 +4059,7 @@
         "details": "T3 | 165 m² área bruta | 3º andar sem elevador | 19 mar",
         "description": "DISPONÍVEL EM MAIO 2024!\nTradicional e majestoso apartamento, em fase final de obras de remodelação, com uma fantástica vista sobre Lisboa. No terceiro piso de um prédio de charme sem elevador, numa das Ruas mais aclamadas do Principe Real e com a tradicional arquitectura antiga de Lisboa.\nCaracterísticas:\n- 1 suite",
         "advertiser": "WoM. Investments ",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:45"
     },
     {
@@ -4053,7 +4070,7 @@
         "details": "T2 | 100 m² área bruta | Rés do chão sem elevador | 19 mar",
         "description": "T2 novo com terraço no Príncipe Real.\nComposto por hall de entrada, sala em open space com a cozinha com 33 m2, dois quartos um com 7 m2 o outro com 12 m2 e roupeiros embutidos, WC completo e um terraço com 24 m2 com acesso direto pela sala de estar.\nO apartamento encontra-se totalmente renovado, por estrear, inserido",
         "advertiser": "About My Life",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:45"
     },
     {
@@ -4061,10 +4078,10 @@
         "title": "Apartamento T0 na travessa Fábrica dos Pentes, s/n, Rato - Amoreiras, Santo António",
         "link": "https://www.idealista.pt/imovel/33282058/",
         "price": "800€/mês",
-        "details": "T0 | 28 m² área bruta | sem elevador | 7 horas",
+        "details": "T0 | 28 m² área bruta | sem elevador | 5 horas",
         "description": "Estúdio T0 disponível para arrendamento.\nDesfrute do melhor de Lisboa neste estúdio localizado junto ao Jardim das Amoreiras. Desfrute de passeios relaxantes entre a vegetação exuberante ou encontre um lugar tranquilo para ler um livro e recarregar as energias.\nA localização privilegiada coloca-o a uma curta distân",
         "advertiser": "The Real Estate Shop",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:46"
     },
     {
@@ -4075,7 +4092,7 @@
         "details": "T2 | 91 m² área bruta | 1º andar com elevador | 19 mar",
         "description": "T2 with terrace for rent. New building designed by a renowned architect.\nWith approximately 91m2, terrace with 18m2, storage room and 1 parking space;\nFully equipped kitchen;\nCentral air conditioning system;\nBuilding with doorman;\nThe quality and timeless finishes allow for the comfort of living in this new apartm",
         "advertiser": "Novimed",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:46"
     },
     {
@@ -4086,8 +4103,9 @@
         "details": "T2 | 82 m² área bruta | Rés do chão com elevador | 19 mar",
         "description": "Às Amoreiras (Junto ao Páteo Bagatela), T3 (2 salas e 2 quartos) para arrendamento APENAS POR 6 MESES, totalmente mobilado e equipado (E só nestas condições) com 85m2 composto por: 2 Salas com 16m2, e 11m2 2 quartos com 12 e 11m2, soalho em madeira flutuante, casa de banho completa, 2 hall`s com 2 roupeiros e cozinha e",
         "advertiser": "Imobairro - Imobiliária",
-        "status": "new",
-        "added_on": "2024-03-21 01:46"
+        "status": "rented",
+        "added_on": "2024-03-21 01:46",
+        "rented on": "2024-03-23 13:34"
     },
     {
         "região": "rato amoreiras",
@@ -4096,7 +4114,169 @@
         "price": "2.050€/mês",
         "details": "T1 | 67 m² área bruta | 2º andar sem elevador",
         "description": "Fantástico apartamento T1 na Rua Alexandre Herculano, construção nova com desenho contemporâneo.\nCozinha equipada com placa, forno e exaustor.\nQuarto com roupeiro.\nImóvel com boa luminosidade.\nCom segurança na portaria.\nExcelente localização, a 2 minutos da estação de metro do Rato, da Avenida da Liberdade.\nA 3minut",
-        "status": "new",
+        "status": "available",
         "added_on": "2024-03-21 01:46"
+    },
+    {
+        "região": "av da liberdade marques de pombal",
+        "title": "Apartamento T1 em Av. da Liberdade - Marquês de Pombal, Santo António",
+        "link": "https://www.idealista.pt/imovel/33288247/",
+        "price": "1.500€/mês",
+        "details": "T1 | 58 m² área bruta | com elevador | Ontem",
+        "description": "Magnifico apartamento MOBILADO, inserido num edifício com elevador, situado na Rua Rodrigues Sampaio, uma rua paralela à Avenida da Liberdade, a cerca de 150 metros das estações do metro e das paragens da carris da Avenida e do Marquês de Pombal.\nEdifício de traça antiga, com muito cachet, totalmente construído em 200",
+        "advertiser": "Montrigues Imobiliária",
+        "status": "available",
+        "added_on": "2024-03-23 13:32"
+    },
+    {
+        "região": "av da liberdade marques de pombal",
+        "title": "Apartamento T2 em Av. da Liberdade - Marquês de Pombal, Santo António",
+        "link": "https://www.idealista.pt/imovel/33287693/",
+        "price": "2.300€/mês",
+        "details": "T2 | 97 m² área bruta | 1º andar com elevador | 22 mar",
+        "description": "Apartamento T2 com 97 m2 de área bruta privativa, com varanda com 11 m2 e jardim com 42 m2 em edifício com elevador, totalmente recuperado preservando a traça antiga, no Marquês de Pombal, em Lisboa. O imóvel é composto por dois quartos, um deles em suite, duas casas de banho, sala e cozinha equipada. Dispõe de ar cond",
+        "advertiser": "JLL Residential Portugal",
+        "status": "available",
+        "added_on": "2024-03-23 13:32"
+    },
+    {
+        "região": "av da liberdade marques de pombal",
+        "title": "Apartamento T2 na avenida da Liberdade, s/n, Av. da Liberdade - Marquês de Pombal, Santo António",
+        "link": "https://www.idealista.pt/imovel/33285025/",
+        "price": "4.000€/mês",
+        "details": "T2 | 146 m² área bruta | sem elevador | 21 mar",
+        "description": "Este apartamento T2 de 146m² está situado num prédio imponente na Avenida da Liberdade, uma das mais prestigiadas avenidas de Lisboa.\nA sua localização central garante fácil acesso a todos os pontos da cidade, assim como a uma variedade de serviços e comércios.\nO apartamento encontra-se no 1º andar e beneficia de uma",
+        "advertiser": "MaisConsultores #Capital",
+        "status": "available",
+        "added_on": "2024-03-23 13:32"
+    },
+    {
+        "região": "av da liberdade marques de pombal",
+        "title": "Apartamento T3 na avenida da Liberdade, 150000, Av. da Liberdade - Marquês de Pombal, Santo António",
+        "link": "https://www.idealista.pt/imovel/33282377/",
+        "price": "1.800€/mês",
+        "details": "T3 | 150 m² área bruta | 1º andar com elevador | 21 mar",
+        "description": "",
+        "status": "available",
+        "added_on": "2024-03-23 13:32"
+    },
+    {
+        "região": "praca da alegria",
+        "title": "Apartamento T2 em Praça da Alegria, Santo António",
+        "link": "https://www.idealista.pt/imovel/33285785/",
+        "price": "1.550€/mês",
+        "details": "T2 | 70 m² área bruta | 22 mar",
+        "description": "Charmoso apartamento T2 foi completamente renovado e está localizado no coração vibrante da cidade de Lisboa. Este T2 irradia uma atmosfera acolhedora e moderna.\nAo entrar, encontra uma sala de estar, dois quartos acolhedores, uma casa de banho completa e a cozinha, além de ser um espaço funcional, é também um lugar de",
+        "advertiser": "Remax Team Forever",
+        "status": "available",
+        "added_on": "2024-03-23 13:36"
+    },
+    {
+        "região": "principe real",
+        "title": "Apartamento T2 na rua Cecílio de Sousa, s/n, Príncipe Real, Santo António",
+        "link": "https://www.idealista.pt/imovel/33283054/",
+        "price": "1.500€/mês",
+        "details": "T2 | 90 m² área bruta | 21 mar",
+        "description": "Apartamento T2 renovado, mobilado, cozinha equipada situado no coração do Príncipe Real\n75m2 de área útil, 2 quartos, sendo um para criança ou para ser usado como escritório. O quarto principal tem acesso privado à casa de banho e conta ainda com closet. A cozinha está toda equipada e tem uma zona de refeições e um esp",
+        "advertiser": "RE/MAX Collection Vantagem Villa",
+        "status": "available",
+        "added_on": "2024-03-23 13:36"
+    },
+    {
+        "região": "rato amoreiras",
+        "title": "Apartamento T3 na rua Artilharia 1, Rato - Amoreiras, Santo António",
+        "link": "https://www.idealista.pt/imovel/32429280/",
+        "price": "2.500€/mês",
+        "details": "T3 | 115 m² área bruta | 1º andar com elevador | 22 mar",
+        "description": "Incrível apartamento T3 cheio de luz natural em Lisboa perto do Marquês de Pombal\nApartamento localizado no 1º andar com pequena varanda na frente e jardim de inverno (varanda fechada) nas traseiras.\nApartamento com 3 quartos, duas casas de banho completas, sala e cozinha com pequena lavandaria e espaço de jardim de",
+        "status": "available",
+        "added_on": "2024-03-23 13:37"
+    },
+    {
+        "região": "rato amoreiras",
+        "title": "Apartamento T3 em Rato - Amoreiras, Santo António",
+        "link": "https://www.idealista.pt/imovel/33285375/",
+        "price": "2.500€/mês",
+        "details": "T3 | 166 m² área bruta | 1º andar com elevador | 21 mar",
+        "description": "VALOR NÃO NEGOCIÁVEL\nApartamento na R. Rodrigo da Fonseca foi totalmente remodelado no início de 2021, está impecável.\nDescrição:\n- Grande sala\n- Sala de jantar\n- Três quartos, dois deles com pequena varanda\n- 2 casa-de-banho completas\n- Cozinha equipada com electrodomésticos Miele\n- Zona de lavandaria\n- Desp",
+        "advertiser": "MSA Real Estate",
+        "status": "available",
+        "added_on": "2024-03-23 13:37"
+    },
+    {
+        "região": "rato amoreiras",
+        "title": "Apartamento T2 na rua Alexandre Herculano, 60, Rato - Amoreiras, Santo António",
+        "link": "https://www.idealista.pt/imovel/33284645/",
+        "price": "3.400€/mês",
+        "details": "T2 | 120 m² área bruta | 1º andar com elevador | 21 mar",
+        "description": "Apartamento com 2 suítes, localizado entre o Largo do Rato e a Rua Braancamp.\nEste T2 a estrear está inserido em edifício totalmente reabilitado e contemporâneo, com garagem e arrecadação.\nExcelentes acabamentos e acústica que permitem viver no coração de Lisboa e forma confortável e silenciosa.\nO apartamento est",
+        "advertiser": "The Real Estate Shop",
+        "status": "available",
+        "added_on": "2024-03-23 13:37"
+    },
+    {
+        "região": "rato amoreiras",
+        "title": "Apartamento T4 na rua Alexandre Herculano, 60, Rato - Amoreiras, Santo António",
+        "link": "https://www.idealista.pt/imovel/33284599/",
+        "price": "5.400€/mês",
+        "details": "T4 | 202 m² área bruta | 4º andar com elevador | 21 mar",
+        "description": "Apartamento com 4 suites e terraço com vista, distribuídos por 200m2 entre o Largo do Rato e a Rua Braancamp.\nEste T4 a estrear está inserido em edifício totalmente reabilitado e contemporâneo, com garagem e arrecadação.\nExcelentes acabamentos e acústica que permitem viver no coração de Lisboa e forma confortável e s",
+        "advertiser": "The Real Estate Shop",
+        "status": "available",
+        "added_on": "2024-03-23 13:37"
+    },
+    {
+        "região": "rato amoreiras",
+        "title": "Apartamento T2 em Rato - Amoreiras, Santo António",
+        "link": "https://www.idealista.pt/imovel/33214198/",
+        "price": "3.400€/mês",
+        "details": "T2 | 95 m² área bruta | 1º andar com elevador | 21 mar",
+        "description": "Apartamento T2 Novo, numa das principais ruas de Lisboa.\nComposto por:\n- Sala de estar\n- Cozinha totalmente equipada, com electrodomésticos Bosch\n- 2 suites com roupeiros embutidos\n- 1 casa de banho social\n- Terraço com 25m2\n- 1 lugar de estacionamento\n- Arrecadação\nImóvel com óptimos acabamentos, boas áreas, equipad",
+        "advertiser": "Caetana Properties",
+        "status": "available",
+        "added_on": "2024-03-23 13:37"
+    },
+    {
+        "região": "rato amoreiras",
+        "title": "Apartamento T1 em Rato - Amoreiras, Santo António",
+        "link": "https://www.idealista.pt/imovel/33214078/",
+        "price": "2.300€/mês",
+        "details": "T1 | 54 m² área bruta | 5º andar com elevador",
+        "description": "Apartamento T1 Novo, numa das principais ruas de Lisboa\nComposto por:\n- Sala de estar\n- Cozinha totalmente equipada, com electrodomésticos Bosch\n- 1 quarto com roupeiros embutidos\n- 1 casa de banho completa\n- 1 lugar de estacionamento\n- Arrecadação\nImóvel com óptimos acabamentos, boas áreas, equipado com sistema de a",
+        "advertiser": "Caetana Properties",
+        "status": "available",
+        "added_on": "2024-03-23 13:37"
+    },
+    {
+        "região": "rato amoreiras",
+        "title": "Apartamento T2 em Rato - Amoreiras, Santo António",
+        "link": "https://www.idealista.pt/imovel/33182836/",
+        "price": "3.150€/mês",
+        "details": "T2 | 95 m² área bruta | 2º andar com elevador",
+        "description": "Apartamento T2 Novo, numa das principais ruas de Lisboa.\nComposto por:\n- Sala de estar\n- Cozinha totalmente equipada, com electrodomésticos Bosch\n- 2 suites com roupeiros embutidos\n- 1 casa de banho social\n- 1 lugar de estacionamento\n- Arrecadação\nImóvel com óptimos acabamentos, boas áreas, equipado com sistema de ar",
+        "advertiser": "Caetana Properties",
+        "status": "available",
+        "added_on": "2024-03-23 13:38"
+    },
+    {
+        "região": "campo de santana santa marta",
+        "title": "Apartamento T3 em Campo de Santana - Santa Marta, Santo António",
+        "link": "https://www.idealista.pt/imovel/33286102/",
+        "price": "3.980€/mês",
+        "details": "T3 | 167 m² área bruta | 2º andar sem elevador | Ontem",
+        "description": "Amplo aparamento de 3 quartos todos suítes espaçosos e ainda uma Casa de Banho Social, situado no segundo andar, em excelente localização a poucos minutos da Avenida da Liberdade e todas as facilidades de serviços, comércio e transportes que a mesma oferece.\nno imóvel temos o hall de entrada do apartamento alberga uma",
+        "advertiser": "Sunstar",
+        "status": "available",
+        "added_on": "2024-03-24 04:41"
+    },
+    {
+        "região": "principe real",
+        "title": "Apartamento T1 em Príncipe Real, Santo António",
+        "link": "https://www.idealista.pt/imovel/33289039/",
+        "price": "1.683€/mês",
+        "details": "T1 | 84 m² área bruta | 1º andar com elevador | Ontem",
+        "description": "T1+1 localizado num prédio de charme totalmente reabilitado com elevador. O apartamento é composto por uma sala comum virada para a Rua D. Pedro V, um escritório ou sala de jantar com acesso pela sala ou pelo corredor, suite, zona para closet, cozinha interior e casa de banho. Situado a 2 passos dos jardins do Príncipe",
+        "status": "available",
+        "added_on": "2024-03-24 04:43"
     }
 ]

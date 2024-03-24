@@ -21,7 +21,7 @@ from selenium.common.exceptions import NoSuchElementException
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s',
                     handlers=[
-                        logging.FileHandler("logs/avenidas_novas_regions_log.log"),  # Log to this file
+                        logging.FileHandler("logs/campolide_regions_log.log"),  # Log to this file
                         logging.StreamHandler()  # And also log to console
                     ])
 
@@ -105,7 +105,7 @@ def scrape_all_urls(driver, url, existing_data):
     new_urls = set()  # New URLs found in the current run
 
     tag = extract_tag_from_url(url)
-    sleep_duration = random.uniform(10, 15)
+    sleep_duration = random.uniform(5, 9)
     logging.info(f"Sleeping 1 for {sleep_duration:.2f} seconds.")
     time.sleep(sleep_duration)
 
@@ -113,7 +113,7 @@ def scrape_all_urls(driver, url, existing_data):
         logging.info(f"Navigating to URL: {url}")
         if driver.current_url != url:
             driver.get(url)
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(4)
 
         html_content = driver.page_source
         new_listings = extract_listings(html_content, tag)
@@ -146,7 +146,7 @@ def scrape_all_urls(driver, url, existing_data):
                                 logging.info(f"Price updated for {entry['link']} from {entry['original price']} to {new_listing['price']} on {entry['date of price update']}")
 
                             # Update other details as needed, excluding specific fields to avoid overwriting important info
-                            entry.update({k: new_listing[k] for k in new_listing if k not in ['região', 'added_on', 'price', 'original price']})
+                            entry.update({k: new_listing[k] for k in new_listing if k not in ['added_on', 'price', 'original price']})
                             break
                     
             else:
@@ -176,7 +176,7 @@ def scrape_all_urls(driver, url, existing_data):
     logging.info(f"Processed and saved data from page {url}.")
     # After processing one URL, the rest of your code can remain to handle the data as intended
         
-    sleep_duration = random.uniform(7, 13)
+    sleep_duration = random.uniform(5, 9)
     logging.info(f"Sleeping 2 for {sleep_duration:.2f} seconds.")
     time.sleep(sleep_duration)
 
@@ -236,15 +236,15 @@ def main_scraping_process(driver, base_urls, file_path):
 
         
 if __name__ == "__main__":
-    base_url = ["https://www.idealista.pt/arrendar-casas/avenidas-novas/bairro-azul-parque-eduardo-vii/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/campo-pequeno/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/entrecampos/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/gulbenkian-praca-espanha/?ordem=atualizado-desc",
-                "https://www.idealista.pt/arrendar-casas/avenidas-novas/sao-sebastiao-da-pedreira/?ordem=atualizado-desc"
+    base_url = ["https://www.idealista.pt/arrendar-casas/campolide/bairro-calcada-dos-mestres/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campolide/bairro-da-serafina/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campolide/centro/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campolide/nova-campolide/?ordem=atualizado-desc",
+                "https://www.idealista.pt/arrendar-casas/campolide/praca-de-espanha-sete-rios/?ordem=atualizado-desc"
                 ]
                 
 
-    file_path = "data/json/avenidas_novas_regions.json"
+    file_path = "data/json/campolide_regions.json"
     main_scraping_process(driver, base_url, file_path)
 
 # Record end time

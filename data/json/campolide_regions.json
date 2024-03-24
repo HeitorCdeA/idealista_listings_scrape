@@ -4,7 +4,7 @@
         "title": "Apartamento T3, Calçada dos Sete Moinhos, 120, Bairro Calçada dos Mestres, Campolide",
         "link": "https://www.idealista.pt/imovel/33270079/",
         "price": "1.700€/mês",
-        "details": "T3 | 107 m² área bruta | 7º andar com elevador | 14 mar",
+        "details": "T3 | 107 m² área bruta | 7º andar com elevador",
         "description": "Localizado em um local com vista deslumbrante, este apartamento oferece uma excelente oportunidade de moradia. Ele foi recentemente remodelado e está pronto para ser ocupado.\nEste apartamento possui três quartos espaçosos, proporcionando espaço suficiente para acomodar uma família.\nDesfrute de uma varanda privativa, pe",
         "status": "available",
         "added_on": "2024-03-17 03:22",
@@ -51,9 +51,8 @@
         "details": "T1 | 70 m² área bruta | 12º andar com elevador",
         "description": "Apartamento no centro de Lisboa, nas Amoreiras, em Campolide, com vista para o rio e zonas verdes. Apartamento em 12º andar, virado a sul, próximo ao Hotel D. Pedro, com boa luminosidade e varanda na sala com vista para o rio Tejo. O apartamento está completamente mobilado e equipado, pronto a habitar.\nEstacionamento",
         "advertiser": "Investe Real Estate",
-        "status": "rented",
-        "added_on": "2024-03-17 03:22",
-        "rented on": "2024-03-20 19:08"
+        "status": "available",
+        "added_on": "2024-03-17 03:22"
     },
     {
         "região": "bairro calcada dos mestres",
@@ -101,21 +100,25 @@
         "região": "centro",
         "title": "Apartamento T1 na rua Professor Sousa da Câmara, 128, Centro, Campolide",
         "link": "https://www.idealista.pt/imovel/33259204/",
-        "price": "2.500€/mês",
+        "price": "2.100€/mês",
         "details": "T1 | 63 m² área bruta | 5º andar com elevador",
-        "description": "Apartamento T1 a estrear para arrendamento, sem móveis, inserido num condomínio privado com piscina, ginásio e garagem. Com uma excelente localização no bairro das Amoreiras, a dois minutos a pé do Liceu Francês, Marquês do Pombal, Parque Eduardo VII, da emblemática Avenida da Liberdade e do centro financeiro da cidade",
+        "description": "Apartamento T1 a estrear para arrendamento, inserido num condomínio privado com piscina, ginásio e garagem. Com uma excelente localização no bairro das Amoreiras, a dois minutos a pé do Liceu Francês, Marquês do Pombal, Parque Eduardo VII, da emblemática Avenida da Liberdade e do centro financeiro da cidade.\nEste imó",
         "status": "available",
-        "added_on": "2024-03-17 03:24"
+        "added_on": "2024-03-17 03:24",
+        "original price": "2.500€/mês",
+        "date of price update": "2024-03-23 13:15"
     },
     {
         "região": "centro",
-        "title": "Apartamento T0 na rua Ferreira Chaves, 1, Centro, Campolide",
+        "title": "Apartamento T1 na rua Ferreira Chaves, 1, Centro, Campolide",
         "link": "https://www.idealista.pt/imovel/32653013/",
-        "price": "1.450€/mês",
-        "details": "T0 | 40 m² área bruta | 2º andar com elevador",
+        "price": "1.350€/mês",
+        "details": "T1 | 40 m² área bruta | 2º andar com elevador",
         "description": "Bem-vindo ao nosso charmoso e ensolarado apartamento estúdio, o oásis perfeito para uma estadia inesquecível na vibrante cidade de Lisboa. Este encantador estúdio T0 possui duas pequenas varandas que convidam a uma abundância de luz natural, criando um ambiente acolhedor e convidativo em todo o espaço.\nEntre e descubr",
         "status": "available",
-        "added_on": "2024-03-17 03:24"
+        "added_on": "2024-03-17 03:24",
+        "original price": "1.450€/mês",
+        "date of price update": "2024-03-23 13:15"
     },
     {
         "região": "centro",
@@ -125,8 +128,9 @@
         "details": "T1 | 40 m² área bruta | sem elevador",
         "description": "Apartamento situado em pleno coração de Campolide, perto do Shopping das Amoreiras, da Universidade Nova, escola básica Mestre Querubim Lapa e colégio Francês. Tem igualmente todo o tipo de comércio, serviços e transporte público nas imediações.\nEste T1 está situado num segundo andar sem elevador, conta com um quarto,",
         "advertiser": "Century21 Buildness",
-        "status": "available",
-        "added_on": "2024-03-17 03:24"
+        "status": "rented",
+        "added_on": "2024-03-17 03:24",
+        "rented on": "2024-03-23 13:15"
     },
     {
         "região": "centro",
@@ -156,7 +160,7 @@
         "link": "https://www.idealista.pt/imovel/33245783/",
         "price": "1.200€/mês",
         "details": "T2 | 80 m² área bruta | 1º andar sem elevador",
-        "description": "Apartamento T2+1 em Campolide, Lisboa. Área Construída 80m2. 1. ºAndar Esq. de um prédio de dois andares com dois inquilinos por piso.\nBairro simpático com bastante comércio local. Mercearia do outro lado da rua aberta até às 22h.\nApenas 3 minutos das Amoreiras, Parque Eduardo VII e Praça de Espanha Condições de ar",
+        "description": "Apartamento T2+1 em Campolide, Lisboa. Área Construída 80m2. 1. ºAndar Esq. de um prédio de dois andares com dois inquilinos por piso.\nBairro simpático com bastante comércio local. Mercearia do outro lado da rua aberta até às 22h.\nApenas 3 minutos das Amoreiras, Parque Eduardo VII e Praça de Espanha   Condições de ar",
         "status": "available",
         "added_on": "2024-03-17 03:24"
     },
@@ -265,7 +269,7 @@
         "title": "Apartamento T2 em Centro, Campolide",
         "link": "https://www.idealista.pt/imovel/33223557/",
         "price": "3.000€/mês",
-        "details": "T2 | 82 m² área bruta | 4º andar sem elevador",
+        "details": "T2 | 82 m² área bruta | 4º andar com elevador",
         "description": "Apartamento T2 com 82m2 de área privada, localizado no condomínio privado LX Living.\nEste apartamento tem uma sala fantástica com uma vista deslumbrante para o jardim do condomínio, proporcionando um ambiente relaxante e agradável. A cozinha está totalmente equipada, proporcionando todas as comodidades necessárias para",
         "status": "available",
         "added_on": "2024-03-17 03:24"
@@ -313,8 +317,9 @@
         "details": "T2 | 75 m² área bruta",
         "description": "Apartamento T2 mobilado num 2º andar (com dois elevadores) na Rua Marquês Da Fronteira, nº106.\nO apartamento é constituído por:\n- Cozinha totalmente equipada (com forno, placa, termoacumulador, frigorífico combinado e máquina de lavar roupa)\n- 2 quartos com varanda fechada (com camas com colchões, secretárias, cómodas",
         "advertiser": "Universus das Kasas",
-        "status": "available",
-        "added_on": "2024-03-17 03:24"
+        "status": "rented",
+        "added_on": "2024-03-17 03:24",
+        "rented on": "2024-03-23 13:15"
     },
     {
         "região": "centro",
@@ -380,8 +385,9 @@
         "price": "2.055€/mês",
         "details": "T2 | 65 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/05/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "available",
-        "added_on": "2024-03-17 03:24"
+        "status": "rented",
+        "added_on": "2024-03-17 03:24",
+        "rented on": "2024-03-23 13:15"
     },
     {
         "região": "centro",
@@ -580,8 +586,9 @@
         "price": "1.600€/mês",
         "details": "T1 | 55 m² área bruta",
         "description": "Acolhedor apartamento T1 disponível para arrendamento no coração do Príncipe Real.\nEste charmoso imóvel está localizado num edifício de tabique e situa-se no primeiro andar (sem elevador).\nCom duas frentes, o apartamento é inundado de luz natural durante o dia. Uma característica especial deste imóvel é a varanda fecha",
-        "status": "available",
-        "added_on": "2024-03-17 03:24"
+        "status": "rented",
+        "added_on": "2024-03-17 03:24",
+        "rented on": "2024-03-23 13:15"
     },
     {
         "região": "centro",
@@ -659,7 +666,7 @@
         "link": "https://www.idealista.pt/imovel/32694944/",
         "price": "1.769€/mês",
         "details": "T2 | 80 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 31/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 14/04/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-17 03:24"
     },
@@ -721,7 +728,7 @@
         "link": "https://www.idealista.pt/imovel/32837651/",
         "price": "2.500€/mês",
         "details": "T3 | 130 m² área bruta | 3º andar sem elevador",
-        "description": "BEAUTIFUL FLAT IN CAMPOLIDE - 10 MIN FROM AMOREIRAS\n3 BEDROOMS (5Bed)| LIVING AND DINING ROOM | TERRACE\nYearly contracts - or short minimum term 4 weeks\n3 QUARTOS | SALA + SALA JANTAR | VARANDA\nContracto anual - curta temporada mínimo 6 semanas\n3 CHAMBRES (5pax) | SALON + SALLE A MANGER | TERRACE\nContract annuel o",
+        "description": "DISPONÍVEL FIM DE AGOSTO / AVAILABLE LATE AUGUST\nBEAUTIFUL FLAT IN CAMPOLIDE - 10 MIN FROM AMOREIRAS\n3 BEDROOMS (5Bed)| LIVING AND DINING ROOM | TERRACE\nYearly contracts - or short minimum term 4 weeks\n3 QUARTOS | SALA + SALA JANTAR | VARANDA\nContracto anual - curta temporada mínimo 6 semanas\n3 CHAMBRES (5pax) |",
         "status": "available",
         "added_on": "2024-03-17 03:24"
     },
@@ -753,7 +760,7 @@
         "link": "https://www.idealista.pt/imovel/32737939/",
         "price": "1.769€/mês",
         "details": "T2 | 80 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 20/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 09/04/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-17 03:24"
     },
@@ -802,14 +809,14 @@
         "região": "centro",
         "title": "Apartamento T3 na avenida Conselheiro Fernando de Sousa, Centro, Campolide",
         "link": "https://www.idealista.pt/imovel/32487024/",
-        "price": "3.955€/mês",
+        "price": "3.975€/mês",
         "details": "T3 | 123 m² área bruta | 14º andar com elevador",
         "description": "*COMPLETAMENTE MOBILIADO*\n*RENDAS MENSAIS DE 1 A 11 MESES*\nBem-vindo ao Baro, um deslumbrante apartamento com tema de montanha localizado no coração do Marquês de Pombal, em Lisboa! O Baro é o local perfeito para quem busca luxo, conforto e conveniência durante sua visita a Lisboa. Este luxuoso apartamento de 123 metr",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-17 03:24",
-        "original price": "3.600€/mês",
-        "date of price update": "2024-03-20 19:09"
+        "original price": "3.970€/mês",
+        "date of price update": "2024-03-24 04:09"
     },
     {
         "região": "centro",
@@ -994,7 +1001,7 @@
         "title": "Apartamento T2 na rua Canto da Maya, 1, Praça de Espanha - Sete Rios, Campolide",
         "link": "https://www.idealista.pt/imovel/33272025/",
         "price": "3.900€/mês",
-        "details": "T2 | 132 m² área bruta | 17º andar com elevador | 16 mar",
+        "details": "T2 | 132 m² área bruta | 17º andar com elevador",
         "description": "Apartamento T2 novo no empreendimento de Luxo Infinity, em Campolide com vista para Monsanto, dispõe de ar condicionado central, piscina interior e exterior, spa, ginásio, business centre, padle, estacionamento privado em cave com carregador para veiculos elétricos.\nO apartamento possui excelentes acabamentos com boa",
         "status": "available",
         "added_on": "2024-03-17 03:25"
@@ -1004,7 +1011,7 @@
         "title": "Apartamento T1 em Praça de Espanha - Sete Rios, Campolide",
         "link": "https://www.idealista.pt/imovel/33272437/",
         "price": "2.850€/mês",
-        "details": "T1 | 75 m² área bruta | 6º andar com elevador | 15 mar",
+        "details": "T1 | 75 m² área bruta | 6º andar com elevador",
         "description": "Apartamento T1 novo, para arrendar, com 68 m2 de área bruta privativa, um lugar de estacionamento e uma arrecadação, inserido no novo empreendimento de luxo Infinity em Campolide, Lisboa. Um condomínio privado com luxuosas comodidades onde terá à sua disposição um serviço de conciérge, segurança 24h, sala de reuniões,",
         "advertiser": "Sattar Properties",
         "status": "available",
@@ -1015,7 +1022,7 @@
         "title": "Apartamento T1 em Praça de Espanha - Sete Rios, Campolide",
         "link": "https://www.idealista.pt/imovel/33268390/",
         "price": "2.000€/mês",
-        "details": "T1 | 80 m² área bruta | 4º andar com elevador | 15 mar",
+        "details": "T1 | 80 m² área bruta | 4º andar com elevador",
         "description": "Arrenda - Apartamento T1, no centro de Lisboa, Garagem para 2 viaturas, e arrecadação.\nComposto por:\n- Sala de estar\n- Cozinha totalmente equipada\n- 1 quarto\n- 1 casa de banho completa\n- Corredor com roupeiros\nApartamento T1 para arrendamento na Rua Basílio Teles em Lisboa, com muita arrumação, boas áreas, grandes ja",
         "advertiser": "Caetana Properties",
         "status": "available",
@@ -1026,7 +1033,7 @@
         "title": "Apartamento T3 em Praça de Espanha - Sete Rios, Campolide",
         "link": "https://www.idealista.pt/imovel/33269808/",
         "price": "2.800€/mês",
-        "details": "T3 | 207 m² área bruta | 10º andar com elevador | 14 mar",
+        "details": "T3 | 207 m² área bruta | 10º andar com elevador",
         "description": "Excelente apartamento T4 (transformado em T3) no Columbano Residence, edifício de referência na Avenida Columbano Bordalo Pinheiro que prima pela sua localização, a 2 minutos a pé do Metro da Praça de Espanha e perto do Centro Comercial El Corte Inglês e dos jardins da Fundação Calouste Gulbenkian.\nO apartamento, em ó",
         "advertiser": "Gomes & Mendes, Soc. Med. Imob., Lda.",
         "status": "available",
@@ -1037,7 +1044,7 @@
         "title": "Apartamento T2 em Praça de Espanha - Sete Rios, Campolide",
         "link": "https://www.idealista.pt/imovel/33268026/",
         "price": "3.500€/mês",
-        "details": "T2 | 138 m² área bruta | 3º andar com elevador | 14 mar",
+        "details": "T2 | 138 m² área bruta | 3º andar com elevador",
         "description": "Apartamento T2, novo, a estrear, para arrendamento no prestigiado Empreendimento Infinity Tower, em Campolide, Lisboa.\nInfinity Tower é um condomínio privado com as mais luxuosas comodidades e de uma elegância incomparável.\nO apartamento é composto por:\n- Sala estar\n- Cozinha equipada\n- 1 Suíte com walk-in closet",
         "advertiser": "Castelhana Real Estate",
         "status": "available",
@@ -1082,8 +1089,9 @@
         "details": "T2 | 139 m² área bruta | sem elevador",
         "description": "Apartamento T2 com Terraço, no Infinity Tower, em LisboaApartamento T2, com 139 m2 de área bruta privativa, novo, com estacionamento e terraço com 64 m2, inserido no empreendimento Infinity Tower, em Lisboa. O apartamento é composto por 2 quartos em suite, uma casa de banho social, sala de 34 m2, cozinha de 13 m2. Apartamento, no 7º andar do Bloco City, de áreas muito ampla",
         "advertiser": "JLL Residential Portugal",
-        "status": "available",
-        "added_on": "2024-03-17 03:25"
+        "status": "rented",
+        "added_on": "2024-03-17 03:25",
+        "rented on": "2024-03-23 13:15"
     },
     {
         "região": "praca de espanha sete rios",
@@ -1092,8 +1100,9 @@
         "price": "1.769€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/07/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "available",
-        "added_on": "2024-03-17 03:25"
+        "status": "rented",
+        "added_on": "2024-03-17 03:25",
+        "rented on": "2024-03-24 15:57"
     },
     {
         "região": "praca de espanha sete rios",
@@ -1134,8 +1143,9 @@
         "details": "T1 | 68 m² área bruta | com elevador",
         "description": "Apartamento novo, T1, com um lugar de garagem e uma arrecadação, inserido em novo empreendimento de luxo em Campolide, Lisboa. Um condomínio privado com comodidades luxuosas onde terá ao seu dispor serviço de concierge, segurança 24 horas, sala de reuniões, ginásio, SPA e salas de massagens (130m2), piscina exterior na",
         "advertiser": "Mercator - Swedish Leading Real Estate in Portugal",
-        "status": "available",
-        "added_on": "2024-03-17 03:25"
+        "status": "rented",
+        "added_on": "2024-03-17 03:25",
+        "rented on": "2024-03-23 13:15"
     },
     {
         "região": "praca de espanha sete rios",
@@ -1221,9 +1231,8 @@
         "price": "4.000€/mês",
         "details": "T2 | 172 m² área bruta | 1º andar com elevador",
         "description": "CAMPOLIDE - Apartamento T2, completamente NOVO e sem móveis, pronto para arrendamento no 1. º Andar do (River Block) no prestigiado Empreendimento Infinity Tower, em Campolide, Lisboa, com 1 lugar de estacionamento já com instalação para carros elétricos e 1 arrecadação; Todo o apartamento é circundado por uma varanda.",
-        "status": "rented",
-        "added_on": "2024-03-17 03:25",
-        "rented on": "2024-03-20 19:08"
+        "status": "available",
+        "added_on": "2024-03-17 03:25"
     },
     {
         "região": "praca de espanha sete rios",
@@ -1252,7 +1261,7 @@
         "link": "https://www.idealista.pt/imovel/32669085/",
         "price": "1.769€/mês",
         "details": "T1 | 60 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 24/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
         "status": "available",
         "added_on": "2024-03-17 03:25"
     },
@@ -1447,7 +1456,7 @@
         "link": "https://www.idealista.pt/imovel/32669083/",
         "price": "1.769€/mês",
         "details": "T1 | 60 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 23/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
         "status": "available",
         "added_on": "2024-03-17 03:26"
     },
@@ -1477,7 +1486,7 @@
         "link": "https://www.idealista.pt/imovel/32669041/",
         "price": "1.769€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 21/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
         "status": "available",
         "added_on": "2024-03-17 03:26"
     },
@@ -1521,14 +1530,14 @@
         "região": "praca de espanha sete rios",
         "title": "Apartamento T1 na rua Canto da Maya, Praça de Espanha - Sete Rios, Campolide",
         "link": "https://www.idealista.pt/imovel/33001036/",
-        "price": "3.785€/mês",
+        "price": "3.795€/mês",
         "details": "T1 | 75 m² área bruta | 7º andar com elevador",
         "description": "Apartamento na Infinity Tower T1 com piscina partilhada em Campolide*APARTAMENTO COM PISCINA, GINÁSIO E ESTACIONAMENTO PARTILHADOS*\n*COMPLETAMENTE MOBILADO*\n*ARRENDAMENTO MENSAIS DE 1 A 11 MESES*\nEspetacular apartamento na Rua Canto da Maya, com 1 quarto, 1 sofá-cama na sala e 1 casa de banho. A cozinha está equipada com electrodomésticos e utensílios de cozinha topo de gama. As camas",
         "advertiser": "Ukio Lisboa",
         "status": "available",
         "added_on": "2024-03-17 03:26",
-        "original price": "3.700€/mês",
-        "date of price update": "2024-03-20 19:11"
+        "original price": "3.785€/mês",
+        "date of price update": "2024-03-23 13:18"
     },
     {
         "região": "praca de espanha sete rios",
@@ -1536,7 +1545,7 @@
         "link": "https://www.idealista.pt/imovel/32669050/",
         "price": "1.769€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 24/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
         "status": "available",
         "added_on": "2024-03-17 03:26"
     },
@@ -1602,8 +1611,9 @@
         "details": "T3 | 187 m² área bruta",
         "description": "Apartamento T3 Twin Towers c/ Garagem e Arrecadação\nApresentamos-lhe um deslumbrante apartamento T3 inserido num dos mais prestigiados condomínios residenciais de Lisboa, as Twin Towers.\nEste fabuloso apartamento oferece-lhe uma área bruta privativa de 156 m2, compreendendo 3 fabulosos quartos, um deles suite, todos co",
         "advertiser": "RE/MAX Expo",
-        "status": "available",
-        "added_on": "2024-03-17 03:26"
+        "status": "rented",
+        "added_on": "2024-03-17 03:26",
+        "rented on": "2024-03-24 15:57"
     },
     {
         "região": "praca de espanha sete rios",
@@ -1646,7 +1656,7 @@
         "link": "https://www.idealista.pt/imovel/32737893/",
         "price": "2.100€/mês",
         "details": "T1 | 50 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 27/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-17 03:26"
     },
@@ -1696,7 +1706,7 @@
         "link": "https://www.idealista.pt/imovel/32669042/",
         "price": "1.769€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 23/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: DISPONÍVEL AGORA\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mai",
         "status": "available",
         "added_on": "2024-03-17 03:26"
     },
@@ -1733,11 +1743,11 @@
     },
     {
         "região": "centro",
-        "title": "Apartamento T2 em Centro, Campolide",
+        "title": "Apartamento T2 na avenida Conselheiro Fernando de Sousa, Centro, Campolide",
         "link": "https://www.idealista.pt/imovel/33275467/",
         "price": "7.500€/mês",
         "details": "T2 | 90 m² área bruta | 4º andar com elevador | 18 mar",
-        "description": "Luxuoso Apartamento T2 para Arrendamento no Coração de Lisboa! (NOVO)\nDesfrute do luxo urbano com este esplêndido apartamento T2 com acessso a 2 piscinas e ginásio, num prestigiado condomínio privado situado perto das Amoreiras, no centro de Lisboa.\nApartamento:\nO apartamento está localizado num complexo residencial",
+        "description": "Luxuoso Apartamento T2 para Arrendamento no Coração de Lisboa! (NOVO)\nDesfrute do luxo urbano com este esplêndido apartamento T2 com acesso a 2 piscinas e ginásio, num prestigiado condomínio privado situado perto das Amoreiras, no centro de Lisboa.\nApartamento:\nO apartamento está localizado num complexo residencial r",
         "status": "available",
         "added_on": "2024-03-18 12:44"
     },
@@ -1777,7 +1787,7 @@
         "title": "Apartamento T2 em Centro, Campolide",
         "link": "https://www.idealista.pt/imovel/32913750/",
         "price": "1.500€/mês",
-        "details": "T2 | 55 m² área bruta | sem elevador | 15 horas",
+        "details": "T2 | 55 m² área bruta | sem elevador | 20 mar",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 02/07/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-20 19:08"
@@ -1798,7 +1808,7 @@
         "title": "Apartamento T3 em Nova Campolide, Campolide",
         "link": "https://www.idealista.pt/imovel/33067494/",
         "price": "2.200€/mês",
-        "details": "T3 | 65 m² área bruta | 1º andar | 11 horas",
+        "details": "T3 | 65 m² área bruta | 1º andar | 20 mar",
         "description": "[PT] Disponível em: 30/08/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 30/08/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
         "status": "available",
         "added_on": "2024-03-20 19:10"
@@ -1839,10 +1849,66 @@
         "região": "praca de espanha sete rios",
         "title": "Apartamento T1 na rua de Campolide, 351, Praça de Espanha - Sete Rios, Campolide",
         "link": "https://www.idealista.pt/imovel/33278375/",
-        "price": "1.840€/mês",
+        "price": "1.790€/mês",
         "details": "T1 | 99 m² área bruta | 10º andar com elevador | 19 mar",
         "description": "NÃO PRETENDO CONTACTOS DE IMOBILIÁRIAS\nAPARTAMENTO T1 NAS TWIN TOWERS\nSemi-mobilado.\nHall com roupeiro e despensa.\nQuarto com sommier 160x200, cómoda e guarda-roupa.\nSala com 30m2, com sofá, móvel de TV, tapete e mesa de jantar.\nCozinha semi-equipada com forno, placa de fogão e exaustor, frigorífico, máquina de l",
         "status": "available",
-        "added_on": "2024-03-20 19:10"
+        "added_on": "2024-03-20 19:10",
+        "original price": "1.840€/mês",
+        "date of price update": "2024-03-23 13:17"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T1 em Centro, Campolide",
+        "link": "https://www.idealista.pt/imovel/33289113/",
+        "price": "1.600€/mês",
+        "details": "T1 | 65 m² área bruta | 2º andar com elevador | Ontem",
+        "description": "T1 sem móveis com cozinha equipada. Arrecadação e estacionamento (1)\nHall, Sala com cozinha cozinha equipada com placa de indução, forno, máquina da loiça, máquina da roupa, frigorífico combinado e exaustor, quarto com closet e. casa de banho com duche.\nCaldeira e depósito de água quente, painéis solares para aquecim",
+        "advertiser": "Maria José Jonet Sociedade de Mediação Imobiliária, Lda.",
+        "status": "available",
+        "added_on": "2024-03-23 13:15"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T2 em Centro, Campolide",
+        "link": "https://www.idealista.pt/imovel/33289031/",
+        "price": "2.750€/mês",
+        "details": "T2 | 98 m² área bruta | 2º andar com elevador | Ontem",
+        "description": "T2 sem móveis com cozinha equipada. Arrecadação e estacionamento (1)\nSala, grande cozinha equipada com placa de indução, forno, microondasmáquina da loiça, máquina da roupa, frigorífico combinado e exaustor. Suite com 2 roupeiros e casa de banho com duche, quarto com roupeiro e varanda., casa de banho com banheira.\nC",
+        "advertiser": "Maria José Jonet Sociedade de Mediação Imobiliária, Lda.",
+        "status": "available",
+        "added_on": "2024-03-23 13:15"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T3 na avenida Conselheiro Fernando de Sousa, Centro, Campolide",
+        "link": "https://www.idealista.pt/imovel/32341539/",
+        "price": "3.210€/mês",
+        "details": "T3 | 125 m² área bruta | 3º andar com elevador",
+        "description": "Este apartamento totalmente equipado e mobilado está disponível a partir de 23-03-2024.\nOferecemos preços ajustados para qualquer duração da estadia.\nAs tarifas podem variar nas datas exatas de entrada e saída. O preço deste imóvel começa a €3,210* / mês. Visite o nosso website e coloque as datas pretendidas para saber",
+        "advertiser": "The Blueground",
+        "status": "available",
+        "added_on": "2024-03-23 13:16"
+    },
+    {
+        "região": "praca de espanha sete rios",
+        "title": "Apartamento T3 na rua Canto da Maya, 6, Praça de Espanha - Sete Rios, Campolide",
+        "link": "https://www.idealista.pt/imovel/33287860/",
+        "price": "6.000€/mês",
+        "details": "T3 | 171 m² área bruta | 20º andar com elevador | 22 mar",
+        "description": "Apartamento T3, completamente NOVO e sem móveis, pronto para arrendamento no 20. º Andar do (CityBlock) no prestigiado Empreendimento Infinity Tower, em Campolide, Lisboa, com 3 lugares de estacionamento já com instalação para carros elétricos e 1 arrecadação; Todo o apartamento é circundado por uma varanda. Embora sej",
+        "status": "available",
+        "added_on": "2024-03-23 13:17"
+    },
+    {
+        "região": "centro",
+        "title": "Apartamento T2 em Centro, Campolide",
+        "link": "https://www.idealista.pt/imovel/33277445/",
+        "price": "1.400€/mês",
+        "details": "T2 | 81 m² área bruta | 2º andar sem elevador | 19 mar",
+        "description": "Apartamento T2 cheio de luz e renovado.\nInserido em prédio bem conservado num 2º andar sem elevador.  \nCozinha equipada com forno, placa e esquentador.\nLU nº65 da CML em 11/2/53.\nCondições: 2 meses de renda+ 1 mês de caução + fiador.",
+        "advertiser": "RE/MAX Collection Valor",
+        "status": "available",
+        "added_on": "2024-03-24 15:58"
     }
 ]

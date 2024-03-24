@@ -6,8 +6,9 @@
         "price": "1.650€/mês",
         "details": "T2 | 56 m² área bruta | sem elevador | 19 mar",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 12/04/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -16,8 +17,9 @@
         "price": "1.000€/mês",
         "details": "T0 | 40 m² área bruta | 4º andar com elevador | 19 mar",
         "description": "Arrenda-se apartamento T0 NOVO de Luxo, decorado com muito bom gosto e completamente equipado. Entrar e desfrutar:\n- Ar condicionado\n- Máquina lavar loiça\n- Máquina de lavar e secar roupa\n- Fogão\n- Forno\n- Micro-ondas\n- Loiça\n- Talheres\n- Panelas\n- Roupa de cama\n- Roupa de banho\n- Ferro\n- Tábua de passar\n- Secad",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -27,38 +29,42 @@
         "details": "T0 | 60 m² área bruta | 4º andar sem elevador | 18 mar",
         "description": "Hello everyone!\nWe have an studio available in Alfama.\nIn this Studio, furniture and various living equipment have been provided for you. This allows you to check in directly with your luggage.\nMost importantly, this Studio is located on the top floor of this historic building, which will give you unparalleled sea vi",
         "advertiser": "FEVA (Zodíaco Salutar LDA)",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
         "title": "Apartamento T2 na travessa Senhora Glória, 12, Graça, São Vicente",
         "link": "https://www.idealista.pt/imovel/33273973/",
         "price": "1.450€/mês",
-        "details": "T2 | 65 m² área bruta | 2º andar sem elevador | 16 mar",
+        "details": "T2 | 65 m² área bruta | 2º andar sem elevador",
         "description": "T2 para arrendamento. Travessa Senhora Glória, 12, Graça, Lisboa.\nO imóvel encontra-se mobilado. Situa se ao 2º piso. Este apartamento é luminoso e a rua é bastante calma. Foi recentemente pintado.\nO imóvel é composto por:\nUma sala de estar;\nUma cozinha equipada e funcional;\nUma suíte;\n1quarto;\nUma casa de banho e W",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
         "title": "Apartamento T1 na rua Natália Correia, 8, Graça, São Vicente",
         "link": "https://www.idealista.pt/imovel/33270335/",
         "price": "1.150€/mês",
-        "details": "T1 | 50 m² área bruta | 2º andar com elevador | 15 mar",
+        "details": "T1 | 50 m² área bruta | 2º andar com elevador",
         "description": "Nao quero mediaçao imobiliaria, obrigado.\nA agendar visitas para a semana de 1 a 5 de Abril.\nApartamento disponivel a partir de 22 de Abril.\nPor favor contactar preferencialmente na app idealista.\nT1 com garagem, virado a poente.\nSala com kitchnet totalmente equipada, excepto máquina lavar loiça. Tem zona de lavanda",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
         "title": "Apartamento T1 na rua de São Gens, Graça, São Vicente",
         "link": "https://www.idealista.pt/imovel/33270241/",
         "price": "1.000€/mês",
-        "details": "T1 | 75 m² área bruta | Rés do chão sem elevador | 14 mar",
+        "details": "T1 | 75 m² área bruta | Rés do chão sem elevador",
         "description": "T1 Fantástico com TERRAÇO.\nQuarto com roupeiro e espaço leitura ou para escritório, wc, cozinha e sala espaçosa com vista e ligação para JARDIM.\nZona muito tranquila, com serviços, transportes e comercio.\nMuito acessível, para trabalhar ou lazer, desfrute do que a Cidade tem para Oferecer.\nApartamento acolhedor, um",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -67,8 +73,9 @@
         "price": "2.250€/mês",
         "details": "T3 | 90 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento renovado em 2023, com 3 quartos e 1 casa de banho.\nTotalmente mobilado e equipado, incluindo electrodomésticos, utensílios de cozinha, roupas de cama e toalhas.\nO valor da renda inclui limpeza semanal.\nMuito bem localizado, a poucos metros do Miradouro da Senhora do Monte.\nRua calma, sem circulação de c",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -77,8 +84,9 @@
         "price": "1.700€/mês",
         "details": "T2 | 74 m² área bruta | 5º andar com elevador",
         "description": "T2 na Graça Com Expectacular Vista Rio\nTotalmente Remodelado\nVaranda\nJanelas PVC\nCozinha equipada\nPré Instalação de AC\nTransportes: Próximo a transportes públicos, facilitando o acesso a qualquer ponto da cidade.\nEste apartamento foi cuidadosamente projetado para proporcionar o máximo de conforto. Os dois quartos gar",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -87,8 +95,9 @@
         "price": "1.350€/mês",
         "details": "T2 | 74 m² área bruta | 1º andar com elevador",
         "description": "T2 na Graça\nVaranda\nJanelas PVC\nCozinha equipada e parcialmente mobilado\nTransportes: Próximo a transportes públicos, facilitando o acesso a qualquer ponto da cidade.\nEste apartamento foi cuidadosamente projetado para proporcionar o máximo de conforto. Os dois quartos garantem privacidade, enquanto a sala de estar aco",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -97,8 +106,9 @@
         "price": "2.700€/mês",
         "details": "T1 | 44 m² área bruta | 3º andar sem elevador",
         "description": "Este apartamento faz parte de um edifício histórico premiado totalmente renovado na tradicional Graça.\nUm elegante apartamento duplex de um quarto. No piso superior oferece um quarto ensuite com cama de casal, secretária e área de estar, que se abre para um incrível terraço mobilado, com vistas espetaculares para o ri",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -107,8 +117,9 @@
         "price": "2.100€/mês",
         "details": "T2 | 97 m² área bruta | Rés do chão sem elevador",
         "description": "Excelente T2 de alto padrão, totalmente mobiliado, sendo uma suite com closet, imóvel está situado no Largo da Graça, um dos lugares mais visitados de Lisboa, próximo do Miradouro da Graça, próximo ao Panteão, uma das melhores regiões para morar!\nPreferência para contrato a longo termo mínimo de 3 anos.\nNão é permitid",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -117,8 +128,9 @@
         "price": "1.250€/mês",
         "details": "T2 | 70 m² área bruta",
         "description": "Venha estrear vivenda T2 duplex remodelada, localizada em pátio típico, numa das zonas mais nobres e prestigiadas de Lisboa, a freguesia da Graça.\nEsta acolhedora vivenda é composta por:\n•Cozinha equipada com placa, forno exaustor e termoacumulador;\n•Duas casas de banho;\n•Dois quartos (1 deles com wc), ambos com roupei",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -128,8 +140,9 @@
         "details": "T3 | 82 m² área bruta | 1º andar sem elevador",
         "description": "Apartamento T3 com 2 Wcs na Rua dos Lagares 20\nEm plena Mouraria, A 50m do Funicular que vai direto para a Graça e a 5minutos do metro do Martim Moniz\nApartamento em ótimo estado de conservação num 3. º andar (sem elevador)\nComposto por:\nGrande cozinha equipada com placa a gás, forno, frigorífico, máquina de lav",
         "advertiser": "Casa Metade",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -139,8 +152,9 @@
         "details": "T2 | 80 m² área bruta | 1º andar com elevador",
         "description": "APARTAMENTO NA MOURARIA\nRua dos lagares, 22, em plena Mouraria, junto ao Funicular que vai inaugurar dia 8 de março de 2024, que lhe permite o acesso direto à Graça!\nApartamento completamente recuperado (com pouco uso) composto por:\nCozinha com 9.22m2 equipada com placa vitrocerâmica, forno, máquina de lavar loiça",
         "advertiser": "Casa Metade",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -148,9 +162,10 @@
         "link": "https://www.idealista.pt/imovel/33218376/",
         "price": "2.550€/mês",
         "details": "T4 | 135 m² área bruta | 3º andar com elevador",
-        "description": "T4 na Graça, Remodelado, composto por 3 quartos (1 suíte), 2 dos quartos têm varanda fechada, com proteção de vidros duplos, oscilobatente e estores elétricos nos quartos. Dispõe ainda de 2 salas, continuas, com varanda fechada (marquise) onde poderá criar espaços únicos de lazer e descanso ou fazer 1 quarto e uma sala",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "description": "T4 na Graça, transformado em T3 mas reversível (2 salas), Remodelado, composto por 3 quartos (1 suíte), 2 dos quartos têm varanda fechada, com proteção de vidros duplos, oscilobatente e estores elétricos nos quartos. Dispõe ainda de 2 salas, continuas, com varanda fechada (marquise) onde poderá criar espaços únicos de",
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -159,8 +174,9 @@
         "price": "2.300€/mês",
         "details": "T0 | 28 m² área bruta | 2º andar sem elevador",
         "description": "Este apartamento faz parte de um edifício histórico premiado totalmente renovado na tradicional Graça.\nAs extraordinárias vistas para o rio, janelas altas e varanda ensolarada oferecem uma experiência única e permitem que aproveite ao máximo a localização. Moderno e totalmente equipado, o apartamento estúdio acomoda",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -170,8 +186,9 @@
         "details": "T1 | 74 m² área bruta",
         "description": "Apartamento T1 - Arrendamento - Graça\nNo coração da do Bairro Historico da Graça, fica localizado este novo Projecto - Graça 67, um prédio de 2020 com excelentes pormenores e otimos acabamentos\nEste apartamento fica localizado no 4ª piso com duas frentes, tem imensa luz, um quanto com arrumação extremanete generoso, um",
         "advertiser": "RE/MAX Collection Siimgroup",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -181,8 +198,9 @@
         "details": "T2 | 56 m² área bruta | 3º andar sem elevador",
         "description": "TO RENT * T2 + VARANDA - GRAÇA\n+ INFO -\n56 m2\nPrédio sem elevador\nCasa mobilada\n3º andar sem elevador\nCozinha aberta equipada\n2 Quartos\n1 WC completo\nRoupeiros\nVidros duplos\nVaranda\nVista cidade\nSem garagem\nClasse energética: D\nREF: A154308\nHL\nApartamento mobilado, em pleno coração da Graça, ao lado do Miradouro da",
         "advertiser": "HomeLovers",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -192,8 +210,9 @@
         "details": "T2 | 65 m² área bruta | 2º andar sem elevador",
         "description": "Welcome to our exceptional 2 bedroom apartment in the prestigious location of Rua de São Gens, designed for those who crave luxurious living in the heart of Lisbon. Fully furnished and featuring all the amenities needed for comfortable living, this apartment is the perfect choice for those who value both style and conv",
         "advertiser": "HomeRun",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -202,8 +221,9 @@
         "price": "2.000€/mês",
         "details": "T1 | 65 m² área bruta | Rés do chão sem elevador",
         "description": "A partir de 1 mês de estadia até arrendamento de longa duração - Ideal para 2 pessoas\nApartamento mobiliado com 65 m2 e com um terraço de uso exclusivo de 70 m2\nFantástico apartamento T2 convertido num espaçoso e confortável T1 em plena Calçada do Monte, no Bairro da Graça.\nO Bairro da Graça é um dos bairros mais p",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -212,8 +232,9 @@
         "price": "1.400€/mês",
         "details": "T2 | 60 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 02/07/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -222,8 +243,9 @@
         "price": "1.400€/mês",
         "details": "T2 | 85 m² área bruta | 2º andar sem elevador",
         "description": "Apartamento duplex com vista sobre a cidade de Lisboa, de traça antiga, chão tábua corrida, 2 janelas velux, zona tranquila e perto de comércio local. Cozinha equipada com forno, fogão, exaustor e esquentador. Muito solarengo.",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -232,8 +254,9 @@
         "price": "1.250€/mês",
         "details": "T1 | 60 m² área bruta | com elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/07/2024\n- Duração Mínima de Aluguer: 60 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Não, para mais info",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -242,8 +265,9 @@
         "price": "1.350€/mês",
         "details": "T2 | 70 m² área bruta | 3º andar sem elevador",
         "description": "Um fantástico T2 com vista incrível do Castelo São Jorge to pequeno terraço. O pequeno terraço da sala de estar poente e o vistas do rio nascente da cozinha e da varanda. O luz natural inunda o apartamento totalmente remodelado e pronto a habitar. 2 meses de adiantamento e 1 caução com fiador. Sem fiador, 3 meses e 2 c",
-        "status": "available",
-        "added_on": "2024-03-21 01:13"
+        "status": "rented",
+        "added_on": "2024-03-21 01:13",
+        "rented on": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -368,8 +392,9 @@
         "details": "T1 | 67 m² área bruta",
         "description": "Apartamento T1 com varanda, na Calçada da Graça - Centro de Lisboa ( zona Histórica).\nApartamento T1, 3º andar, em edifício emblemático, de excelente construção, com manutenção da fachada histórica e apontamentos interiores em pedra original, situado em zona privilegiada do centro da cidade, com arquitetura exclusiva,",
         "advertiser": "Area Land Brokers",
-        "status": "available",
-        "added_on": "2024-03-21 01:14"
+        "status": "rented",
+        "added_on": "2024-03-21 01:14",
+        "rented on": "2024-03-23 13:40"
     },
     {
         "região": "graca",
@@ -512,7 +537,7 @@
         "link": "https://www.idealista.pt/imovel/33086147/",
         "price": "2.200€/mês",
         "details": "T0 | 50 m² área bruta | Rés do chão",
-        "description": "[PT] Disponível em: 01/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 01/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "description": "[PT] Disponível em: 16/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 16/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
         "status": "available",
         "added_on": "2024-03-21 01:14"
     },
@@ -554,7 +579,7 @@
         "link": "https://www.idealista.pt/imovel/32655867/",
         "price": "2.380€/mês",
         "details": "T3 | 85 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 21/03/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 09/06/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-21 01:14"
     },
@@ -606,7 +631,7 @@
         "link": "https://www.idealista.pt/imovel/32996259/",
         "price": "3.500€/mês",
         "details": "T3 | 140 m² área bruta | 2º andar sem elevador",
-        "description": "ATENÇÃO - O preço inclui todas as despesas (eletricidade, água, TV e internet por fibra optica)\nFantástico apartamento T2+1 com terraço privado de 40m2, totalmente mobilado, para arrendamento, na zona da Mouraria e Castelo de São Jorge. Imóvel bem localizado junto a comércio, supermercados a 5 minutos da baixa (Rossio",
+        "description": "ATENÇÃO - ESTE APARTAMENTO ESTARÁ DISPONÍVEL EM 1 DE AGOSTO - O preço inclui todas as despesas (eletricidade, água, TV e internet por fibra optica)\nFantástico apartamento T2+1 com terraço privado de 40m2, totalmente mobilado, para arrendamento, na zona da Mouraria e Castelo de São Jorge. Imóvel bem localizado junto a",
         "status": "available",
         "added_on": "2024-03-21 01:14"
     },
@@ -616,7 +641,7 @@
         "link": "https://www.idealista.pt/imovel/32669052/",
         "price": "2.160€/mês",
         "details": "T2 | 55 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 04/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 22/05/2024\n- Duração Mínima de Aluguer: 27 dias\n- Número Máximo de Hóspedes: 6\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-21 01:14"
     },
@@ -645,12 +670,14 @@
         "região": "graca",
         "title": "Apartamento T1 na rua da bela vista á graça, Graça, São Vicente",
         "link": "https://www.idealista.pt/imovel/32620556/",
-        "price": "1.250€/mês",
+        "price": "1.150€/mês",
         "details": "T1 | 60 m² área bruta | 1º andar sem elevador",
         "description": "T1 cozinha equipada e totalmente mobilado NOVOApartamento T1 Novo, cozinha equipada com placa vitroceramica, forno, maquina de lavar roupa, frigorifico, caldeira não tem gás, totalmente elétrico, totalmente mobilado A/C.\nEntrada em Dezembro de 2023.",
         "advertiser": "Pedro Martim Imobiliária",
         "status": "available",
-        "added_on": "2024-03-21 01:14"
+        "added_on": "2024-03-21 01:14",
+        "original price": "1.250€/mês",
+        "date of price update": "2024-03-24 18:57"
     },
     {
         "região": "graca",
@@ -658,7 +685,7 @@
         "link": "https://www.idealista.pt/imovel/32969659/",
         "price": "2.700€/mês",
         "details": "T3 | 65 m² área bruta | com elevador",
-        "description": "[PT] Disponível em: 20/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 20/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
+        "description": "[PT] Disponível em: 23/03/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 23/03/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST. COM?\nSpacest. com é uma plataforma online para alugueres de médio-longo pr",
         "status": "available",
         "added_on": "2024-03-21 01:14"
     },
@@ -839,7 +866,7 @@
         "title": "Apartamento T2 na rua do Vale de Santo António, Santa Engrácia, São Vicente",
         "link": "https://www.idealista.pt/imovel/33273303/",
         "price": "1.400€/mês",
-        "details": "T2 | 87 m² área bruta | 16 mar",
+        "details": "T2 | 87 m² área bruta",
         "description": "Apartamento T2 Duplex remodelado para arrendamento na Graça.\nImóvel parcialmente mobilado com vista lateral Rio, cozinha equipada, caixilharia com vidros duplos, quarto com roupeiro, numa rua com estacionamento nos dois lados da via, zona de comércio, serviços e transportes públicos à porta.\nMarque a sua visita!",
         "advertiser": "RE/MAX Duplo Impacto",
         "status": "available",
@@ -850,7 +877,7 @@
         "title": "Apartamento T2 em Santa Engrácia, São Vicente",
         "link": "https://www.idealista.pt/imovel/33270648/",
         "price": "2.100€/mês",
-        "details": "T2 | 76 m² área bruta | 15 mar",
+        "details": "T2 | 76 m² área bruta",
         "description": "Maravilhoso T2 equipado e mobilado, com terraço e pequena piscina!\nExcelente apartamento T2, totalmente renovado, chave na mão!\n* Mobilado e equipado\n* Cozinha equipada\n* Terraço com piscina\n* Ar condicionado\n* Muita luminosidade\nEste típico apartamento lisboeta onde se manteve toda a sua traça, em São Vicente, es",
         "advertiser": "RE/MAX Team",
         "status": "available",
@@ -935,7 +962,7 @@
         "link": "https://www.idealista.pt/imovel/32695036/",
         "price": "1.769€/mês",
         "details": "T2 | 80 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 31/03/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 14/06/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-21 01:15"
     },
@@ -964,12 +991,14 @@
         "região": "santa engracia",
         "title": "Apartamento T2 em Santa Engrácia, São Vicente",
         "link": "https://www.idealista.pt/imovel/33199309/",
-        "price": "1.300€/mês",
+        "price": "1.200€/mês",
         "details": "T2 | 74 m² área bruta | 3º andar sem elevador",
         "description": "Venha disfrutar de uma vista maravilhosa do rio Tejo, neste apartamento T2+1 no coração de Lisboa\nApartamento com muita luz natural, constituído por 4 assoalhadas: 2 quartos semi mobilados, 1 closet e 1 sala.\nCozinha totalmente equipada (forno, fogão, máquina lavar loiça, microondas, frigorífico, máquina lavar roupa e",
         "advertiser": "Century21 Cidade",
         "status": "available",
-        "added_on": "2024-03-21 01:15"
+        "added_on": "2024-03-21 01:15",
+        "original price": "1.300€/mês",
+        "date of price update": "2024-03-23 13:40"
     },
     {
         "região": "santa engracia",
@@ -1144,8 +1173,9 @@
         "price": "1.400€/mês",
         "details": "T1 | 70 m² área bruta | 1º andar sem elevador",
         "description": "",
-        "status": "available",
-        "added_on": "2024-03-21 01:15"
+        "status": "rented",
+        "added_on": "2024-03-21 01:15",
+        "rented on": "2024-03-24 16:36"
     },
     {
         "região": "santa engracia",
@@ -1253,17 +1283,18 @@
         "link": "https://www.idealista.pt/imovel/33274577/",
         "price": "920€/mês",
         "details": "T1 | 70 m² área bruta | 1º andar sem elevador | 17 mar",
-        "description": "Apartamento T1+1 mobilado e equipado.\nTem um quarto principal bastante luminoso, um quarto que pode ser escritório ou quarto de hóspedes e uma casa de banho completa com banheira.\nO apartamento conta com uma pequena varanda.\nPrédio sem elevador.\nUm dos bairros mais tradicionais de Lisboa onde o turista vê a vida l",
-        "status": "available",
-        "added_on": "2024-03-21 01:16"
+        "description": "RESERVADO\nApartamento T1+1 mobilado e equipado.\nTem um quarto principal bastante luminoso, um quarto que pode ser escritório ou quarto de hóspedes e uma casa de banho completa com banheira.\nO apartamento conta com uma pequena varanda.\nPrédio sem elevador.\nUm dos bairros mais tradicionais de Lisboa onde o turista",
+        "status": "rented",
+        "added_on": "2024-03-21 01:16",
+        "rented on": "2024-03-24 16:36"
     },
     {
         "região": "sao vicente de fora",
         "title": "Apartamento T1 em São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/32694817/",
         "price": "1.200€/mês",
-        "details": "T1 | 80 m² área bruta | sem elevador | 15 mar",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 03/04/2024\n- Duração Mínima de Aluguer: 60 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais info",
+        "details": "T1 | 80 m² área bruta | sem elevador",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/04/2024\n- Duração Mínima de Aluguer: 60 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais info",
         "status": "available",
         "added_on": "2024-03-21 01:16"
     },
@@ -1272,7 +1303,7 @@
         "title": "Apartamento T1, campo de Santa Clara, São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/33269357/",
         "price": "1.200€/mês",
-        "details": "T1 | 47 m² área bruta | Rés do chão sem elevador | 14 mar",
+        "details": "T1 | 47 m² área bruta | Rés do chão sem elevador",
         "description": "OPORTUNIDADE de ARRENDAMENTO - Apartamento T1+1 no coração de Alfama, remodelado a estrear, em frente ao Panteão Nacional.\nApartamento de 3 divisões assoalhadas, integralmente remodelado e a estrear, com cozinha parcialmente equipada, inserido no piso térreo com entrada independente de um edifício típico do Bairro de",
         "status": "available",
         "added_on": "2024-03-21 01:16"
@@ -1330,13 +1361,15 @@
     },
     {
         "região": "sao vicente de fora",
-        "title": "Apartamento T1, Outeirinho do Mirante, 5 - 7, São Vicente de Fora, São Vicente",
+        "title": "Apartamento T0, Outeirinho do Mirante, 5 - 7, São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/33243345/",
-        "price": "900€/mês",
-        "details": "T1 | 27 m² área bruta | Rés do chão sem elevador",
-        "description": "Estão disponiveis para arrendamento 2 apartamentos na Rua do Outeirinho do Mirante em Santa Apolónia.\nOs apartamentos ficam no rés-do-Chão (T0 com 25m2 com um terraço exterior de uso exclusivo de 13m2) e no primeiro andar (T1 com 27m2).\nTêm vidros duplos pelo que o interior é bastante silencioso e tranquilo.\nAmbos os",
+        "price": "850€/mês",
+        "details": "T0 | 27 m² área bruta | Rés do chão sem elevador",
+        "description": "Está disponivel para arrendamento um Estúdio / T0 na Rua do Outeirinho do Mirante em Santa Apolónia.\nO apartamento fica no rés-do-Chão tem 25m2 e um terraço privativo exterior de uso exclusivo de 13m2).\nTem vidros duplos pelo que o interior é bastante silencioso e tranquilo.\nO apartamento está totalmente remodelado",
         "status": "available",
-        "added_on": "2024-03-21 01:16"
+        "added_on": "2024-03-21 01:16",
+        "original price": "900€/mês",
+        "date of price update": "2024-03-24 16:37"
     },
     {
         "região": "sao vicente de fora",
@@ -1375,15 +1408,17 @@
         "região": "sao vicente de fora",
         "title": "Apartamento T1 em São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/32144865/",
-        "price": "1.000€/mês",
+        "price": "980€/mês",
         "details": "T1 | 50 m² área bruta | Rés do chão sem elevador",
         "description": "Simpático apartamento localizado no centro de Lisboa num fantástico largo exclusivo para moradores. Com entrada directa, tem um quarto, sala, cozinha e casa de banho, tudo equipado.\nZona com bastantes transportes, metro Santa Apolónia e Terreiro do Paço. Comércio de rua, supermercados, restaurantes, lojas, etc.\nCom a",
         "status": "available",
-        "added_on": "2024-03-21 01:16"
+        "added_on": "2024-03-21 01:16",
+        "original price": "1.000€/mês",
+        "date of price update": "2024-03-24 16:37"
     },
     {
         "região": "sao vicente de fora",
-        "title": "Apartamento T3 na rua do Paraíso, 1, São Vicente de Fora, São Vicente",
+        "title": "Apartamento T3 na rua do Paraíso, 69, São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/32677757/",
         "price": "2.500€/mês",
         "details": "T3 | 150 m² área bruta | 1º andar sem elevador",
@@ -1395,11 +1430,13 @@
         "região": "sao vicente de fora",
         "title": "Apartamento T1 na rua do mirante, s vicente, 33, São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/31158408/",
-        "price": "1.500€/mês",
+        "price": "1.400€/mês",
         "details": "T1 | 60 m² área bruta | 1º andar sem elevador",
         "description": "Disponivel julho 2022. Amplo apartamento T2 convertido em T1 a estrear. Totalmente renovado, mobilado e decorado. Sala espaçosa com kitchnette e wc social. Cozinha equipada. Suite com wc privativo. Excelente exposição solar. 1° andar em predio tranquilo de 3 andares com apenas 1 fração por piso. Todos os serviços e par",
         "status": "available",
-        "added_on": "2024-03-21 01:16"
+        "added_on": "2024-03-21 01:16",
+        "original price": "1.500€/mês",
+        "date of price update": "2024-03-24 04:48"
     },
     {
         "região": "sao vicente de fora",
@@ -1408,8 +1445,9 @@
         "price": "1.850€/mês",
         "details": "T3 | 134 m² área bruta | 3º andar com elevador",
         "description": "Apartamento T3 com varanda e deslumbrante vista de rio, soalheiro e com imensa luz, junto à estação de metro e de comboio de Santa Apolónia e próximo de supermercados, transportes e de todos os serviços.\nCozinha equipada com frigorífico, fogão, forno, micro-ondas e máquina de lavar roupa.\nTodas as divisões possuem ár",
-        "status": "available",
-        "added_on": "2024-03-21 01:16"
+        "status": "rented",
+        "added_on": "2024-03-21 01:16",
+        "rented on": "2024-03-24 04:47"
     },
     {
         "região": "sao vicente de fora",
@@ -1448,12 +1486,14 @@
         "região": "sao vicente de fora",
         "title": "Apartamento T2 no largo Doutor Bernardino António Gomes (Pai), s/n, São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/33208877/",
-        "price": "2.250€/mês",
+        "price": "2.400€/mês",
         "details": "T2 | 97 m² área bruta",
         "description": "Apartamento T2 para arrendamento em São Vicente com vista rio!\nEste imóvel encontra-se em bom estado de conservação e mobilado.\nComposto por:\nsala espaçosa;\n2 quarto;\n1 casa de banho com banheira;  \ncozinha com acesso a varanda;\n2 varandas uma delas vista rio;\ndespensa.\n \n Condições\n2 rendas + 2 caução\n \nMarque já",
         "advertiser": "RE/MAX G4 Cais",
         "status": "available",
-        "added_on": "2024-03-21 01:16"
+        "added_on": "2024-03-21 01:16",
+        "original price": "2.250€/mês",
+        "date of price update": "2024-03-23 13:41"
     },
     {
         "região": "sao vicente de fora",
@@ -1462,8 +1502,9 @@
         "price": "1.200€/mês",
         "details": "T2 | 80 m² área bruta | 4º andar sem elevador",
         "description": "Rent apartment T2 in Telheiro São Vicente, near Feira da Ladra, with a very nice view. Charming and cosy.",
-        "status": "available",
-        "added_on": "2024-03-21 01:16"
+        "status": "rented",
+        "added_on": "2024-03-21 01:16",
+        "rented on": "2024-03-24 04:47"
     },
     {
         "região": "sao vicente de fora",
@@ -1533,7 +1574,7 @@
         "link": "https://www.idealista.pt/imovel/33051574/",
         "price": "1.665€/mês",
         "details": "T2 | 80 m² área bruta | sem elevador",
-        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 10/07/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 02/07/2024\n- Duração Mínima de Aluguer: 28 dias\n- Número Máximo de Hóspedes: 4\n- Todas as Despesas Incluídas: Sim, para mais info",
         "status": "available",
         "added_on": "2024-03-21 01:16"
     },
@@ -1541,11 +1582,13 @@
         "região": "sao vicente de fora",
         "title": "Apartamento T1 em São Vicente de Fora, São Vicente",
         "link": "https://www.idealista.pt/imovel/33053640/",
-        "price": "1.000€/mês",
+        "price": "1.500€/mês",
         "details": "T1 | 50 m² área bruta | sem elevador",
         "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 01/04/2024\n- Duração Mínima de Aluguer: 180 dias\n- Número Máximo de Hóspedes: 3\n- Todas as Despesas Incluídas: Não, para mais inf",
         "status": "available",
-        "added_on": "2024-03-21 01:30"
+        "added_on": "2024-03-21 01:30",
+        "original price": "1.000€/mês",
+        "date of price update": "2024-03-23 13:41"
     },
     {
         "região": "sao vicente de fora",
@@ -1584,7 +1627,7 @@
         "link": "https://www.idealista.pt/imovel/33086064/",
         "price": "3.800€/mês",
         "details": "T2 | 58 m² área bruta | 1º andar",
-        "description": "[PT] Disponível em: 28/05/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 28/05/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
+        "description": "[PT] Disponível em: 22/08/2024.\nReserve em linha clicando abaixo do mapa em \"Ligação adicional\".\n[ENG] Available from: 22/08/2024.\nBook online by clicking on \"additional link\" under the map.\n*************\n[PT] COMO É QUE FUNCIONA O SPACEST.COM?\nSpacest.com é uma plataforma online para alugueres de médio-longo praz",
         "status": "available",
         "added_on": "2024-03-21 01:30"
     },
@@ -1698,5 +1741,145 @@
         "description": "T2 charmoso mobilado e decorado no campo santa clara, com vista sobre o rio e panteão.\nDisponivel a partir du 15 de Abril.",
         "status": "available",
         "added_on": "2024-03-21 01:30"
+    },
+    {
+        "região": "graca",
+        "title": "Apartamento T1 na travessa Pereira, 26, Graça, São Vicente",
+        "link": "https://www.idealista.pt/imovel/30093102/",
+        "price": "875€/mês",
+        "details": "T1 | 40 m² área bruta | Rés do chão sem elevador | Ontem",
+        "description": "ENTRADA: 01 Abril 2024\nDisponibilidade: Curta e Média duração\nNão respondemos a Agencias Imobiliárias e IPSS. Se estiver interessado, envie mensagem com a seguinte informação:\n1- quando quer entrar\n2- por quanto tempo\n3- breve descrição de si\n4- Quantas pessoas são\nNão iremos responder a mensagens automáticas de \"te",
+        "status": "rented",
+        "added_on": "2024-03-23 13:39",
+        "rented on": "2024-03-24 18:57"
+    },
+    {
+        "região": "graca",
+        "title": "Apartamento T1 em Graça, São Vicente",
+        "link": "https://www.idealista.pt/imovel/32327905/",
+        "price": "1.650€/mês",
+        "details": "T1 | 66 m² área bruta | com elevador | 22 mar",
+        "description": "Apartamento T1 sem móveis para arrendamento, com lugar de garagem e arrumos, localizado na colina mais alta de Lisboa, no Bairro da Graça. Apartamento inserido em edifício com vistas panorâmicas sobre a cidade, composto por: Sala/kitchenette totalmente equipada, quarto e uma casa de banho. Imóvel situado em zona histór",
+        "advertiser": "INS Portugal",
+        "status": "rented",
+        "added_on": "2024-03-23 13:39",
+        "rented on": "2024-03-24 18:57"
+    },
+    {
+        "região": "graca",
+        "title": "Apartamento T3 em Graça, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33286865/",
+        "price": "2.700€/mês",
+        "details": "T3 | 113 m² área bruta | com elevador | 22 mar",
+        "description": "Apartamento T3+1 com 112 m2 de área bruta privativa, totalmente reabilitado, na Graça, em Lisboa. O apartamento, inserido num prédio em placa, conta com 3 quartos, um escritório, uma sala de estar, cozinha totalmente equipada, zona de refeições, uma casa de banho completa e uma casa de banho social. O prédio tem possib",
+        "advertiser": "JLL Residential Portugal",
+        "status": "rented",
+        "added_on": "2024-03-23 13:39",
+        "rented on": "2024-03-24 18:57"
+    },
+    {
+        "região": "graca",
+        "title": "Apartamento T2 na travessa do Monte, Graça, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33285452/",
+        "price": "1.250€/mês",
+        "details": "T2 | 65 m² área bruta | 3º andar sem elevador | 22 mar",
+        "description": "Apartamento T2, totalmente mobilado e equipado, em terceiro andar sem elevador de prédio com localização privilegiada no magnífico Bairro da Graça.\nConstituído por cozinha equipada, sala virada para o Rio Tejo, dois quartos e wc. Todas as divisões estão integralmente mobiladas e equipadas para receber os novos inquili",
+        "status": "rented",
+        "added_on": "2024-03-23 13:39",
+        "rented on": "2024-03-24 18:57"
+    },
+    {
+        "região": "graca",
+        "title": "Apartamento T2 na rua Angelina Vidal, 1, Graça, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33283614/",
+        "price": "1.700€/mês",
+        "details": "T2 | 114 m² área bruta | 3º andar sem elevador | 21 mar",
+        "description": "Arrendamento de T2 na Penha de França (a 3 min. do Largo da Graça) - Não aceito contratos com agências imobiliárias\nApartamento T2 (antigo T4 convertido), com 98 m2 área bruta privativa, terraço de 16 m2 e varandas de 6 m2, localizado na Penha de França, em Lisboa.\nPrédio numa zona historica de Lisboa, com o Elétrico",
+        "status": "rented",
+        "added_on": "2024-03-23 13:39",
+        "rented on": "2024-03-24 18:57"
+    },
+    {
+        "região": "graca",
+        "title": "Apartamento T1 na rua Damasceno Monteiro, 58, Graça, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33259519/",
+        "price": "1.300€/mês",
+        "details": "T1 | 50 m² área bruta | Rés do chão sem elevador",
+        "description": "T1 na Graça com 73 m2\nPátio de 4 m2\nCozinha equipada\nSem mobília\nAquecimento\nCondições:\nContrato de 5 anos\n2 meses de caução + 2 meses de renda\nGarantia bancária ou fiador\nDisponível para entrada imediata\nNota: não quero ser contactada por agências imobiliárias.",
+        "status": "rented",
+        "added_on": "2024-03-23 13:39",
+        "rented on": "2024-03-24 18:57"
+    },
+    {
+        "região": "santa engracia",
+        "title": "Apartamento T2 na rua General Justiniano Padrel, Santa Engrácia, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33287054/",
+        "price": "1.200€/mês",
+        "details": "T2 | 83 m² área bruta | 2º andar sem elevador | 22 mar",
+        "description": "Condições de Arrendamento:\n2 rendas + caução de 1.000€\nApresentação de fiador é fator determinante\nApartamento com muita luz natural.\nRemodelado a \"estrear\" com intervenção na instalação elétrica, canalização e esgotos.\nPossui 2 quartos com roupeiros embutidos e ambos com varanda.\n1 casa de banho\nPossui um open-s",
+        "advertiser": "Agevel - Sociedade de Mediação Imobiliária, Unipessoal, Lda",
+        "status": "available",
+        "added_on": "2024-03-23 13:40"
+    },
+    {
+        "região": "santa engracia",
+        "title": "Apartamento T2 na rua da Bela Vista à Graça, Santa Engrácia, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33284073/",
+        "price": "1.950€/mês",
+        "details": "T2 | 80 m² área bruta | 1º andar sem elevador | 21 mar",
+        "description": "Por favor leia a descrição e contacte apenas poe email ou chat. Obrigada.\nApaixonado pelo rio, tal como pelo bairro onde se insere, este apartamento situa-se na Rua da Bela Vista, num prédio totalmente novo, cuja fachada mantém a traça original. Destaca-se pelo seu jardim privativo de 37m2, onde poderá desfrutar de mom",
+        "status": "available",
+        "added_on": "2024-03-23 13:40"
+    },
+    {
+        "região": "santa engracia",
+        "title": "Duplex na rua da Bela Vista à Graça, Santa Engrácia, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33283989/",
+        "price": "2.500€/mês",
+        "details": "T3 | 150 m² área bruta | 2º andar sem elevador | 21 mar",
+        "description": "Por favor contacte apenas pelo chat ou email. Obrigada.\nApaixonado pelo rio, tal como o bairro em que se insere, este apartamento fica situado na Rua da Bela Vista, num edifício totalmente novo, cuja fachada mantém a sua traça original. Ambos os pisos têm vista para o rio. O piso inferior inclui a sala de estar, cozinh",
+        "status": "available",
+        "added_on": "2024-03-23 13:40"
+    },
+    {
+        "região": "santa engracia",
+        "title": "Apartamento T1 na rua da Bela Vista à Graça, Santa Engrácia, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33283867/",
+        "price": "1.500€/mês",
+        "details": "T1 | 62 m² área bruta | 2º andar sem elevador | 21 mar",
+        "description": "A reabilitação urbana tem reinventado a Graça, mas este bairro jamais deixa de permanecer autêntico e fiel a si mesmo. A casa do Botequim, do Damas, do Má Língua, do Jardim da Cerca, a Oitava Colina dos miradouros e da arte urbana no seu esplendor, são agora vividos pelas novas gerações e culturas que habitam a cidade.",
+        "status": "available",
+        "added_on": "2024-03-23 13:40"
+    },
+    {
+        "região": "santa engracia",
+        "title": "Apartamento T1 em Santa Engrácia, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33203923/",
+        "price": "990€/mês",
+        "details": "T1 | 50 m² área bruta | 1º andar sem elevador",
+        "description": "Apartamento inteiramente remodelado, pronto a habitar, situado num prédio em bom estado geral, no centro de Lisboa,\nO bairro da Graça é um espaço da história de Lisboa, situa-se junto ao Castelo de São Jorge e de dois conhecidos miradouros, o Miradouro da Graça e o Miradouro da Senhora do Monte.\nApartamento contém:",
+        "advertiser": "Lux'Inn",
+        "status": "available",
+        "added_on": "2024-03-23 13:40"
+    },
+    {
+        "região": "santa engracia",
+        "title": "Apartamento T1 em Santa Engrácia, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33039237/",
+        "price": "1.400€/mês",
+        "details": "T1 | 50 m² área bruta | sem elevador",
+        "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\nPara obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”.\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n- Data de Disponibilidade: 21/07/2024\n- Duração Mínima de Aluguer: 30 dias\n- Número Máximo de Hóspedes: 2\n- Todas as Despesas Incluídas: Sim, para mais info",
+        "status": "available",
+        "added_on": "2024-03-23 13:40"
+    },
+    {
+        "região": "sao vicente de fora",
+        "title": "Apartamento T1, Calçada do Tijolo, São Vicente de Fora, São Vicente",
+        "link": "https://www.idealista.pt/imovel/33284994/",
+        "price": "950€/mês",
+        "details": "T1 | 38 m² área bruta | 1º andar sem elevador | 21 mar",
+        "description": "Este apartamento recém-renovado está localizado em uma das áreas mais privilegiadas de Lisboa, a Alfama. Está a apenas 12 minutos a pé da estação de comboios e metro de Santa Apolónia e a 15 minutos a pé do Terreiro do Paço. Tem aind a paragem do famoso elétrico número 28 em frente à rua do prédio.\nCom 38 m² de área b",
+        "status": "available",
+        "added_on": "2024-03-23 13:41"
     }
 ]
